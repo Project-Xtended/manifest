@@ -13,9 +13,13 @@
            sync-c="true"
            sync-j="8" />
 
+  <remote  name="xtended"
+           fetch="https://github.com/Project-Xtended"
+		   revision="xtended" />
+
   <!-- GZOSP -->
-  <project path="manifest" name="manifest" remote="gzosp" />
-  <project path="build/make" name="build" remote="gzosp" >
+  <project path="manifest" name="manifest" remote="xtended" />
+  <project path="build/make" name="build" remote="xtended" >
     <copyfile src="core/root.mk" dest="Makefile" />
     <linkfile src="CleanSpec.mk" dest="build/CleanSpec.mk" />
     <linkfile src="buildspec.mk.default" dest="build/buildspec.mk.default" />
@@ -24,16 +28,16 @@
     <linkfile src="target" dest="build/target" />
     <linkfile src="tools" dest="build/tools" />
   </project>
-  <project path="build/kati" name="build_kati" groups="pdk,tradefed" remote="gzosp" />
-  <project path="build/soong" name="build_soong" groups="pdk,tradefed" remote="gzosp" >
+  <project path="build/kati" name="build_kati" groups="pdk,tradefed" remote="xtended" />
+  <project path="build/soong" name="build_soong" groups="pdk,tradefed" remote="xtended" >
     <linkfile src="root.bp" dest="Android.bp" />
     <linkfile src="bootstrap.bash" dest="bootstrap.bash" />
   </project>
 
-  <project path="bionic" name="bionic" groups="pdk" remote="gzosp" />
+  <project path="bionic" name="bionic" groups="pdk" remote="xtended" />
   <project path="bootable/recovery" name="bootable_recovery" groups="pdk" remote="gzosp" />
   <project path="development" name="development" groups="pdk-cw-fs,pdk-fs" remote="gzosp" />
-  <project path="device/gzosp/sepolicy" name="device_gzosp_sepolicy" remote="gzosp" />
+  <project path="device/xtended/sepolicy" name="device_xtended_sepolicy" remote="xtended" />
   <project path="external/connectivity" name="external_connectivity" groups="pdk" remote="gzosp" />
   <project path="external/ebtables" name="external_ebtables" groups="pdk" remote="gzosp" />
   <project path="external/exfat" name="external_exfat" remote="gzosp" />
@@ -49,13 +53,13 @@
   <project path="external/selinux" name="external_selinux" groups="pdk" remote="gzosp" />
   <project path="external/toybox" name="external_toybox" groups="pdk" remote="gzosp" />
   <project path="external/wpa_supplicant_8" name="external_wpa_supplicant_8" groups="pdk" remote="gzosp" />
-  <project path="frameworks/av" name="frameworks_av" groups="pdk" remote="gzosp" />
-  <project path="frameworks/base" name="frameworks_base" remote="gzosp" />
+  <project path="frameworks/av" name="frameworks_av" groups="pdk" remote="xtended" />
+  <project path="frameworks/base" name="frameworks_base" remote="xtended" />
   <project path="frameworks/native" name="frameworks_native" groups="pdk" remote="gzosp" />
   <project path="frameworks/opt/net/wifi" name="frameworks_opt_net_wifi" groups="pdk" remote="gzosp" />
   <project path="frameworks/opt/telephony" name="frameworks_opt_telephony" groups="pdk" remote="gzosp" />
-  <project path="hardware/gzosp/interfaces" name="hardware_gzosp_interfaces" remote="gzosp" >
-      <copyfile dest="hardware/gzosp/Android.bp" src="Android.bp"/>
+  <project path="hardware/xtended/interfaces" name="hardware_xtended_interfaces" remote="xtended" >
+      <copyfile dest="hardware/xtended/Android.bp" src="Android.bp"/>
   </project>
   <project path="hardware/broadcom/libbt" name="hardware_broadcom_libbt" groups="pdk" remote="gzosp" />
   <project path="hardware/interfaces" name="hardware_interfaces" groups="pdk" remote="gzosp" />
@@ -64,13 +68,12 @@
   <project path="hardware/qcom/bootctrl" name="hardware_qcom_bootctrl" groups="pdk" remote="gzosp" />
   <project path="hardware/ril" name="hardware_ril" groups="pdk" remote="gzosp" />
   <project path="packages/apps/Bluetooth" name="packages_apps_Bluetooth" groups="pdk-cw-fs,pdk-fs" remote="gzosp" />
-  <project path="packages/apps/Camera2" name="packages_apps_Camera2" groups="pdk-fs" remote="gzosp" />
   <project path="packages/apps/DeskClock" name="packages_apps_DeskClock" groups="pdk-fs" remote="gzosp" />
   <project path="packages/apps/Dialer" name="packages_apps_Dialer" groups="pdk-fs" remote="gzosp" />
   <project path="packages/apps/FMRadio" name="packages_apps_FMRadio" remote="gzosp" />
   <project path="packages/apps/Gallery2" name="packages_apps_Gallery2" groups="pdk-fs" remote="gzosp" />
   <project path="packages/apps/Launcher3" name="packages_apps_Launcher3" groups="pdk-fs" remote="gzosp" />
-  <project path="packages/apps/Settings" name="packages_apps_Settings" groups="pdk-fs" remote="gzosp" />
+  <project path="packages/apps/Settings" name="packages_apps_Settings" groups="pdk-fs" remote="xtended" />
   <project path="packages/inputmethods/LatinIME" name="packages_inputmethods_LatinIME" groups="pdk-fs" remote="gzosp" />
   <project path="packages/apps/PackageInstaller" name="packages_apps_PackageInstaller" groups="pdk-cw-fs,pdk-fs" remote="gzosp" />
   <project path="packages/apps/Nfc" name="packages_apps_Nfc" groups="apps_nfc,pdk-fs" remote="gzosp" />
@@ -91,6 +94,6 @@
   <project path="system/sepolicy" name="system_sepolicy" groups="pdk" remote="gzosp" />
   <project path="system/update_engine" name="system_update_engine" groups="pdk" remote="gzosp" />
   <project path="system/vold" name="system_vold" groups="pdk" remote="gzosp" />
-  <project path="vendor/gzosp" name="vendor_gzosp" remote="gzosp" />
+  <project path="vendor/xtended" name="vendor_xtended" remote="xtended" />
 
 </manifest>
