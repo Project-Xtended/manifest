@@ -14,6 +14,7 @@
 * BOOM! goes the dynamite
 [/CODE][/CENTER]
 
+[INDENT]
 [SIZE="5"]Feature List:[/SIZE]
 NOTE: Forgive me if I forgot anything. I am lazy AF
 
@@ -30,6 +31,7 @@ NOTE: Forgive me if I forgot anything. I am lazy AF
 * Swipe to Delete Text Messages
 
 [COLOR="#1976D2"][U]Display[/U][/COLOR]
+* Always On Display
 * Ambient display
 * Night light brightness mode options
 * Color Manager
@@ -165,7 +167,7 @@ NOTE: Forgive me if I forgot anything. I am lazy AF
 - [B]Reboot and ENJOY!![/B][/SIZE]
 [/HIDE]
 
-[SIZE="5"][B]Downloads[/B][/SIZE]
+[SIZE="5"][U][B]Downloads[/B][/U][/SIZE]
 
 [B]Download ROM:[/B] [URL="XYZABCD.COM"] MSM-Xtended [/URL]
 
@@ -187,7 +189,7 @@ NOTE: Forgive me if I forgot anything. I am lazy AF
 
 [B]Telegram Group[/B] - [B][URL="https://t.me/XtendedOfficial"]MSM-X Telegram Public Group[/URL][/B]
 
-[B][SIZE="5"]Credit and Thanks:[/SIZE][/B]
+[U][B][SIZE="5"]Credit and Thanks:[/SIZE][/B][/U]
 [HIDE]
 
 We would like to give thanks to everyone in the Android community, big or small.
@@ -210,14 +212,14 @@ That said, we would like to THANK to....
 **[B][SIZE="4"]If we have left someone or some team, we apologize and please PM us. We would be very happy to include your name as well.[/SIZE][/B]**
 
 [U][B][SIZE="4"]Our TEAM XTENDED[/U][/B][/SIZE]
-@mukesh22584 (Project Owner Saviour/Developer)
-@SuperDroidBond : The Ego Man
-@mady51(Project Owner/Kernel Developer & Maintainer)
-@svandasek(Graphics Designer / Devloper & Feature Integrator)
-@Ded_Boi (Devloper & Feature Integrator)
-@Dhairya (Tester & Motivator)
-@Babloo289 (Tester & Motivator)
-@ps_minky16 (Tester & Motivator)
+[MENTION=5678679]@mukesh22584[/MENTION] (Project Owner Saviour/Developer)
+[MENTION=8829870]@SuperDroidBond[/MENTION] : The Ego Man
+[MENTION=7072514]@mady51[/MENTION](Project Owner / Kernel Developer & Maintainer)
+[MENTION=7077053]@svandasek[/MENTION](Graphics Designer / Devloper & Feature Integrator)
+[MENTION=7107153]@Ded_Boi[/MENTION] (Developer & Feature Integrator)
+[MENTION=5286475]@Dhairya[/MENTION] (Tester & Motivator)
+[MENTION=5992364]@Babloo289[/MENTION] (Tester & Motivator)
+[MENTION=6927767]@ps_minky16[/MENTION] (Tester & Motivator)
 Chris Kendall (Tester)
 Lu Han (Tester)
 Everyone Else from the Testing Team & Userbase using & sharing feedback for improvements
@@ -235,3 +237,4 @@ Everyone Else from the Testing Team & Userbase using & sharing feedback for impr
 2) Please Use Paid Themes preferably, so that Substratum Dev can keep on their good work.
 3) If you earn well, then don't hesitate to donate a few $$ to real Teams who do real coding. Its token of appreciation for them and will keep them motivated.
 [/SIZE]
+[/INDENT]
