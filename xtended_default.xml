@@ -56,7 +56,7 @@
   <project path="external/wpa_supplicant_8" name="external_wpa_supplicant_8" groups="pdk" remote="gzosp" />
   <project path="frameworks/av" name="frameworks_av" groups="pdk" remote="xtended" />
   <project path="frameworks/base" name="frameworks_base" remote="xtended" />
-  <project path="frameworks/native" name="frameworks_native" groups="pdk" remote="gzosp" />
+  <project path="frameworks/native" name="frameworks_native" groups="pdk" remote="xtended" />
   <project path="frameworks/opt/net/wifi" name="frameworks_opt_net_wifi" groups="pdk" remote="gzosp" />
   <project path="frameworks/opt/telephony" name="frameworks_opt_telephony" groups="pdk" remote="gzosp" />
   <project path="hardware/xtended/interfaces" name="hardware_xtended_interfaces" remote="xtended" >
