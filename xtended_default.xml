@@ -17,7 +17,7 @@
            fetch="https://github.com/Project-Xtended"
 		   revision="xtended" />
 
-  <!-- GZOSP -->
+  <!-- Xtended -->
   <project path="manifest" name="manifest" remote="xtended" />
   <project path="build/make" name="build" remote="xtended" >
     <copyfile src="core/root.mk" dest="Makefile" />
@@ -34,6 +34,7 @@
     <linkfile src="bootstrap.bash" dest="bootstrap.bash" />
   </project>
 
+  <project path="art" name="art" groups="pdk" remote="xtended" />
   <project path="bionic" name="bionic" groups="pdk" remote="xtended" />
   <project path="bootable/recovery" name="bootable_recovery" groups="pdk" remote="gzosp" />
   <project path="development" name="development" groups="pdk-cw-fs,pdk-fs" remote="gzosp" />
