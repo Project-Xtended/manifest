@@ -14,31 +14,45 @@
 * BOOM! goes the dynamite
 [/CODE][/CENTER]
 
-[INDENT]
 [SIZE="5"]Feature List:[/SIZE]
 NOTE: Forgive me if I forgot anything. I am lazy AF
 
 [B]MSM-Xtended V1.5 [/B]
 
+[B][COLOR="#1976D2"][U]OnePlus Devices Only[/U][/COLOR][/B]
+[HIDE]
+[B][COLOR="#1976D2"][U]Device Features[/U][/COLOR][/B]
+* Gesture Panel
+* Alert Slider (Ring, Vibrate, All Notification, Priority, Alarms Only & Total Silence)
+* DT2W toggle
+* Swap Back-Recents toggle
+* Vibration Strength Slider
+* Graphics Panel (sRGB, HBM, OnePlus Mode & Wide Gamot Mode)
+[/HIDE]
+
+[B][COLOR="#1976D2"][U]All Devices[/U][/COLOR][/B]
+
 [COLOR="#1976D2"][U]General[/U][/COLOR]
 * Android 8.1
-* Security Update: 05 February 2018
+* Security Update: Always Latest
 * New Xtended Wallpaper
 * New Bootanimations
 * GCam with Portrait Mode Working
-* Amir's Pixel 2 Launcher
+* Bootlegger's Pixel 2 Launcher
 * Dailer Proximity
 * Swipe to Delete Text Messages
 
 [COLOR="#1976D2"][U]Display[/U][/COLOR]
-* Always On Display
 * Ambient display
 * Night light brightness mode options
+* Expanded Desktop
 * Color Manager
+* DU Font Manager (Extra Fonts)
 
 [B][COLOR="#1976D2"][U]Settings[/U][/COLOR][/B]
 * Reset battery stats
 * Charging Alerts Toggle (Vibration & Sound)
+* Optimal Charging Alert
 * Screenshot sound toggle
 * Volume Steps
 * Increasing Ring Tone
@@ -48,13 +62,12 @@ NOTE: Forgive me if I forgot anything. I am lazy AF
 
 [COLOR="#1976D2"][B][U][SIZE="4"]===> Xtended Options (Xtensions of Xtended) Includes <===[/SIZE][/U][/B][/COLOR]
 
-[B][COLOR="#1976D2"][U]Device Features[/U][/COLOR][/B]
-* Gesture Panel
-* Alert Slider (Ring, Vibrate, All Notification, Priority, Alarms Only & Total Silence)
-* DT2W Switch
-* Swap Back-Recents Switch
-* Vibration Strength Slider
-* Graphics Panel (sRGB, HBM & Wide Gamot Mode)
+[B][COLOR="#1976D2"][U]Animations[/U][/COLOR][/B]
+* P Animation Toggle
+* Scrolling Cache
+* System Wide Animations
+* Toast Animation
+* Listview & Interpolator Animations
 
 [B][COLOR="#1976D2"][U]Buttons [/U][/COLOR][/B]
 * Volume Key Customization
@@ -73,15 +86,24 @@ NOTE: Forgive me if I forgot anything. I am lazy AF
 * Status Bar Double Tap Sleep
 * Lockscreen Double Tap Sleep
 * Double Press Power Button for Torch
+* Carbon Gestures
+* 3 Finger Screenshot
+* Gesture Anywhere
+* Pocket Mode
 
 [B][COLOR="#1976D2"][U]Lock screen[/U][/COLOR][/B]
 * Media cover art toggle
 * FP Vibration
 * FP Unlock on Reboot
 * Lockscreen battery info
-* Lockscreen Clock Font Customization
+* Lockscreen Clock Font & Size Customization
+* Lockscreen Date Font & Size Customization
+* Lockscreen & Bouncer Alpha Customization
+* Lockscreen Items Colorization Options
+* Lockscreen Items Toggle Options
 * Display weather on lockscreen
 * Lockscreen Shortcuts
+* Screen-Off Animation
 * Face Auto Unlock Toggle
 
 [B][COLOR="#1976D2"][U]Navigation bar[/U][/COLOR][/B]
@@ -96,8 +118,11 @@ NOTE: Forgive me if I forgot anything. I am lazy AF
 * Ambient Music Ticker
 * Heads Up
 * Battery & Charging Light Customization
-* Toast app icon switch
-* Vibrate on connect, answer & hangup switch
+* Notification Light Customization
+* Toast app icon toggle
+* Toast app icon color
+* Toast app text color
+* Vibrate on connect, answer & hangup toggle
 
 [B][COLOR="#1976D2"][U]Powermenu[/U][/COLOR][/B]
 * Advance Reboot
@@ -108,11 +133,14 @@ NOTE: Forgive me if I forgot anything. I am lazy AF
 * Clear all FAB
 * Clear all FAB location
 * Show memory bar
+* Recents Layout (Grid, Stock or AndroidGo)
+* Deep Clear Toggle
+* Icon Pack Option
 * Immersive Recents
 * Hidden Apps
 
 [B][COLOR="#1976D2"][U]Status bar[/U][/COLOR][/B]
-* Network Traffic
+* Network Traffic (Type,Units,Interval,Auto Hide, etc)
 * Battery Customizations (Battery bar, Percentage)
 * Brightness Control
 * Double tap to sleep (Statusbar + Lockscreen)
@@ -128,6 +156,7 @@ NOTE: Forgive me if I forgot anything. I am lazy AF
 * No QS on Secure Lockscreen
 * Vibrate on Touch Toggle
 * QS Tile Titles Toggle
+* QS Transparency Option
 
 [B][COLOR="#1976D2"][U]QS Tiles[/U][/COLOR][/B]
 * Sound QS tile
@@ -141,14 +170,24 @@ NOTE: Forgive me if I forgot anything. I am lazy AF
 * Music Search QS Tile
 * Screenrecord QS Tile
 * CPU Info QS Tile
-* HW Keys QS Toggle
+* HW Keys QS Tile
+* AOD QS Tile
+* Smart Pixels Tile
 * Add/Remove tiles with one touch                                                                                                             
 
 [B][COLOR="#1976D2"][U]Xtra Option[/U][/COLOR][/B]
 * Wakelock Blocker
 * Alarms Blocker
 * App Ops
+* Suspended Actions
+* Time In State
+* Doze Settings
+* FC Notification Toggle
+* Media Scanner on Boot Option
+* Sensor Block Per Package Toggle
+* Screenshot Type (Partial/Full)
 * CPU Info Toggle
+* Smart Pixels
 
 [SIZE="5"]Flashing Instructions:[/SIZE]
 [HIDE]
@@ -165,31 +204,31 @@ NOTE: Forgive me if I forgot anything. I am lazy AF
 - [B]Flash Magisk / SuperSU if you want root[/B]
 
 - [B]Reboot and ENJOY!![/B][/SIZE]
-[/HIDE]
 
-[SIZE="5"][U][B]Downloads[/B][/U][/SIZE]
+[SIZE="5"][B]Downloads[/B][/SIZE]
 
-[B]Download ROM:[/B] [URL="XYZABCD.COM"] MSM-Xtended [/URL]
+[B]Download ROM:[/B] [URL="https://sourceforge.net/projects/xtended/files/oneplus3/"] MSM-Xtended [/URL]
 
-[B]Mirror:[/B] [URL="AFH_XYZABCD.COM"] MSM-Xtended Mirror [/URL]
-
-[B]Download Gapps Package:[/B] [URL="https://opengapps.org/"] Open Gapps (Recommended Nano or Micro) [/URL]
+[B]Download Gapps Package:[/B] [URL="https://opengapps.org/"] Gapps Official (Recommended Nano) [/URL]
 
 **[B][COLOR="Red"][SIZE="3"]If you fail to follow these instructions, please don't bother reporting any bugs[/SIZE][/COLOR][/B]**
 
 **[B][COLOR="Red"][SIZE="3"]If you use Xposed, please don't bother reporting any bugs[/SIZE][/COLOR][/B]**
 
 **[B][COLOR="Red"][SIZE="3"]If you use another kernel, please don't bother reporting any bugs[/SIZE][/COLOR][/B]**
+[/HIDE]
 
 [SIZE="5"][B][U]Other Links:[/U][/B][/SIZE]
 
 [B]ROM Source[/B] - [B][URL="https://github.com/Project-Xtended"]Project-Xtended Source Codes[/URL][/B]
 
-[B]Kernel Source[/B]: [B][URL="XYZABCD.COM"]Default Kernel[/URL][/B]
+[SIZE="5"]Kernel Source:[/SIZE] [B][URL="//github.com/mady51/gzosp-base"]Mady's Kernel[/URL][/B]
 
 [B]Telegram Group[/B] - [B][URL="https://t.me/XtendedOfficial"]MSM-X Telegram Public Group[/URL][/B]
 
-[U][B][SIZE="5"]Credit and Thanks:[/SIZE][/B][/U]
+[B]G+ Community[/B] - [B][URL="https://plus.google.com/u/1/communities/104070483402051093195"]MSM-X G+ Group[/URL][/B]
+
+[B][SIZE="5"]Credit and Thanks:[/SIZE][/B]
 [HIDE]
 
 We would like to give thanks to everyone in the Android community, big or small.
@@ -207,11 +246,14 @@ That said, we would like to THANK to....
 * [SIZE="3"][B]Screwd AOSP[/SIZE][/B] [URL]https://github.com/ScrewdAOSP[/URL]
 * [SIZE="3"][B]CypherOS[/SIZE][/B] [URL]https://github.com/CypherOS/[/URL]
 * [SIZE="3"][B]Liquid Remix[/SIZE][/B] [URL]https://github.com/LiquidRemix/[/URL]
+* [SIZE="3"][B]Benzo ROM[/SIZE][/B] [URL]https://github.com/BenzoROM/[/URL]
+* [SIZE="3"][B]	BootLeggers ROM[/SIZE][/B] [URL]https://github.com/bootleggersrom/[/URL]
 [/HIDE]
 
 **[B][SIZE="4"]If we have left someone or some team, we apologize and please PM us. We would be very happy to include your name as well.[/SIZE][/B]**
 
-[U][B][SIZE="4"]Our TEAM XTENDED[/U][/B][/SIZE]
+[U][B][SIZE="4"]Our own The TEAM XTENDED[/U][/B][/SIZE]
+
 [MENTION=5678679]@mukesh22584[/MENTION] (Project Owner Saviour/Developer)
 [MENTION=8829870]@SuperDroidBond[/MENTION] : The Ego Man
 [MENTION=7072514]@mady51[/MENTION](Project Owner / Kernel Developer & Maintainer)
@@ -225,16 +267,18 @@ Lu Han (Tester)
 Everyone Else from the Testing Team & Userbase using & sharing feedback for improvements
 
 [U][B][SIZE="4"]Special Thanks & Credits[/U][/B][/SIZE]
-[SIZE="4"]
-@Rakesh.Batra - Our Teacher. Learned a lot from you Dada
-@zenixx & @skulshaddy - You guys been a great help
+@rakeshbatra - Our Teacher. Learned a lot from you Dada
+@zenixxx & @SKULSHADY - You guys been a great help
 @NoSpamDan - Thanks for the emergency helps & inputs
-[/SIZE]
+
+
 [U][B][SIZE="4"]XTENDED NOTE:-[/U][/B][/SIZE]
 
-[SIZE="3"]
+[SIZE="4"][B]Donations Are Always Helpful. Will appreciate if you all can.[/SIZE][/B] [URL]https://forum.xda-developers.com/donatetome.php?u=8829870[/URL]
+
+[SIZE="4"]
 1) Please do not use TiB. If you want use then try Swift Backup.
 2) Please Use Paid Themes preferably, so that Substratum Dev can keep on their good work.
-3) If you earn well, then don't hesitate to donate a few $$ to real Teams who do real coding. Its token of appreciation for them and will keep them motivated.
+3) [B]If you want to try a new theme, try "Valerie" by bro [MENTION=3294577]@DeadmanxXD[/MENTION]. It's been my favourite ever since I tried it.[/B]
+4) If you earn well, then don't hesitate to donate a few $$. Its token of appreciation and will keep motivated.
 [/SIZE]
-[/INDENT]
