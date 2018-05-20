@@ -17,7 +17,7 @@
 [SIZE="5"]Feature List:[/SIZE]
 NOTE: Forgive me if I forgot anything. I am lazy AF
 
-[B]MSM-Xtended V1.5 [/B]
+[B]MSM-Xtended V2.0 [/B]
 
 [B][COLOR="#1976D2"][U]OnePlus Devices Only[/U][/COLOR][/B]
 [HIDE]
@@ -37,7 +37,6 @@ NOTE: Forgive me if I forgot anything. I am lazy AF
 * Security Update: Always Latest
 * New Xtended Wallpaper
 * New Bootanimations
-* GCam with Portrait Mode Working
 * Bootlegger's Pixel 2 Launcher
 * Dailer Proximity
 * Swipe to Delete Text Messages
@@ -48,6 +47,7 @@ NOTE: Forgive me if I forgot anything. I am lazy AF
 * Expanded Desktop
 * Color Manager
 * DU Font Manager (Extra Fonts)
+* 5 Steps Display Size Customization
 
 [B][COLOR="#1976D2"][U]Settings[/U][/COLOR][/B]
 * Reset battery stats
@@ -81,6 +81,7 @@ NOTE: Forgive me if I forgot anything. I am lazy AF
 * Carrier Label
 * Status Bar Clock Customization
 * Status Bar Battery Customization
+* Status Bar Weather Customization
 
 [B][COLOR="#1976D2"][U]Gestures[/U][/COLOR][/B]
 * Status Bar Double Tap Sleep
@@ -100,7 +101,9 @@ NOTE: Forgive me if I forgot anything. I am lazy AF
 * Lockscreen Date Font & Size Customization
 * Lockscreen & Bouncer Alpha Customization
 * Lockscreen Items Colorization Options
-* Lockscreen Items Toggle Options
+* Lockscreen Items Toggle 
+* Lockscreen Indication Toggle
+* Lockscreen Icon Toggle
 * Display weather on lockscreen
 * Lockscreen Shortcuts
 * Screen-Off Animation
@@ -117,6 +120,8 @@ NOTE: Forgive me if I forgot anything. I am lazy AF
 [B][COLOR="#1976D2"][U]Notifications[/U][/COLOR][/B]
 * Ambient Music Ticker
 * Heads Up
+* Notification Ticker & Animation Customization
+* Force Expanded Notification Toggle
 * Battery & Charging Light Customization
 * Notification Light Customization
 * Toast app icon toggle
@@ -143,7 +148,6 @@ NOTE: Forgive me if I forgot anything. I am lazy AF
 * Network Traffic (Type,Units,Interval,Auto Hide, etc)
 * Battery Customizations (Battery bar, Percentage)
 * Brightness Control
-* Double tap to sleep (Statusbar + Lockscreen)
 * Status Bar Items (Toggles Options)
 * Input Selector Notification
 * ADB Notification
@@ -156,7 +160,12 @@ NOTE: Forgive me if I forgot anything. I am lazy AF
 * No QS on Secure Lockscreen
 * Vibrate on Touch Toggle
 * QS Tile Titles Toggle
+* Notification Guts Kill Button Toggle
 * QS Transparency Option
+* QS Header Option
+* QS Mini Header Option
+* QS Panel Carrier Label & Clock Toggle to show/hide
+* QS Brightness Slider Top/Bottom Position Toggle
 
 [B][COLOR="#1976D2"][U]QS Tiles[/U][/COLOR][/B]
 * Sound QS tile
@@ -173,6 +182,9 @@ NOTE: Forgive me if I forgot anything. I am lazy AF
 * HW Keys QS Tile
 * AOD QS Tile
 * Smart Pixels Tile
+* Weather Tile
+* Google Assist Tile
+* Read Mode Tile
 * Add/Remove tiles with one touch                                                                                                             
 
 [B][COLOR="#1976D2"][U]Xtra Option[/U][/COLOR][/B]
@@ -196,18 +208,14 @@ NOTE: Forgive me if I forgot anything. I am lazy AF
 
 - [B]Perform a FULL WIPE as described below if coming from another ROM or a different version of Android[/B]
    (A full wipe is when you wipe System + Data + Cache + Dalvik ART Cache)
-
 - [B]Flash the latest version of the ROM[/B]
-
 - [B]Flash recommended GAPPS linked below[/B]
-
 - [B]Flash Magisk / SuperSU if you want root[/B]
-
 - [B]Reboot and ENJOY!![/B][/SIZE]
 
 [SIZE="5"][B]Downloads[/B][/SIZE]
 
-[B]Download ROM:[/B] [URL="https://sourceforge.net/projects/xtended/files/oneplus3/"] MSM-Xtended [/URL]
+[B]Download ROM:[/B] [URL="http://bit.ly/xtended"] MSM-Xtended [/URL]
 
 [B]Download Gapps Package:[/B] [URL="https://opengapps.org/"] Gapps Official (Recommended Nano) [/URL]
 
@@ -222,15 +230,15 @@ NOTE: Forgive me if I forgot anything. I am lazy AF
 
 [B]ROM Source[/B] - [B][URL="https://github.com/Project-Xtended"]Project-Xtended Source Codes[/URL][/B]
 
-[SIZE="5"]Kernel Source:[/SIZE] [B][URL="//github.com/mady51/gzosp-base"]Mady's Kernel[/URL][/B]
+[B]Kernel Source:[URL="//github.com/mady51/unifiedOp3"]Mady's Kernel[/URL][/B]
 
 [B]Telegram Group[/B] - [B][URL="https://t.me/XtendedOfficial"]MSM-X Telegram Public Group[/URL][/B]
 
 [B]G+ Community[/B] - [B][URL="https://plus.google.com/u/1/communities/104070483402051093195"]MSM-X G+ Group[/URL][/B]
 
 [B][SIZE="5"]Credit and Thanks:[/SIZE][/B]
-[HIDE]
 
+[HIDE]
 We would like to give thanks to everyone in the Android community, big or small.
 
 That said, we would like to THANK to....
@@ -247,7 +255,9 @@ That said, we would like to THANK to....
 * [SIZE="3"][B]CypherOS[/SIZE][/B] [URL]https://github.com/CypherOS/[/URL]
 * [SIZE="3"][B]Liquid Remix[/SIZE][/B] [URL]https://github.com/LiquidRemix/[/URL]
 * [SIZE="3"][B]Benzo ROM[/SIZE][/B] [URL]https://github.com/BenzoROM/[/URL]
-* [SIZE="3"][B]	BootLeggers ROM[/SIZE][/B] [URL]https://github.com/bootleggersrom/[/URL]
+* [SIZE="3"][B]BootLeggers ROM[/SIZE][/B] [URL]https://github.com/bootleggersrom/[/URL]
+* [SIZE="3"][B]AOSP Extended ROM[/SIZE][/B] [URL]https://github.com/AospExtended/[/URL] (Sorry forgot you guys)
+* [SIZE="3"][B]Resurrection Remix ROM[/SIZE][/B] [URL]https://github.com/ResurrectionRemix/[/URL] (Sorry forgot you guys)
 [/HIDE]
 
 **[B][SIZE="4"]If we have left someone or some team, we apologize and please PM us. We would be very happy to include your name as well.[/SIZE][/B]**
@@ -255,7 +265,7 @@ That said, we would like to THANK to....
 [U][B][SIZE="4"]Our own The TEAM XTENDED[/U][/B][/SIZE]
 
 [MENTION=5678679]@mukesh22584[/MENTION] (Project Owner Saviour/Developer)
-[MENTION=8829870]@SuperDroidBond[/MENTION] : The Ego Man
+[MENTION=8829870]@SuperDroidBond[/MENTION] (The Ego Man/Base Developer)
 [MENTION=7072514]@mady51[/MENTION](Project Owner / Kernel Developer & Maintainer)
 [MENTION=7077053]@svandasek[/MENTION](Graphics Designer / Devloper & Feature Integrator)
 [MENTION=7107153]@Ded_Boi[/MENTION] (Developer & Feature Integrator)
@@ -267,14 +277,28 @@ Lu Han (Tester)
 Everyone Else from the Testing Team & Userbase using & sharing feedback for improvements
 
 [U][B][SIZE="4"]Special Thanks & Credits[/U][/B][/SIZE]
-@rakeshbatra - Our Teacher. Learned a lot from you Dada
-@zenixxx & @SKULSHADY - You guys been a great help
+[MENTION=5985430]@Rakesh.Batra[/MENTION] - Our Teacher. Learned a lot from you Dada
+@ZenixXx & @SKULSHADY - You guys been a great help
 @NoSpamDan - Thanks for the emergency helps & inputs
 
+[U][B][SIZE="5"]Donations:-[/U][/B][/SIZE]
+[SIZE="4"][B][URL="https://forum.xda-developers.com/donatetome.php?u=8829870"]Donate To Us[/SIZE][/B][/URL]
+If you love our work, please donate to us for keeping the project alive.
 
-[U][B][SIZE="4"]XTENDED NOTE:-[/U][/B][/SIZE]
+[U][B][SIZE="5"]Official Supported Devices:-[/U][/B][/SIZE]
+[B][SIZE="4"]
+1) OnePlus 5T (dumpling)
+2) OnePlus 5 (cheeseburger)
+3) OnePlus 3/T (unified 3/T)
+4) Lenovo Zuk Z2 (zuk2)
+5) Xiaomi Redmi Note 4 (mido)
+6) Xiaomi Redmi 4a (rolex)
+7) Xiaomi Redmi 3S (land)
+8) Moto G5s Plus (sander)
+9) Moto G5 Plus (potter)
+[/B][/SIZE]
 
-[SIZE="4"][B]Donations Are Always Helpful. Will appreciate if you all can.[/SIZE][/B] [URL]https://forum.xda-developers.com/donatetome.php?u=8829870[/URL]
+[U][B][SIZE="5"]XTENDED NOTE:-[/U][/B][/SIZE]
 
 [SIZE="4"]
 1) Please do not use TiB. If you want use then try Swift Backup.
