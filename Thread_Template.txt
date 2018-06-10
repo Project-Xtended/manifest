@@ -1,10 +1,11 @@
-[IMG="Logo"]https://s13.postimg.org/ucux2z8nr/New_Xtended_About.png[/IMG]
+[CENTER][IMG="Xtended"]https://s26.postimg.cc/k3s3xuljd/xtended_new.png[/IMG][/CENTER]
 
 [B][CENTER][FONT="Arial Black"][SIZE="4"][U]MSM Xtended Oreo 8.1[/U][/SIZE][/FONT][/CENTER][/B]
 
-***This is no more "Cardinal Xtended". We have moved from Cardinal and starting from zero as "[B]MSM Xtended or MSM-X[/B]". The Base is GZOSP and thus Special Thanks to @martinusbe & Team GZR for the same.***
+[CENTER]***This is no more "Cardinal Xtended". We have moved from Cardinal and starting from zero as "[B]MSM Xtended or MSM-X[/B]". The Base is GZOSP and thus Special Thanks to @martinusbe & Team GZR for the same.***
+[/CENTER]
 
-[CODE][CENTER]
+[CENTER][CODE]
 * Disclaimer 
 * I am not responsible for bricked devices, dead SD cards, thermonuclear war, 
 * or you getting fired because the alarm app failed. Please do some research 
@@ -17,7 +18,7 @@
 [SIZE="5"]Feature List:[/SIZE]
 NOTE: Forgive me if I forgot anything. I am lazy AF
 
-[B]MSM-Xtended V2.0 [/B]
+[B]MSM-Xtended V2.5 [/B]
 
 [B][COLOR="#1976D2"][U]OnePlus Devices Only[/U][/COLOR][/B]
 [HIDE]
@@ -33,23 +34,29 @@ NOTE: Forgive me if I forgot anything. I am lazy AF
 [B][COLOR="#1976D2"][U]All Devices[/U][/COLOR][/B]
 
 [COLOR="#1976D2"][U]General[/U][/COLOR]
+[HIDE]
 * Android 8.1
 * Security Update: Always Latest
 * New Xtended Wallpaper
 * New Bootanimations
-* Bootlegger's Pixel 2 Launcher
+* GCam with Portrait Mode Working
+* Ruthless Launcher
 * Dailer Proximity
 * Swipe to Delete Text Messages
+[/HIDE]
 
 [COLOR="#1976D2"][U]Display[/U][/COLOR]
-* Ambient display
+[HIDE]
+* Ambient display & AOD
 * Night light brightness mode options
 * Expanded Desktop
 * Color Manager
+* Accent Manager
 * DU Font Manager (Extra Fonts)
-* 5 Steps Display Size Customization
+[/HIDE]
 
 [B][COLOR="#1976D2"][U]Settings[/U][/COLOR][/B]
+[HIDE]
 * Reset battery stats
 * Charging Alerts Toggle (Vibration & Sound)
 * Optimal Charging Alert
@@ -59,31 +66,41 @@ NOTE: Forgive me if I forgot anything. I am lazy AF
 * Unlink Ring & Notify Volume
 * Quick Unlock
 * Pass Swipe to Unlock
+* Lock Pattern Grid Size Options (CM Type)
+[/HIDE]
 
 [COLOR="#1976D2"][B][U][SIZE="4"]===> Xtended Options (Xtensions of Xtended) Includes <===[/SIZE][/U][/B][/COLOR]
 
 [B][COLOR="#1976D2"][U]Animations[/U][/COLOR][/B]
+[HIDE]
 * P Animation Toggle
 * Scrolling Cache
 * System Wide Animations
 * Toast Animation
 * Listview & Interpolator Animations
+[/HIDE]
 
 [B][COLOR="#1976D2"][U]Buttons [/U][/COLOR][/B]
+[HIDE]
 * Volume Key Customization
 * Disable Keys
 * Backlight + Customizations
 * Single Press + Long Press + Double Tap Customizations
 * Home Button Ringing
+[/HIDE]
 
 [B][COLOR="#1976D2"][U]Decoration Menu[/U][/COLOR][/B]
+[HIDE]
 * Battery Bar (Animation, Gradient, etc.)
 * Carrier Label
 * Status Bar Clock Customization
 * Status Bar Battery Customization
-* Status Bar Weather Customization
+* Status Bar Logo
+* Status Bar Weather
+[/HIDE]
 
 [B][COLOR="#1976D2"][U]Gestures[/U][/COLOR][/B]
+[HIDE]
 * Status Bar Double Tap Sleep
 * Lockscreen Double Tap Sleep
 * Double Press Power Button for Torch
@@ -91,50 +108,59 @@ NOTE: Forgive me if I forgot anything. I am lazy AF
 * 3 Finger Screenshot
 * Gesture Anywhere
 * Pocket Mode
+* Edge Gestures
+[/HIDE]
 
 [B][COLOR="#1976D2"][U]Lock screen[/U][/COLOR][/B]
+[HIDE]
 * Media cover art toggle
 * FP Vibration
 * FP Unlock on Reboot
 * Lockscreen battery info
 * Lockscreen Clock Font & Size Customization
+* DU's Lock Clock & Dates Panel Mode
 * Lockscreen Date Font & Size Customization
 * Lockscreen & Bouncer Alpha Customization
 * Lockscreen Items Colorization Options
-* Lockscreen Items Toggle 
-* Lockscreen Indication Toggle
-* Lockscreen Icon Toggle
+* Lockscreen Items Toggle Options
 * Display weather on lockscreen
 * Lockscreen Shortcuts
 * Screen-Off Animation
 * Face Auto Unlock Toggle
+[/HIDE]
 
 [B][COLOR="#1976D2"][U]Navigation bar[/U][/COLOR][/B]
+[HIDE]
 * Navbar on/off
 * Navbar Customization
 * Smartbar, NavBar & Fling
 * Pulse, Lava Lamp & Color Customizations
 * Navbar Accidental Touch
 * Size of Nav Bar
+[/HIDE]
 
 [B][COLOR="#1976D2"][U]Notifications[/U][/COLOR][/B]
+[HIDE]
 * Ambient Music Ticker
 * Heads Up
-* Notification Ticker & Animation Customization
-* Force Expanded Notification Toggle
+* Notification Ticker & Animations
 * Battery & Charging Light Customization
 * Notification Light Customization
 * Toast app icon toggle
 * Toast app icon color
 * Toast app text color
 * Vibrate on connect, answer & hangup toggle
+[/HIDE]
 
 [B][COLOR="#1976D2"][U]Powermenu[/U][/COLOR][/B]
+[HIDE]
 * Advance Reboot
 * Power Menu on Secured Lockscreen
 * Several Toggles, can't write so many
+[/HIDE]
 
 [B][COLOR="#1976D2"][U]Recents apps[/U][/COLOR][/B]
+[HIDE]
 * Clear all FAB
 * Clear all FAB location
 * Show memory bar
@@ -143,16 +169,25 @@ NOTE: Forgive me if I forgot anything. I am lazy AF
 * Icon Pack Option
 * Immersive Recents
 * Hidden Apps
+[/HIDE]
 
 [B][COLOR="#1976D2"][U]Status bar[/U][/COLOR][/B]
+[HIDE]
 * Network Traffic (Type,Units,Interval,Auto Hide, etc)
 * Battery Customizations (Battery bar, Percentage)
 * Brightness Control
+* Double tap to sleep (Statusbar + Lockscreen)
 * Status Bar Items (Toggles Options)
 * Input Selector Notification
 * ADB Notification
+[/HIDE]
                                                                                                              
 [B][COLOR="#1976D2"][U]Quick Settings[/U][/COLOR][/B]
+[HIDE]
+* QS Carrier Label & Clock Toggle
+* QS Mini Mode
+* QS Header Images
+* QS Small Tiles Scroller
 * Quick Pull Down
 * QS tiles view customization (Number of small QS tiles, rows and columns)
 * QS Footer Warnings toggle
@@ -160,14 +195,11 @@ NOTE: Forgive me if I forgot anything. I am lazy AF
 * No QS on Secure Lockscreen
 * Vibrate on Touch Toggle
 * QS Tile Titles Toggle
-* Notification Guts Kill Button Toggle
 * QS Transparency Option
-* QS Header Option
-* QS Mini Header Option
-* QS Panel Carrier Label & Clock Toggle to show/hide
-* QS Brightness Slider Top/Bottom Position Toggle
+[/HIDE]
 
 [B][COLOR="#1976D2"][U]QS Tiles[/U][/COLOR][/B]
+[HIDE]
 * Sound QS tile
 * PiP QS tile
 * Sync QS tile
@@ -182,12 +214,11 @@ NOTE: Forgive me if I forgot anything. I am lazy AF
 * HW Keys QS Tile
 * AOD QS Tile
 * Smart Pixels Tile
-* Weather Tile
-* Google Assist Tile
-* Read Mode Tile
 * Add/Remove tiles with one touch                                                                                                             
+[/HIDE]
 
-[B][COLOR="#1976D2"][U]Xtra Option[/U][/COLOR][/B]
+[B][COLOR="#1976D2"][U]System[/U][/COLOR][/B]
+[HIDE]
 * Wakelock Blocker
 * Alarms Blocker
 * App Ops
@@ -197,25 +228,35 @@ NOTE: Forgive me if I forgot anything. I am lazy AF
 * FC Notification Toggle
 * Media Scanner on Boot Option
 * Sensor Block Per Package Toggle
-* Screenshot Type (Partial/Full)
 * CPU Info Toggle
 * Smart Pixels
+[/HIDE]
+
+[B][COLOR="#1976D2"][U]Xtra Option[/U][/COLOR][/B]
+[HIDE]
+* Blur Settings Menus
+* Rounded Corner Menus
+* Dashboard Conditions & Suggestions
+* Tint Toggles for Power Menu, Lockscreen, Notification BG & Recents
+[/HIDE]
 
 [SIZE="5"]Flashing Instructions:[/SIZE]
+
 [HIDE]
-
-[SIZE="4"]- [B]Verify that you're using the latest version of TWRP [/B]
-
+[SIZE="4"]
+- [B]Verify that you're using the latest version of TWRP [/B]
 - [B]Perform a FULL WIPE as described below if coming from another ROM or a different version of Android[/B]
    (A full wipe is when you wipe System + Data + Cache + Dalvik ART Cache)
 - [B]Flash the latest version of the ROM[/B]
 - [B]Flash recommended GAPPS linked below[/B]
 - [B]Flash Magisk / SuperSU if you want root[/B]
-- [B]Reboot and ENJOY!![/B][/SIZE]
+- [B]Reboot and ENJOY!![/B]
+[/SIZE]
+[/HIDE]
 
 [SIZE="5"][B]Downloads[/B][/SIZE]
 
-[B]Download ROM:[/B] [URL="http://bit.ly/xtended"] MSM-Xtended [/URL]
+[B]Download ROM:[/B] [URL="https://sourceforge.net/projects/xtended/files"] MSM-Xtended [/URL]
 
 [B]Download Gapps Package:[/B] [URL="https://opengapps.org/"] Gapps Official (Recommended Nano) [/URL]
 
@@ -224,7 +265,7 @@ NOTE: Forgive me if I forgot anything. I am lazy AF
 **[B][COLOR="Red"][SIZE="3"]If you use Xposed, please don't bother reporting any bugs[/SIZE][/COLOR][/B]**
 
 **[B][COLOR="Red"][SIZE="3"]If you use another kernel, please don't bother reporting any bugs[/SIZE][/COLOR][/B]**
-[/HIDE]
+
 
 [SIZE="5"][B][U]Other Links:[/U][/B][/SIZE]
 
@@ -238,11 +279,11 @@ NOTE: Forgive me if I forgot anything. I am lazy AF
 
 [B][SIZE="5"]Credit and Thanks:[/SIZE][/B]
 
-[HIDE]
 We would like to give thanks to everyone in the Android community, big or small.
 
 That said, we would like to THANK to....
 
+[HIDE]
 * [SIZE="3"][B]LineageOS/Cyanogenmod[/SIZE][/B] [URL]https://github.com/LineageOS[/URL]
 * [SIZE="3"][B]GZOSP[/SIZE][/B] [URL]https://github.com/GZOSP[/URL]
 * [SIZE="3"][B]ColtOS Team & Specially @RakeshBatra[/SIZE][/B] [URL]https://github.com/Colt-Oreo[/URL]
@@ -258,6 +299,7 @@ That said, we would like to THANK to....
 * [SIZE="3"][B]BootLeggers ROM[/SIZE][/B] [URL]https://github.com/bootleggersrom/[/URL]
 * [SIZE="3"][B]AOSP Extended ROM[/SIZE][/B] [URL]https://github.com/AospExtended/[/URL] (Sorry forgot you guys)
 * [SIZE="3"][B]Resurrection Remix ROM[/SIZE][/B] [URL]https://github.com/ResurrectionRemix/[/URL] (Sorry forgot you guys)
+* [SIZE="3"][B]AIM ROM[/SIZE][/B] [URL]https://github.com/AIMROM/[/URL]
 [/HIDE]
 
 **[B][SIZE="4"]If we have left someone or some team, we apologize and please PM us. We would be very happy to include your name as well.[/SIZE][/B]**
@@ -265,7 +307,7 @@ That said, we would like to THANK to....
 [U][B][SIZE="4"]Our own The TEAM XTENDED[/U][/B][/SIZE]
 
 [MENTION=5678679]@mukesh22584[/MENTION] (Project Owner Saviour/Developer)
-[MENTION=8829870]@SuperDroidBond[/MENTION] (The Ego Man/Base Developer)
+[MENTION=8829870]@SuperDroidBond[/MENTION] : The Ego Man
 [MENTION=7072514]@mady51[/MENTION](Project Owner / Kernel Developer & Maintainer)
 [MENTION=7077053]@svandasek[/MENTION](Graphics Designer / Devloper & Feature Integrator)
 [MENTION=7107153]@Ded_Boi[/MENTION] (Developer & Feature Integrator)
@@ -281,12 +323,16 @@ Everyone Else from the Testing Team & Userbase using & sharing feedback for impr
 @ZenixXx & @SKULSHADY - You guys been a great help
 @NoSpamDan - Thanks for the emergency helps & inputs
 
-[U][B][SIZE="5"]Donations:-[/U][/B][/SIZE]
+
+[U][B][SIZE="5"]Donations[/U]:-[/B][/SIZE]
 [SIZE="4"][B][URL="https://forum.xda-developers.com/donatetome.php?u=8829870"]Donate To Us[/SIZE][/B][/URL]
-If you love our work, please donate to us for keeping the project alive.
+
+[SIZE="4"][B]If you love our work, please donate to us. It will motivate us and help us in keeping the project alive.[/SIZE][/B]
+
 
 [U][B][SIZE="5"]Official Supported Devices:-[/U][/B][/SIZE]
 [B][SIZE="4"]
+
 1) OnePlus 5T (dumpling)
 2) OnePlus 5 (cheeseburger)
 3) OnePlus 3/T (unified 3/T)
@@ -303,6 +349,7 @@ If you love our work, please donate to us for keeping the project alive.
 [SIZE="4"]
 1) Please do not use TiB. If you want use then try Swift Backup.
 2) Please Use Paid Themes preferably, so that Substratum Dev can keep on their good work.
-3) [B]If you want to try a new theme, try "Valerie" by bro [MENTION=3294577]@DeadmanxXD[/MENTION]. It's been my favourite ever since I tried it.[/B]
+3) [B]If you want to try a new theme, try "Valerie" by bro [MENTION=3294577]@DeadmanxXD[/MENTION]. It's been my favorite ever since I tried it.[/B]
 4) If you earn well, then don't hesitate to donate a few $$. Its token of appreciation and will keep motivated.
 [/SIZE]
+
