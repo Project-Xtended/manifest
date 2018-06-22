@@ -83,7 +83,7 @@
   <project path="packages/apps/Messaging" name="packages_apps_Messaging" groups="pdk-fs" remote="xtended" />
   <project path="packages/apps/Settings" name="packages_apps_Settings" groups="pdk-fs" remote="xtended" />
   <project path="packages/apps/Xtensions" name="packages_apps_Xtensions" groups="pdk-fs" remote="xtended" />
-  <project path="packages/inputmethods/LatinIME" name="packages_inputmethods_LatinIME" groups="pdk-fs" remote="gzosp" />
+  <project path="packages/inputmethods/LatinIME" name="nitrogen-project/android_packages_inputmethods_LatinIME" groups="pdk-fs" remote="github" revision="o2" />
   <project path="packages/apps/PackageInstaller" name="packages_apps_PackageInstaller" groups="pdk-cw-fs,pdk-fs" remote="xtended" />
   <project path="packages/apps/Nfc" name="packages_apps_Nfc" groups="apps_nfc,pdk-fs" remote="gzosp" />
   <project path="packages/apps/DUI" name="packages_apps_DUI" groups="pdk-fs" remote="xtended" />
