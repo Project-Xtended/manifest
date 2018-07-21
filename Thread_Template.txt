@@ -16,19 +16,19 @@
 [/CODE][/CENTER]
 
 [SIZE="5"]Feature List:[/SIZE]
-NOTE: Forgive me if I forgot anything. I am lazy AF
+NOTE: Forgive me if I forgot anything. [STRIKE]I am lazy AF[/STRIKE] Not Anymore....:p
 
-[B]MSM-Xtended V2.5 [/B]
+[B]MSM-Xtended x9.5 [/B]
 
 [B][COLOR="#1976D2"][U]OnePlus Devices Only[/U][/COLOR][/B]
 [HIDE]
 [B][COLOR="#1976D2"][U]Device Features[/U][/COLOR][/B]
 * Gesture Panel
-* Alert Slider (Ring, Vibrate, All Notification, Priority, Alarms Only & Total Silence)
+* Awesome Slider (Notification, Flashlight, Brightness, Rotation, Ringer, Notif. + Ringer Combo & Caffeine)
 * DT2W toggle
 * Swap Back-Recents toggle
 * Vibration Strength Slider
-* Graphics Panel (sRGB, HBM, OnePlus Mode & Wide Gamot Mode)
+* Graphics Panel (sRGB, HBM & Wide Gamot Mode)
 [/HIDE]
 
 [B][COLOR="#1976D2"][U]All Devices[/U][/COLOR][/B]
@@ -39,9 +39,15 @@ NOTE: Forgive me if I forgot anything. I am lazy AF
 * Security Update: Always Latest
 * New Xtended Wallpaper
 * New Bootanimations
-* GCam with Portrait Mode Working
-* Ruthless Launcher
-* Dailer Proximity
+* LOS Snap Cam
+* Lean Launcher
+* Dailer Proximity for -
+   Auto Call Pickup
+   Smart Mute
+   Auto Call Speakerphone
+* Dialer Call Recording
+* Dialer FullScreen Caller Photo 
+* Toggle for On-Call DND
 * Swipe to Delete Text Messages
 [/HIDE]
 
@@ -53,6 +59,7 @@ NOTE: Forgive me if I forgot anything. I am lazy AF
 * Color Manager
 * Accent Manager
 * DU Font Manager (Extra Fonts)
+* Screen Stabilization
 [/HIDE]
 
 [B][COLOR="#1976D2"][U]Settings[/U][/COLOR][/B]
@@ -73,9 +80,8 @@ NOTE: Forgive me if I forgot anything. I am lazy AF
 
 [B][COLOR="#1976D2"][U]Animations[/U][/COLOR][/B]
 [HIDE]
-* P Animation Toggle
 * Scrolling Cache
-* System Wide Animations
+* System Wide Animations (15 Options + Random)
 * Toast Animation
 * Listview & Interpolator Animations
 [/HIDE]
@@ -84,6 +90,7 @@ NOTE: Forgive me if I forgot anything. I am lazy AF
 [HIDE]
 * Volume Key Customization
 * Disable Keys
+* Swap Back n Recent Keys
 * Backlight + Customizations
 * Single Press + Long Press + Double Tap Customizations
 * Home Button Ringing
@@ -104,10 +111,11 @@ NOTE: Forgive me if I forgot anything. I am lazy AF
 * Status Bar Double Tap Sleep
 * Lockscreen Double Tap Sleep
 * Double Press Power Button for Torch
-* Carbon Gestures
 * 3 Finger Screenshot
-* Gesture Anywhere
 * Pocket Mode
+* Carbon Gestures
+* Gesture Anywhere
+* PIE
 * Edge Gestures
 [/HIDE]
 
@@ -150,6 +158,7 @@ NOTE: Forgive me if I forgot anything. I am lazy AF
 * Toast app icon color
 * Toast app text color
 * Vibrate on connect, answer & hangup toggle
+* Flashlight on Incoming Call
 [/HIDE]
 
 [B][COLOR="#1976D2"][U]Powermenu[/U][/COLOR][/B]
@@ -157,6 +166,7 @@ NOTE: Forgive me if I forgot anything. I am lazy AF
 * Advance Reboot
 * Power Menu on Secured Lockscreen
 * Several Toggles, can't write so many
+* On-The-Go Toggle (worth mentioning)
 [/HIDE]
 
 [B][COLOR="#1976D2"][U]Recents apps[/U][/COLOR][/B]
@@ -173,7 +183,7 @@ NOTE: Forgive me if I forgot anything. I am lazy AF
 
 [B][COLOR="#1976D2"][U]Status bar[/U][/COLOR][/B]
 [HIDE]
-* Network Traffic (Type,Units,Interval,Auto Hide, etc)
+* Network Traffic (Activity Indicators, Type,Units,Interval,Auto Hide, etc)
 * Battery Customizations (Battery bar, Percentage)
 * Brightness Control
 * Double tap to sleep (Statusbar + Lockscreen)
@@ -214,6 +224,9 @@ NOTE: Forgive me if I forgot anything. I am lazy AF
 * HW Keys QS Tile
 * AOD QS Tile
 * Smart Pixels Tile
+* Google Voice Assist Tile
+* On-The-Go Tile
+* HBM Tile (OnePlus Devices Only)
 * Add/Remove tiles with one touch                                                                                                             
 [/HIDE]
 
@@ -228,16 +241,19 @@ NOTE: Forgive me if I forgot anything. I am lazy AF
 * FC Notification Toggle
 * Media Scanner on Boot Option
 * Sensor Block Per Package Toggle
-* CPU Info Toggle
+* MTP Always On Toggle
 * Smart Pixels
 [/HIDE]
 
 [B][COLOR="#1976D2"][U]Xtra Option[/U][/COLOR][/B]
 [HIDE]
 * Blur Settings Menus
+* System App Remover
+* App CircleBar
 * Rounded Corner Menus
 * Dashboard Conditions & Suggestions
 * Tint Toggles for Power Menu, Lockscreen, Notification BG & Recents
+* App Scaling Option (Only if your device supports)
 [/HIDE]
 
 [SIZE="5"]Flashing Instructions:[/SIZE]
@@ -258,7 +274,7 @@ NOTE: Forgive me if I forgot anything. I am lazy AF
 
 [B]Download ROM:[/B] [URL="https://sourceforge.net/projects/xtended/files"] MSM-Xtended [/URL]
 
-[B]Download Gapps Package:[/B] [URL="https://opengapps.org/"] Gapps Official (Recommended Nano) [/URL]
+[B]Download Gapps Package:[/B] [URL="https://androidfilehost.com/?fid=5862345805528044548"] GZR Nano Gapps [/URL]
 
 **[B][COLOR="Red"][SIZE="3"]If you fail to follow these instructions, please don't bother reporting any bugs[/SIZE][/COLOR][/B]**
 
@@ -269,9 +285,9 @@ NOTE: Forgive me if I forgot anything. I am lazy AF
 
 [SIZE="5"][B][U]Other Links:[/U][/B][/SIZE]
 
-[B]ROM Source[/B] - [B][URL="https://github.com/Project-Xtended"]Project-Xtended Source Codes[/URL][/B]
+[B]ROM Source[/B] - [B][URL="https://github.com/Project-Xtended"]Project-Xtended Sources[/URL][/B]
 
-[B]Kernel Source:[URL="//github.com/mady51/unifiedOp3"]Mady's Kernel[/URL][/B]
+[B]Kernel Source:[URL="//github.com/mady51/unifiedOp3"]Kernel Sources[/URL][/B]
 
 [B]Telegram Group[/B] - [B][URL="https://t.me/XtendedOfficial"]MSM-X Telegram Public Group[/URL][/B]
 
@@ -300,35 +316,38 @@ That said, we would like to THANK to....
 * [SIZE="3"][B]AOSP Extended ROM[/SIZE][/B] [URL]https://github.com/AospExtended/[/URL] (Sorry forgot you guys)
 * [SIZE="3"][B]Resurrection Remix ROM[/SIZE][/B] [URL]https://github.com/ResurrectionRemix/[/URL] (Sorry forgot you guys)
 * [SIZE="3"][B]AIM ROM[/SIZE][/B] [URL]https://github.com/AIMROM/[/URL]
+* [SIZE="3"][B]Toxyc OS/SIZE][/B] [URL]https://github.com/ToxycOS/[/URL]
+* [SIZE="3"][B]AEX Mod[/SIZE][/B] [URL]https://github.com/AexMod/[/URL]
+* [SIZE="3"][B]FireHound[/SIZE][/B] [URL]https://github.com/FireHound/[/URL]
 [/HIDE]
 
 **[B][SIZE="4"]If we have left someone or some team, we apologize and please PM us. We would be very happy to include your name as well.[/SIZE][/B]**
 
 [U][B][SIZE="4"]Our own The TEAM XTENDED[/U][/B][/SIZE]
 
-[MENTION=5678679]@mukesh22584[/MENTION] (Project Owner Saviour/Developer)
-[MENTION=8829870]@SuperDroidBond[/MENTION] : The Ego Man
-[MENTION=7072514]@mady51[/MENTION](Project Owner / Kernel Developer & Maintainer)
-[MENTION=7077053]@svandasek[/MENTION](Graphics Designer / Devloper & Feature Integrator)
-[MENTION=7107153]@Ded_Boi[/MENTION] (Developer & Feature Integrator)
-[MENTION=5286475]@Dhairya[/MENTION] (Tester & Motivator)
-[MENTION=5992364]@Babloo289[/MENTION] (Tester & Motivator)
-[MENTION=6927767]@ps_minky16[/MENTION] (Tester & Motivator)
+[MENTION=5678679]mukesh22584[/MENTION] (Project Owner Saviour/Developer)
+[MENTION=8829870]SuperDroidBond[/MENTION] : The Ego Man
+[MENTION=7072514]mady51[/MENTION](Project Owner / Kernel Developer & Maintainer)
+[MENTION=7030109]mcdachpappe[/MENTION] (Developer & Codes Fixer)
+[MENTION=7077053]svandasek[/MENTION](Graphics Designer / Devloper & Feature Integrator)
+[MENTION=4479268]Jay_B[/MENTION] (Maintainer & Boot Maker)
+[MENTION=7107153]Ded_Boi[/MENTION] (Developer & Feature Integrator)
+[MENTION=5286475]Dhairya[/MENTION] (Tester & Motivator)
+[MENTION=5992364]Babloo289[/MENTION] (Tester & Motivator)
+[MENTION=6927767]ps_minky16[/MENTION] (Tester & Motivator)
 Chris Kendall (Tester)
-Lu Han (Tester)
 Everyone Else from the Testing Team & Userbase using & sharing feedback for improvements
 
 [U][B][SIZE="4"]Special Thanks & Credits[/U][/B][/SIZE]
-[MENTION=5985430]@Rakesh.Batra[/MENTION] - Our Teacher. Learned a lot from you Dada
+[MENTION=5985430]Rakesh.Batra[/MENTION] - Our Teacher. Learned a lot from you Dada
 @ZenixXx & @SKULSHADY - You guys been a great help
 @NoSpamDan - Thanks for the emergency helps & inputs
 
 
-[U][B][SIZE="5"]Donations[/U]:-[/B][/SIZE]
+[I][U][B][SIZE="5"]Donations[/U]:-[/B][/SIZE][/I]
 [SIZE="4"][B][URL="https://forum.xda-developers.com/donatetome.php?u=8829870"]Donate To Us[/SIZE][/B][/URL]
 
-[SIZE="4"][B]If you love our work, please donate to us. It will motivate us and help us in keeping the project alive.[/SIZE][/B]
-
+[I][SIZE="4"][B]If you love our work, please donate to us. It will motivate us and help us in keeping the project alive.[/SIZE][/B][/I]
 
 [U][B][SIZE="5"]Official Supported Devices:-[/U][/B][/SIZE]
 [B][SIZE="4"]
@@ -342,6 +361,13 @@ Everyone Else from the Testing Team & Userbase using & sharing feedback for impr
 7) Xiaomi Redmi 3S (land)
 8) Moto G5s Plus (sander)
 9) Moto G5 Plus (potter)
+10) Le Max 2 (max2)
+11) Xiaomi Mi Max 2 (oxygen)
+12) Xiaomi Redmi Note 5 & 5 Plus (vince)
+13) Xiaomi Redmi Note 3 (kenzo)
+14) Lenovo P2 (kuntao)
+15) Xiaomi Redmi Note 5 Pro (whyred)
+16) Asus Zenfone Laser 2 (Z00L)
 [/B][/SIZE]
 
 [U][B][SIZE="5"]XTENDED NOTE:-[/U][/B][/SIZE]
@@ -352,4 +378,3 @@ Everyone Else from the Testing Team & Userbase using & sharing feedback for impr
 3) [B]If you want to try a new theme, try "Valerie" by bro [MENTION=3294577]@DeadmanxXD[/MENTION]. It's been my favorite ever since I tried it.[/B]
 4) If you earn well, then don't hesitate to donate a few $$. Its token of appreciation and will keep motivated.
 [/SIZE]
-
