@@ -4,6 +4,9 @@
   <remote  name="github"
            fetch="https://github.com" />
 
+  <remote  name="gitlab"
+           fetch="https://gitlab.com" />
+
   <remote  name="gzosp"
            fetch="https://github.com/GZOSP" />
 
@@ -111,5 +114,5 @@
   <project path="vendor/xtended" name="vendor_xtended" remote="xtended" />
 
   <project name="ThankYouMario/proprietary_vendor_qcom_sdclang-3.9_linux-x86" path="prebuilts/snapdragon-llvm/toolchains/llvm-Snapdragon_LLVM_for_Android_3.9/prebuilt/linux-x86_64" remote="github" revision="oreo" />
-  <project path="vendor/qcom/sdclang" name="vendor_qcom_sdclang" remote="xtended" />
+  <project path="vendor/qcom/sdclang" name="HolyDragonProject/android_vendor_qcom_sdclang" remote="gitlab" revision="master" />
 </manifest>
