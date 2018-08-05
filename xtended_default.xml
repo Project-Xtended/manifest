@@ -39,9 +39,10 @@
 
   <project path="art" name="art" groups="pdk" remote="xtended" />
   <project path="bionic" name="bionic" groups="pdk" remote="xtended" />
-  <project path="bootable/recovery" name="bootable_recovery" groups="pdk" remote="gzosp" />
+  <project path="bootable/recovery" name="omnirom/android_bootable_recovery" groups="pdk" remote="github" revision="android-8.1" />
   <project path="development" name="development" groups="pdk-cw-fs,pdk-fs" remote="gzosp" />
   <project path="device/xtended/sepolicy" name="device_xtended_sepolicy" remote="xtended" />
+  <project path="external/busybox" name="omnirom/android_external_busybox" groups="pdk" remote="github" revision="android-8.1" />
   <project path="external/connectivity" name="external_connectivity" groups="pdk" remote="gzosp" />
   <project path="external/ebtables" name="external_ebtables" groups="pdk" remote="gzosp" />
   <project path="external/exfat" name="external_exfat" remote="gzosp" />
