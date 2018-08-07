@@ -43,7 +43,7 @@
   <project path="external/ant-wireless/antradio-library" name="android_external_ant-wireless_antradio-library" remote="lineage-x" />
 
   <!-- bt -->
-  <project path="system/bt" name="android_system_bt" groups="pdk" remote="lineage-x" />
+  <project path="system/bt" name="system_bt" groups="pdk" remote="xtended" />
   <project path="hardware/qcom/bt" name="android_hardware_qcom_bt" groups="qcom" remote="lineage-x" />
   <project path="hardware/qcom/bt-caf" name="android_hardware_qcom_bt" groups="qcom" remote="lineage" revision="lineage-15.1-caf" />
 
