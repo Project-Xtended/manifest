@@ -620,7 +620,7 @@
   <repo-hooks in-project="platform/tools/repohooks" enabled-list="pre-upload" />
 
   <!-- GZOSP manifest -->
-  <include name="gzosp_default.xml" />
+  <include name="xtended_default.xml" />
 
   <!-- CAF manifest -->
   <include name="caf_default.xml" />

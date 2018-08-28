@@ -4,6 +4,10 @@
   <remote  name="github"
            fetch="https://github.com" />
 
+  <remote  name="xtended"
+           fetch="https://github.com/Xtended-Pie"
+           revision="xp" />
+  
   <remote  name="gzosp"
            fetch="https://github.com/GZOSP" />
 
@@ -14,8 +18,8 @@
            sync-j="8" />
 
   <!-- GZOSP -->
-  <project path="manifest" name="manifest" remote="gzosp" />
-  <project path="build/make" name="build" remote="gzosp" >
+  <project path="manifest" name="manifest" remote="xtended" />
+  <project path="build/make" name="build_make" remote="xtended" >
     <copyfile src="core/root.mk" dest="Makefile" />
     <linkfile src="CleanSpec.mk" dest="build/CleanSpec.mk" />
     <linkfile src="buildspec.mk.default" dest="build/buildspec.mk.default" />
@@ -24,7 +28,7 @@
     <linkfile src="target" dest="build/target" />
     <linkfile src="tools" dest="build/tools" />
   </project>
-  <project path="build/soong" name="build_soong"  remote="gzosp" >
+  <project path="build/soong" name="build_soong"  remote="xtended" >
     <linkfile src="root.bp" dest="Android.bp" />
     <linkfile src="bootstrap.bash" dest="bootstrap.bash" />
   </project>
@@ -37,22 +41,22 @@
   <project path="hardware/qcom/media" name="hardware_qcom_media" groups="qcom,pdk-qcom" remote="gzosp" />
 
   <project path="bootable/recovery" name="bootable_recovery" groups="pdk" remote="gzosp" />
-  <project path="bionic" name="bionic" remote="gzosp" />
+  <project path="bionic" name="bionic" remote="xtended" />
   <project path="external/perfetto" name="external_perfetto" groups="pdk" remote="gzosp" />
   <project path="external/selinux" name="external_selinux" groups="pdk" remote="gzosp" />
   <project path="external/tinycompress" name="external_tinycompress" groups="pdk" remote="gzosp" />
-  <project path="frameworks/av" name="frameworks_av" groups="pdk" remote="gzosp" />
-  <project path="frameworks/base" name="frameworks_base" remote="gzosp" />
+  <project path="frameworks/av" name="frameworks_av" groups="pdk" remote="xtended" />
+  <project path="frameworks/base" name="frameworks_base" remote="xtended" />
   <project path="frameworks/opt/net/wifi" name="frameworks_opt_net_wifi" groups="pdk" remote="gzosp" />
   <project path="hardware/interfaces" name="hardware_interfaces" groups="pdk" remote="gzosp" />
   <project path="hardware/libhardware" name="hardware_libhardware" groups="pdk" remote="gzosp" />
   <project path="hardware/libhardware_legacy" name="hardware_libhardware_legacy" groups="pdk" remote="gzosp" />
   <project path="packages/apps/Messaging" name="packages_apps_Messaging" remote="gzosp" />
-  <project path="packages/apps/Settings" name="packages_apps_Settings" groups="pdk-fs" remote="gzosp" />
+  <project path="packages/apps/Settings" name="packages_apps_Settings" groups="pdk-fs" remote="xtended" />
   <project path="packages/services/BuiltInPrintService" name="packages_services_BuiltInPrintService" remote="gzosp" />
   <project path="system/bt" name="system_bt" remote="gzosp" />
-  <project path="system/core" name="system_core" groups="pdk" remote="gzosp" />
+  <project path="system/core" name="system_core" groups="pdk" remote="xtended" />
   <project path="system/vold" name="system_vold" groups="pdk" remote="gzosp" />
-  <project path="vendor/gzosp" name="vendor_gzosp" remote="gzosp" />
+  <project path="vendor/xtended" name="vendor_xtended" remote="xtended" />
 
 </manifest>
