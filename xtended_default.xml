@@ -19,6 +19,7 @@
 
   <!-- GZOSP -->
   <project path="manifest" name="manifest" remote="xtended" />
+  <project path="art" name="art" remote="xtended" />
   <project path="build/make" name="build_make" remote="xtended" >
     <copyfile src="core/root.mk" dest="Makefile" />
     <linkfile src="CleanSpec.mk" dest="build/CleanSpec.mk" />
@@ -42,18 +43,23 @@
 
   <project path="bootable/recovery" name="bootable_recovery" groups="pdk" remote="gzosp" />
   <project path="bionic" name="bionic" remote="xtended" />
+  <project path="development" name="development" remote="xtended" />
   <project path="external/perfetto" name="external_perfetto" groups="pdk" remote="gzosp" />
   <project path="external/selinux" name="external_selinux" groups="pdk" remote="gzosp" />
   <project path="external/tinycompress" name="external_tinycompress" groups="pdk" remote="gzosp" />
   <project path="frameworks/av" name="frameworks_av" groups="pdk" remote="xtended" />
   <project path="frameworks/base" name="frameworks_base" remote="xtended" />
+  <project path="frameworks/native" name="frameworks_native" groups="pdk" remote="xtended" />
+  <project path="frameworks/rs" name="frameworks_rs" groups="pdk" remote="xtended" />
   <project path="frameworks/opt/net/wifi" name="frameworks_opt_net_wifi" groups="pdk" remote="gzosp" />
-  <project path="hardware/interfaces" name="hardware_interfaces" groups="pdk" remote="gzosp" />
-  <project path="hardware/libhardware" name="hardware_libhardware" groups="pdk" remote="gzosp" />
+  <project path="hardware/interfaces" name="hardware_interfaces" groups="pdk" remote="xtended" />
+  <project path="hardware/libhardware" name="hardware_libhardware" groups="pdk" remote="xtended" />
   <project path="hardware/libhardware_legacy" name="hardware_libhardware_legacy" groups="pdk" remote="gzosp" />
-  <project path="packages/apps/Messaging" name="packages_apps_Messaging" remote="gzosp" />
+  <project path="packages/apps/Bluetooth" name="packages_apps_Bluetooth" remote="xtended" /> 
+  <project path="packages/apps/Messaging" name="packages_apps_Messaging" remote="xtended" />
   <project path="packages/apps/Settings" name="packages_apps_Settings" groups="pdk-fs" remote="xtended" />
   <project path="packages/services/BuiltInPrintService" name="packages_services_BuiltInPrintService" remote="gzosp" />
+  <project path="packages/apps/Dialer" name="packages_apps_Dialer" remote="xtended" />
   <project path="system/bt" name="system_bt" remote="gzosp" />
   <project path="system/core" name="system_core" groups="pdk" remote="xtended" />
   <project path="system/vold" name="system_vold" groups="pdk" remote="gzosp" />
