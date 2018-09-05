@@ -47,6 +47,7 @@
   <project path="external/perfetto" name="external_perfetto" groups="pdk" remote="gzosp" />
   <project path="external/selinux" name="external_selinux" groups="pdk" remote="gzosp" />
   <project path="external/tinycompress" name="external_tinycompress" groups="pdk" remote="gzosp" />
+  <project path="prebuilts/build-tools" name="prebuilts_build-tools" clone-depth="1" remote="xtended" />
   <project path="frameworks/av" name="frameworks_av" groups="pdk" remote="xtended" />
   <project path="frameworks/base" name="frameworks_base" remote="xtended" />
   <project path="frameworks/native" name="frameworks_native" groups="pdk" remote="xtended" />
