@@ -62,6 +62,7 @@
   <project path="packages/apps/Bluetooth" name="packages_apps_Bluetooth" remote="xtended" /> 
   <project path="packages/apps/Messaging" name="packages_apps_Messaging" remote="xtended" />
   <project path="packages/apps/Settings" name="packages_apps_Settings" groups="pdk-fs" remote="xtended" />
+  <project path="packages/apps/Xtensions" name="msm_xtended_Xtensions" remote="xtended" />
   <project path="packages/services/BuiltInPrintService" name="packages_services_BuiltInPrintService" remote="gzosp" />
   <project path="packages/apps/Dialer" name="packages_apps_Dialer" remote="xtended" />
   <project path="system/bt" name="system_bt" remote="gzosp" />
