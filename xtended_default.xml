@@ -67,6 +67,7 @@
   <project path="packages/apps/Dialer" name="packages_apps_Dialer" remote="xtended" />
   <project path="packages/services/OmniJaws" name="packages_services_OmniJaws" remote="xtended" />
   <project path="packages/apps/OmniStyle" name="packages_apps_OmniStyle" remote="xtended" />  
+  <project path="packages/apps/PackageInstaller" name="packages_apps_PackageInstaller" remote="xtended" />
   <project path="system/bt" name="system_bt" remote="gzosp" />
   <project path="system/core" name="system_core" groups="pdk" remote="xtended" />
   <project path="system/vold" name="system_vold" groups="pdk" remote="gzosp" />
