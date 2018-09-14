@@ -52,6 +52,7 @@
   <project path="frameworks/base" name="frameworks_base" remote="xtended" />
   <project path="frameworks/native" name="frameworks_native" groups="pdk" remote="xtended" />
   <project path="frameworks/rs" name="frameworks_rs" groups="pdk" remote="xtended" />
+  <project path="frameworks/support" name="frameworks_support" groups="pdk" remote="xtended" />
   <project path="frameworks/opt/net/wifi" name="frameworks_opt_net_wifi" groups="pdk" remote="gzosp" />
   <project path="hardware/interfaces" name="hardware_interfaces" groups="pdk" remote="xtended" />
   <project path="hardware/libhardware" name="hardware_libhardware" groups="pdk" remote="xtended" />
@@ -59,6 +60,7 @@
   <project path="packages/apps/DocumentsUI" name="packages_apps_DocumentsUI" groups="pdk-cw-fs,pdk-fs" remote="xtended" />
   <project path="packages/providers/DownloadProvider" name="packages_providers_DownloadProvider" groups="pdk-cw-fs,pdk-fs" remote="xtended" />
   <project path="packages/services/Telecomm" name="packages_services_Telecomm" groups="pdk-cw-fs,pdk-fs" remote="xtended" />  
+  <project path="packages/services/Telephony" name="packages_services_Telephony" groups="pdk-cw-fs,pdk-fs" remote="xtended" />
   <project path="packages/apps/Bluetooth" name="packages_apps_Bluetooth" remote="xtended" /> 
   <project path="packages/apps/Messaging" name="packages_apps_Messaging" remote="xtended" />
   <project path="packages/apps/Settings" name="packages_apps_Settings" groups="pdk-fs" remote="xtended" />
