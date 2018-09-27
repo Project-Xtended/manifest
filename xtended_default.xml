@@ -57,11 +57,13 @@
   <project path="frameworks/rs" name="frameworks_rs" groups="pdk" remote="xtended" />
   <project path="frameworks/support" name="frameworks_support" groups="pdk" remote="xtended" />
   <project path="frameworks/opt/net/wifi" name="frameworks_opt_net_wifi" groups="pdk" remote="gzosp" />
+  <project path="frameworks/opt/telephony" name="frameworks_opt_telephony" groups="pdk" remote="xtended" />
   <project path="hardware/interfaces" name="hardware_interfaces" groups="pdk" remote="xtended" />
   <project path="hardware/libhardware" name="hardware_libhardware" groups="pdk" remote="xtended" />
   <project path="hardware/libhardware_legacy" name="hardware_libhardware_legacy" groups="pdk" remote="gzosp" />
   <project path="packages/apps/DocumentsUI" name="packages_apps_DocumentsUI" groups="pdk-cw-fs,pdk-fs" remote="xtended" />
   <project path="packages/providers/DownloadProvider" name="packages_providers_DownloadProvider" groups="pdk-cw-fs,pdk-fs" remote="xtended" />
+  <project path="packages/providers/MediaProvider" name="packages_providers_MediaProvider" groups="pdk-cw-fs,pdk-fs" remote="xtended" />
   <project path="packages/services/Telecomm" name="packages_services_Telecomm" groups="pdk-cw-fs,pdk-fs" remote="xtended" />  
   <project path="packages/services/Telephony" name="packages_services_Telephony" groups="pdk-cw-fs,pdk-fs" remote="xtended" />
   <project path="packages/apps/Bluetooth" name="packages_apps_Bluetooth" remote="xtended" /> 
