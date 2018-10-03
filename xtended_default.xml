@@ -78,9 +78,9 @@
   <project path="packages/apps/OmniStyle" name="packages_apps_OmniStyle" remote="xtended" />  
   <project path="packages/apps/Launcher3" name="packages_apps_Launcher3" remote="xtended" />
   <project path="packages/apps/PackageInstaller" name="packages_apps_PackageInstaller" remote="xtended" />
-  <project path="system/bt" name="system_bt" remote="gzosp" />
+  <project path="system/bt" name="system_bt" remote="xtended" />
   <project path="system/core" name="system_core" groups="pdk" remote="xtended" />
-  <project path="system/vold" name="system_vold" groups="pdk" remote="gzosp" />
+  <project path="system/vold" name="system_vold" groups="pdk" remote="xtended" />
   <project path="vendor/xtended" name="vendor_xtended" remote="xtended" />
 
 </manifest>
