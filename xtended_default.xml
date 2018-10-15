@@ -44,6 +44,7 @@
   <project path="bootable/recovery" name="bootable_recovery" groups="pdk" remote="gzosp" />
   <project path="bionic" name="bionic" remote="xtended" />
   <project path="development" name="development" remote="xtended" />
+  <project path="device/qcom/sepolicy" name="device_qcom_sepolicy" remote="xtended" />
   <project path="external/perfetto" name="external_perfetto" groups="pdk" remote="gzosp" />
   <project path="external/selinux" name="external_selinux" groups="pdk" remote="gzosp" />
   <project path="external/sqlite" name="external_sqlite" groups="pdk" remote="xtended" />
@@ -56,9 +57,13 @@
   <project path="frameworks/native" name="frameworks_native" groups="pdk" remote="xtended" />
   <project path="frameworks/rs" name="frameworks_rs" groups="pdk" remote="xtended" />
   <project path="frameworks/support" name="frameworks_support" groups="pdk" remote="xtended" />
+  <project path="frameworks/opt/net/ims" name="frameworks_opt_net_ims" groups="pdk" remote="xtended" />
   <project path="frameworks/opt/net/wifi" name="frameworks_opt_net_wifi" groups="pdk" remote="gzosp" />
   <project path="frameworks/opt/telephony" name="frameworks_opt_telephony" groups="pdk" remote="xtended" />
   <project path="hardware/interfaces" name="hardware_interfaces" groups="pdk" remote="xtended" />
+  <project path="hardware/xtended/interfaces" name="hardware_xtended_interfaces" remote="xtended" >
+      <copyfile dest="hardware/xtended/Android.bp" src="Android.bp"/>
+  </project>
   <project path="hardware/libhardware" name="hardware_libhardware" groups="pdk" remote="xtended" />
   <project path="hardware/libhardware_legacy" name="hardware_libhardware_legacy" groups="pdk" remote="gzosp" />
   <project path="packages/apps/DocumentsUI" name="packages_apps_DocumentsUI" groups="pdk-cw-fs,pdk-fs" remote="xtended" />
