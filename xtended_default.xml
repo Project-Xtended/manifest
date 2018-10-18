@@ -77,6 +77,7 @@
   <project path="packages/apps/Settings" name="packages_apps_Settings" groups="pdk-fs" remote="xtended" />
   <project path="packages/apps/Xtensions" name="msm_xtended_Xtensions" remote="xtended" />
   <project path="packages/apps/CustomDoze" name="Project-Xtended/packages_apps_CustomDoze" remote="github" revision="xp" />
+  <project path="packages/apps/XOta" name="packages_apps_XOta" remote="xtended" />
   <project path="packages/services/BuiltInPrintService" name="packages_services_BuiltInPrintService" remote="gzosp" />
   <project path="packages/apps/Dialer" name="packages_apps_Dialer" remote="xtended" />
   <project path="packages/services/OmniJaws" name="packages_services_OmniJaws" remote="xtended" />
@@ -89,5 +90,6 @@
   <project path="system/core" name="system_core" groups="pdk" remote="xtended" />
   <project path="system/vold" name="system_vold" groups="pdk" remote="xtended" />
   <project path="vendor/xtended" name="vendor_xtended" remote="xtended" />
+  <project path="vendor/xtended/DevicesOTA" name="vendor_xtended_DevicesOTA" remote="xtended" />
 
 </manifest>
