@@ -75,6 +75,7 @@
   <project path="packages/apps/Nfc" name="packages_apps_Nfc" remote="xtended" />
   <project path="packages/apps/Messaging" name="packages_apps_Messaging" remote="xtended" />
   <project path="packages/apps/Settings" name="packages_apps_Settings" groups="pdk-fs" remote="xtended" />
+  <project path="packages/apps/SettingsIntelligence" name="packages_apps_SettingsIntelligence" groups="pdk-fs" remote="xtended" />
   <project path="packages/apps/Xtensions" name="msm_xtended_Xtensions" remote="xtended" />
   <project path="packages/apps/CustomDoze" name="Project-Xtended/packages_apps_CustomDoze" remote="github" revision="xp" />
   <project path="packages/apps/XOta" name="packages_apps_XOta" remote="xtended" />
