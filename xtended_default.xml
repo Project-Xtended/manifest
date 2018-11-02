@@ -58,7 +58,7 @@
   <project path="frameworks/rs" name="frameworks_rs" groups="pdk" remote="xtended" />
   <project path="frameworks/support" name="frameworks_support" groups="pdk" remote="xtended" />
   <project path="frameworks/opt/net/ims" name="frameworks_opt_net_ims" groups="pdk" remote="xtended" />
-  <project path="frameworks/opt/net/wifi" name="frameworks_opt_net_wifi" groups="pdk" remote="gzosp" />
+  <project path="frameworks/opt/net/wifi" name="frameworks_opt_net_wifi" groups="pdk" remote="xtended" />
   <project path="frameworks/opt/telephony" name="frameworks_opt_telephony" groups="pdk" remote="xtended" />
   <project path="hardware/interfaces" name="hardware_interfaces" groups="pdk" remote="xtended" />
   <project path="hardware/xtended/interfaces" name="hardware_xtended_interfaces" remote="xtended" >
