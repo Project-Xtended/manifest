@@ -92,6 +92,7 @@
   <project path="system/vold" name="system_vold" groups="pdk" remote="xtended" />
   <project path="vendor/xtended" name="vendor_xtended" remote="xtended" />
   <project path="vendor/xtended/DevicesOTA" name="vendor_xtended_DevicesOTA" remote="xtended" />
+  <project path="packages/apps/Pulse" name="packages_apps_Pulse" remote="xtended" />
 
   <!-- ToolChain -->
   <project path="vendor/qcom/dragontc-7.0" name="SuperDroidBond/Dragontc-7.0" remote="github" revision="xp" />
