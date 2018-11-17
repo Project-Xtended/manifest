@@ -1,9 +1,5 @@
+[CENTER]
 [CENTER][IMG="Xtended"]https://s26.postimg.cc/k3s3xuljd/xtended_new.png[/IMG][/CENTER]
-
-[B][CENTER][FONT="Arial Black"][SIZE="4"][U]MSM Xtended Pie 9.0[/U][/SIZE][/FONT][/CENTER][/B]
-
-[CENTER]***This is no more "Cardinal Xtended". We have moved from Cardinal and starting from zero as "[B]MSM Xtended or MSM-X[/B]". The Base is AOSP & GZOSP and thus Special Thanks to @martinusbe & Team GZR for the same.***
-[/CENTER]
 
 [CENTER][CODE]
 * Disclaimer 
@@ -15,36 +11,40 @@
 * BOOM! goes the dynamite
 [/CODE][/CENTER]
 
-[CENTER]
-[SIZE="5"]Feature List:[/SIZE]
-NOTE: Forgive me if I forgot anything. [STRIKE]I am lazy AF[/STRIKE] Not Anymore....:p
+[CENTER][url=https://postimg.cc/MXzXdcrm][img]https://i.postimg.cc/MXzXdcrm/Intro.png[/img][/url]
+[QUOTE]
+***This is no more "Cardinal Xtended". We have moved from Cardinal and starting from zero as "[B]MSM Xtended or MSM-X[/B]".
+We have tried our best to blend it with all available options, features and stability of different ROMs in to one for better user experience.
+The Base is AOSP & GZOSP and thus Special Thanks to @martinusbe & Team GZR for the same.***
+[/QUOTE]
+[/CENTER]
 
-MSM-Xtended Pie - 2ndRebel
-
-[CODE]
-Features Added-:
-
+[CENTER][url=https://postimg.cc/N5MFv3ty][img]https://i.postimg.cc/N5MFv3ty/Features.png[/img][/url]
+[QUOTE][LEFT]
+[HIDE]
 [COLOR="#1976D2"][U]OnePlus Devices[/U][/COLOR]
 
 * Awesome Slider
-* OnePlus Gestures
 * sRGB Toggle
 * HBM Tile & Toggle
 * Wide Color Gamut Toggle
 
-[COLOR="#1976D2"][U]Dialer[/U][/COLOR]
+[B][COLOR="#1976D2"][U]Dialer[/U][/COLOR][/B]
 
 * Post Call Snackbar toggle
 * Full Screen Caller Photo
 * Call Recorder
-* Proximity Answer, Mute & Speakerphone
+* On Call DND Option
 
-[COLOR="#1976D2"][U]Display[/U][/COLOR]
+[B][COLOR="#1976D2"][U]Display[/U][/COLOR][/B]
 
 * Night light brightness mode options
 * Expanded Desktop
 * Screen Stabilization
 * 5 Step Display size
+* Double Tap To Wake
+* Ambient & Always-On Settings
+* Ambient Play Options
 
 [B][COLOR="#1976D2"][U]Settings[/U][/COLOR][/B]
 
@@ -52,10 +52,11 @@ Features Added-:
 * Screenshot sound toggle
 * Volume Steps
 * Increasing Ring Tone
+* Sim 1 & 2 Ringtone
 * Quick Unlock
 * Pass Swipe to Unlock
 
-[COLOR="#1976D2"][B][U][SIZE="4"]===> Xtended Options (Xtensions of Xtended) Includes <===[/SIZE][/U][/B][/COLOR]
+[COLOR="#1976D2"][B][U]===> Xtended Options (Xtensions of Xtended) Includes <===[/U][/B][/COLOR]
 
 [B][COLOR="#1976D2"][U]Animations[/U][/COLOR][/B]
 
@@ -67,46 +68,67 @@ Features Added-:
 
 [B][COLOR="#1976D2"][U]Buttons [/U][/COLOR][/B]
 
-* Volume Key Customization
+* Volume Key Customization (Call Answer, Cursor Control, Reorient & Music Control)
 * Disable Keys
 * Swap Back n Recent Keys
 * Backlight + Customizations
 * Single Press + Long Press + Double Tap Customizations
+* Accidental Touch
 
 [B][COLOR="#1976D2"][U]Decoration Menu[/U][/COLOR][/B]
 
 * System Themes (Omni Style)
 * Battery Bar (Animation, Gradient, etc.)
-* Carrier Label (Font Style, Size & Color Option from AEX N)
+* Carrier Label (Font Style, Size & Color Options)
 * Status Bar Clock Customization
 * Status Bar Battery Customization
-* Status Bar Logo Customization
+* QS Header Styles
+* QS Tiel Icon Styles
+* Status Bar Logo Options
 * Status Bar Weather
 
 [B][COLOR="#1976D2"][U]Gestures[/U][/COLOR][/B]
 
-* Longpress Power for Torch
 * Status Bar Double Tap Sleep
 * Lockscreen Double Tap Sleep
 * AOSP Gestures
+* Carbon Gestures
+* Edge Gestures
+* Gesture Anywhere
+* OP Nav Gestures
+* 3 Finger Screenshot
+* Power Button for Torch & TimeOut
 
 [B][COLOR="#1976D2"][U]Lock screen[/U][/COLOR][/B]
 
 * FP Vibration
 * Lockscreen battery info
-* Lockscreen Weather
-* Lockscreen Clock Font
+* Lockscreen Weather Temp & City Font & Color
+* Lockscreen Weather Condition Image
+* Lockscreen Clock Font, Size & Color
+* Lockscreen Date Font, Size & Color
+* Lockscreen Owner Info Font, Size & Color
 * Lockscreen Shortcuts
 * Face Auto Unlock Toggle
+* Lockscreen Max Notifications
+* Lockscreen Visualiser
+* Lockscreen Media Art
+* Lockscreen FP Unlock on Boot
+* Lockscreen Hide Statusbar
+* Lockscreen Hide Indications
 
 [B][COLOR="#1976D2"][U]Navigation bar[/U][/COLOR][/B]
 
 * Navbar on/off
-* Navbar Customization
+* Navbar Customization (Layout, extra button)
+* Navbar Pixel Animation Options
+* Navbar burn-in Protection
+* Navbar Pulse Options
 
 [B][COLOR="#1976D2"][U]Notifications[/U][/COLOR][/B]
 
 * Heads Up
+* Dialer Only HeadsUp
 * Battery & Charging Light Customization
 * Notification Light Customization
 * Toast app icon toggle
@@ -124,27 +146,40 @@ Features Added-:
 
 [B][COLOR="#1976D2"][U]Recents apps[/U][/COLOR][/B]
 
-* Pie/Oreo Recents Switch
+* Recent Types (Pie/Oreo)
 * Clear all FAB
 * Clear all FAB location
 * Show memory bar
 * Immersive Recents
 * Immersive Recents Date & Time
-* Recents Styles from RR N
+* Recents Styles (Animations, Icon, Colors, etc)
+* Hide Apps from Recents
 
 [B][COLOR="#1976D2"][U]Status bar[/U][/COLOR][/B]
 
 * Network Traffic (Activity Indicators, Type,Units,Interval,Auto Hide, etc)
 * Brightness Control
 * Status Bar Items (Toggles Options)
+* Old Mobile Type Toggle
+* Ticker & Ticker Animations
+* 4G Icon
+* VoLTE Icon
+* Roaming Indicator Icon
 
 [B][COLOR="#1976D2"][U]Quick Settings[/U][/COLOR][/B]
 
 * QS tiles view customization (Number of small QS tiles, rows and columns)
-* QS on LockScreen Toggle
 * Brightness Slider Position
+* Brightness Icon Option
 * Vibrate on Touch Toggle
 * QS Tile Titles Toggle
+* QS Info Header Toggle
+* QS on LockScreen Toggle
+* QS Quick & Smart Pull Down
+* Bluetooth Batter Toggle
+* Vibrate on Touch
+* QS Footer Warnings
+* Running Services Icon Toggle
 
 [B][COLOR="#1976D2"][U]QS Tiles[/U][/COLOR][/B]
 
@@ -153,319 +188,40 @@ Features Added-:
 * Screenrecord QS Tile
 * CPU Info QS Tile
 * On-The-Go Tile
+* HeadsUp Tile
+* Gaming Tile
+* AOD & Ambient Tile
+* Weather & Music Tile
+* Expanded Desktop Tile
 * HBM Tile (OnePlus Devices Only)
 * Add/Remove tiles with one touch                                                                                                             
 
 [B][COLOR="#1976D2"][U]System[/U][/COLOR][/B]
 
-* Time-in-State
-* Doze Settings
-* App Ops
+* Privacy Guard with AppOps
 * Suspended Actions
 * Sensor Block Per Package Toggle
-* Wake on Plug
+* Smart Pixels
+* Wake lock & Alarm Blocker
+* Pocket Mode
+* ADB Notifications
 
 [B][COLOR="#1976D2"][U]Xtra Option[/U][/COLOR][/B]
 
 * System App Remover
 * Keyboard & IME Features
 * Screenshot Type
-* Dashboard Menus (suggestions, conditions & summaries)
-
-
-[B][SIZE="4"]OutDated[/SIZE][/B]
-[HIDE][STRIKE]
-[B]MSM-Xtended x9.5 [/B]
-[B][COLOR="#1976D2"][U]OnePlus Devices Only[/U][/COLOR][/B]
-
-[B][COLOR="#1976D2"][U]Device Features[/U][/COLOR][/B]
-* Gesture Panel
-* Awesome Slider (Notification, Flashlight, Brightness, Rotation, Ringer, Notif. + Ringer Combo & Caffeine)
-* DT2W toggle
-* Swap Back-Recents toggle
-* Vibration Strength Slider
-* Graphics Panel (sRGB, HBM & Wide Gamot Mode)
-
-[B][COLOR="#1976D2"][U]All Devices[/U][/COLOR][/B]
-
-[COLOR="#1976D2"][U]General[/U][/COLOR]
-
-* Android 8.1
-* Security Update: Always Latest
-* New Xtended Wallpaper
-* New Bootanimations
-* LOS Snap Cam
-* Lean Launcher
-* Dailer Proximity for -
-   Auto Call Pickup
-   Smart Mute
-   Auto Call Speakerphone
-* Dialer Call Recording
-* Dialer FullScreen Caller Photo 
-* Toggle for On-Call DND
-* Swipe to Delete Text Messages
-
-[COLOR="#1976D2"][U]Display[/U][/COLOR]
-
-* Ambient display & AOD
-* Night light brightness mode options
-* Expanded Desktop
-* Color Manager
-* Accent Manager
-* DU Font Manager (Extra Fonts)
-* Screen Stabilization
-
-[B][COLOR="#1976D2"][U]Settings[/U][/COLOR][/B]
-
-* Reset battery stats
-* Charging Alerts Toggle (Vibration & Sound)
-* Optimal Charging Alert
-* Screenshot sound toggle
-* Volume Steps
-* Increasing Ring Tone
-* Unlink Ring & Notify Volume
-* Quick Unlock
-* Pass Swipe to Unlock
-* Lock Pattern Grid Size Options (CM Type)
-
-[COLOR="#1976D2"][B][U][SIZE="4"]===> Xtended Options (Xtensions of Xtended) Includes <===[/SIZE][/U][/B][/COLOR]
-
-[B][COLOR="#1976D2"][U]Animations[/U][/COLOR][/B]
-
-* Scrolling Cache
-* System Wide Animations (15 Options + Random)
-* Toast Animation
-* Listview & Interpolator Animations
-
-[B][COLOR="#1976D2"][U]Buttons [/U][/COLOR][/B]
-
-* Volume Key Customization
-* Disable Keys
-* Swap Back n Recent Keys
-* Backlight + Customizations
-* Single Press + Long Press + Double Tap Customizations
-* Home Button Ringing
-
-[B][COLOR="#1976D2"][U]Decoration Menu[/U][/COLOR][/B]
-
-* Battery Bar (Animation, Gradient, etc.)
-* Carrier Label
-* Status Bar Clock Customization
-* Status Bar Battery Customization
-* Status Bar Logo
-* Status Bar Weather
-
-[B][COLOR="#1976D2"][U]Gestures[/U][/COLOR][/B]
-
-* Status Bar Double Tap Sleep
-* Lockscreen Double Tap Sleep
-* Double Press Power Button for Torch
-* 3 Finger Screenshot
-* Pocket Mode
-* Carbon Gestures
-* Gesture Anywhere
-* PIE
-* Edge Gestures
-
-[B][COLOR="#1976D2"][U]Lock screen[/U][/COLOR][/B]
-
-* Media cover art toggle
-* FP Vibration
-* FP Unlock on Reboot
-* Lockscreen battery info
-* Lockscreen Clock Font & Size Customization
-* DU's Lock Clock & Dates Panel Mode
-* Lockscreen Date Font & Size Customization
-* Lockscreen & Bouncer Alpha Customization
-* Lockscreen Items Colorization Options
-* Lockscreen Items Toggle Options
-* Display weather on lockscreen
-* Lockscreen Shortcuts
-* Screen-Off Animation
-* Face Auto Unlock Toggle
-
-[B][COLOR="#1976D2"][U]Navigation bar[/U][/COLOR][/B]
-
-* Navbar on/off
-* Navbar Customization
-* Smartbar, NavBar & Fling
-* Pulse, Lava Lamp & Color Customizations
-* Navbar Accidental Touch
-* Size of Nav Bar
-
-[B][COLOR="#1976D2"][U]Notifications[/U][/COLOR][/B]
-
-* Ambient Music Ticker
-* Heads Up
-* Notification Ticker & Animations
-* Battery & Charging Light Customization
-* Notification Light Customization
-* Toast app icon toggle
-* Toast app icon color
-* Toast app text color
-* Vibrate on connect, answer & hangup toggle
-* Flashlight on Incoming Call
-
-[B][COLOR="#1976D2"][U]Powermenu[/U][/COLOR][/B]
-
-* Advance Reboot
-* Power Menu on Secured Lockscreen
-* Several Toggles, can't write so many
-* On-The-Go Toggle (worth mentioning)
-
-[B][COLOR="#1976D2"][U]Recents apps[/U][/COLOR][/B]
-
-* Clear all FAB
-* Clear all FAB location
-* Show memory bar
-* Recents Layout (Grid, Stock or AndroidGo)
-* Deep Clear Toggle
-* Icon Pack Option
-* Immersive Recents
-* Hidden Apps
-
-[B][COLOR="#1976D2"][U]Status bar[/U][/COLOR][/B]
-
-* Network Traffic (Activity Indicators, Type,Units,Interval,Auto Hide, etc)
-* Battery Customizations (Battery bar, Percentage)
-* Brightness Control
-* Double tap to sleep (Statusbar + Lockscreen)
-* Status Bar Items (Toggles Options)
-* Input Selector Notification
-* ADB Notification
-
-[B][COLOR="#1976D2"][U]Quick Settings[/U][/COLOR][/B]
-
-* QS Carrier Label & Clock Toggle
-* QS Mini Mode
-* QS Header Images
-* QS Small Tiles Scroller
-* Quick Pull Down
-* QS tiles view customization (Number of small QS tiles, rows and columns)
-* QS Footer Warnings toggle
-* Brightness Slider + It's Icon Toggle
-* No QS on Secure Lockscreen
-* Vibrate on Touch Toggle
-* QS Tile Titles Toggle
-* QS Transparency Option
-
-[B][COLOR="#1976D2"][U]QS Tiles[/U][/COLOR][/B]
-
-* Sound QS tile
-* PiP QS tile
-* Sync QS tile
-* Volume panel QS tile
-* NFC QS tile
-* Reboot/Recovery QS tile
-* Compass QS tile
-* Language toggle QS tile
-* Music Search QS Tile
-* Screenrecord QS Tile
-* CPU Info QS Tile
-* HW Keys QS Tile
-* AOD QS Tile
-* Smart Pixels Tile
-* Google Voice Assist Tile
-* On-The-Go Tile
-* HBM Tile (OnePlus Devices Only)
-* Add/Remove tiles with one touch                                                                                                             
-
-[B][COLOR="#1976D2"][U]System[/U][/COLOR][/B]
-
-* Wakelock Blocker
-* Alarms Blocker
-* App Ops
-* Suspended Actions
-* Time In State
-* Doze Settings
-* FC Notification Toggle
-* Media Scanner on Boot Option
-* Sensor Block Per Package Toggle
-* MTP Always On Toggle
-* Smart Pixels
-
-[B][COLOR="#1976D2"][U]Xtra Option[/U][/COLOR][/B]
-
-* Blur Settings Menus
-* System App Remover
-* App CircleBar
-* Rounded Corner Menus
-* Dashboard Conditions & Suggestions
-* Tint Toggles for Power Menu, Lockscreen, Notification BG & Recents
-* App Scaling Option (Only if your device supports)
-[/HIDE][/STRIKE]
-[/CODE]
-[SIZE="5"]Flashing Instructions:[/SIZE]
-[HIDE]
-[SIZE="4"]
-- [B]Verify that you're using the latest version of TWRP [/B]
-- [B]Perform a FULL WIPE as described below if coming from another ROM or a different version of Android[/B]
-   (A full wipe is when you wipe System + Data + Cache + Dalvik ART Cache)
-- [B]Flash the latest version of the ROM[/B]
-- [B]Flash recommended GAPPS linked below[/B]
-- [B]Flash Magisk / SuperSU if you want root[/B]
-- [B]Reboot and ENJOY!![/B]
-[/SIZE]
+* Wake on Plug
+* Vibrate on Plug
+* Dashboard Conditions, Suggestions & Summary
+* Media Scanner on Boot
+* Signature Spoofing (Micro G only)
 [/HIDE]
-
-[SIZE="5"][B]Downloads[/B][/SIZE]
-
-[B]Download ROM:[/B] [URL="https://sourceforge.net/projects/xtended/files"] MSM-Xtended [/URL]
-
-[B]Download Gapps Package:[/B] [URL="https://androidfilehost.com/?fid=5862345805528044548"] GZR Nano Gapps [/URL]
-
-**[B][COLOR="Red"][SIZE="3"]If you fail to follow these instructions, please don't bother reporting any bugs[/SIZE][/COLOR][/B]**
-
-**[B][COLOR="Red"][SIZE="3"]If you use Xposed, please don't bother reporting any bugs[/SIZE][/COLOR][/B]**
-
-**[B][COLOR="Red"][SIZE="3"]If you use another kernel, please don't bother reporting any bugs[/SIZE][/COLOR][/B]**
-
+[/LEFT][/QUOTE]
 [/CENTER]
 
-[SIZE="5"][B][U]Other Links:[/U][/B][/SIZE]
-
-[B]ROM Source Oreo[/B] - [B][URL="https://github.com/Project-Xtended"]Project-Xtended Oreo Sources[/URL][/B]
-
-[B]ROM Source Pie[/B] - [B][URL="https://github.com/Xtended-Pie"]Project-Xtended Pie Sources[/URL][/B]
-
-[B]Kernel Source:[URL="//github.com/mady51/unifiedOp3"]Kernel Sources[/URL][/B]
-
-[B]Telegram Group[/B] - [B][URL="https://t.me/XtendedOfficial"]MSM-X Telegram Public Group[/URL][/B]
-
-[B]G+ Community[/B] - [B][URL="https://plus.google.com/u/1/communities/104070483402051093195"]MSM-X G+ Group[/URL][/B]
-
-[B][SIZE="5"]Credit and Thanks:[/SIZE][/B]
-
-We would like to give thanks to everyone in the Android community, big or small.
-
-That said, we would like to THANK to....
-
-[HIDE]
-* [SIZE="3"][B]LineageOS/Cyanogenmod[/SIZE][/B] [URL]https://github.com/LineageOS[/URL]
-* [SIZE="3"][B]GZOSP[/SIZE][/B] [URL]https://github.com/GZOSP[/URL]
-* [SIZE="3"][B]ColtOS Team & Specially @RakeshBatra[/SIZE][/B] [URL]https://github.com/Colt-Oreo[/URL]
-* [SIZE="3"][B]OmniROM[/SIZE][/B] [URL]https://github.com/omnirom[/URL]
-* [SIZE="3"][B]Nitrogen OS[/SIZE][/B] [URL]https://github.com/nitrogen-project/[/URL]
-* [SIZE="3"][B]AICP[/SIZE][/B] [URL]https://github.com/aicp[/URL]
-* [SIZE="3"][B]crDroid[/SIZE][/B] [URL]https://github.com/crdroidandroid[/URL]
-* [SIZE="3"][B]DirtyUnicorns[/SIZE][/B] [URL]https://github.com/DirtyUnicorns[/URL]
-* [SIZE="3"][B]Screwd AOSP[/SIZE][/B] [URL]https://github.com/ScrewdAOSP[/URL]
-* [SIZE="3"][B]CypherOS[/SIZE][/B] [URL]https://github.com/CypherOS/[/URL]
-* [SIZE="3"][B]Liquid Remix[/SIZE][/B] [URL]https://github.com/LiquidRemix/[/URL]
-* [SIZE="3"][B]Benzo ROM[/SIZE][/B] [URL]https://github.com/BenzoROM/[/URL]
-* [SIZE="3"][B]BootLeggers ROM[/SIZE][/B] [URL]https://github.com/bootleggersrom/[/URL]
-* [SIZE="3"][B]AOSP Extended ROM[/SIZE][/B] [URL]https://github.com/AospExtended/[/URL] (Sorry forgot you guys)
-* [SIZE="3"][B]Resurrection Remix ROM[/SIZE][/B] [URL]https://github.com/ResurrectionRemix/[/URL] (Sorry forgot you guys)
-* [SIZE="3"][B]AIM ROM[/SIZE][/B] [URL]https://github.com/AIMROM/[/URL]
-* [SIZE="3"][B]Toxyc OS/SIZE][/B] [URL]https://github.com/ToxycOS/[/URL]
-* [SIZE="3"][B]AEX Mod[/SIZE][/B] [URL]https://github.com/AexMod/[/URL]
-* [SIZE="3"][B]FireHound[/SIZE][/B] [URL]https://github.com/FireHound/[/URL]
-[/HIDE]
-
-**[B][SIZE="4"]If we have left someone or some team, we apologize and please PM us. We would be very happy to include your name as well.[/SIZE][/B]**
-
-[U][B][SIZE="4"]Our own The TEAM XTENDED[/U][/B][/SIZE]
-
+[CENTER][url=https://postimg.cc/BXVVmKN8][img]https://i.postimg.cc/BXVVmKN8/Team.png[/img][/url]
+[QUOTE][LEFT]
 [MENTION=5678679]mukesh22584[/MENTION] (Project Owner Saviour/Developer)
 [MENTION=8829870]SuperDroidBond[/MENTION] : The Ego Man
 [MENTION=7072514]mady51[/MENTION](Project Owner / Kernel Developer & Maintainer)
@@ -473,51 +229,149 @@ That said, we would like to THANK to....
 [MENTION=7077053]svandasek[/MENTION](Graphics Designer / Devloper & Feature Integrator)
 [MENTION=4479268]Jay_B[/MENTION] (Maintainer & Boot Maker)
 [MENTION=7107153]Ded_Boi[/MENTION] (Developer & Feature Integrator)
+[/LEFT][/QUOTE]
+[/CENTER]
+
+[CENTER][url=https://postimg.cc/xXNdcLcn][img]https://i.postimg.cc/xXNdcLcn/Donation.png[/img][/url]
+[QUOTE][LEFT]
+* [URL=https://www.paypal.me/mukesh22584][B]mukesh22584[/URL][/B]
+* [URL=https://www.paypal.me/mady51][B]mady51[/URL][/B]
+* [URL=https://www.paypal.me/superdroidbond][B]SuperDroidBond[/URL][/B]
+
+[I][B]If you love our work, please donate to us. It will motivate us and help us in keeping the project alive.[/B][/I]
+[/LEFT][/QUOTE]
+[/CENTER]
+
+[CENTER][url=https://postimg.cc/PPx7b4bs][img]https://i.postimg.cc/PPx7b4bs/Support-Links.png[/img][/url]
+[QUOTE][LEFT]
+[B]Telegram Group[/B] - [B][URL="https://t.me/XtendedOfficial"]MSM-X Telegram Public Group[/URL][/B]
+
+[B]G+ Community[/B] - [B][URL="https://plus.google.com/u/1/communities/104070483402051093195"]MSM-X G+ Group[/URL][/B]
+[/LEFT][/QUOTE]
+[/CENTER]
+
+[CENTER][url=https://postimg.cc/vDng4LnX][img]https://i.postimg.cc/vDng4LnX/Download.png[/img][/url]
+[QUOTE][LEFT]
+
+[B]ROM: [URL="https://sourceforge.net/projects/xtended/files"]MSM-Xtended ROM[/URL][/B]
+
+[B]Gapps Package: [URL="https://opengapps.org/"] Open Gapps [/URL][/B]
+
+[B]It's recommended to flash Nano Gapps only for better user experience.[/B]
+[/LEFT][/QUOTE]
+[/CENTER]
+
+[CENTER][url=https://postimg.cc/zLVtKXTC][img]https://i.postimg.cc/zLVtKXTC/Flashing.png[/img][/url]
+[QUOTE][LEFT]
+[B]Clean Flash[/B]
+1) Backup Everything (Most Important)
+2) Download ROM, Gapps, Magisk, etc.
+3) Reboot to Recovery (TWRP)
+4) Wipe System, Data, Cache, Dalvik Cache.
+5) Flash - ROM, Gapps, Magisk
+6) Once done, wipe cache.
+7) Reboot to System.
+
+[B]Dirty Flash[/B]
+1) Backup Everything (Most Important)
+2) Download ROM
+3) Reboot to Recovery (TWRP)
+4) Wipe Cache & Dalvik Cache.
+5) Flash - ROM.
+6) Once done, wipe cache.
+7) Reboot to System.
+
+**[B][COLOR="Red"]If you fail to follow these instructions, please don't bother reporting any bugs[/COLOR][/B]**
+
+**[B][COLOR="Red"]If you use Xposed, please don't bother reporting any bugs[/COLOR][/B]**
+
+**[B][COLOR="Red"]If you use another kernel, please don't bother reporting any bugs[/COLOR][/B]**
+
+[/LEFT][/QUOTE]
+[/CENTER]
+
+[CENTER][url=https://postimg.cc/DWVwsmXs][img]https://i.postimg.cc/DWVwsmXs/Devices.png[/img][/url]
+[QUOTE][LEFT]
+1) [URL=https://forum.xda-developers.com/oneplus-5t/development/msm-xtended-oreoandroid-8-1-t3754938]OnePlus 5T (dumpling)[/URL]
+2) [URL=https://forum.xda-developers.com/oneplus-5/development/stable-msm-xtended-t3761012]OnePlus 5 (cheeseburger)[/URL]
+3) [URL=https://forum.xda-developers.com/oneplus-3/oneplus-3--3t-cross-device-development/cardinal-aosp-5-0-android-8-0-pre-t3693585]OnePlus 3/T (unified 3/T)[/URL]
+5) [URL=https://forum.xda-developers.com/redmi-note-4/xiaomi-redmi-note-4-snapdragon-roms-kernels-recoveries--other-development/official-msm-xtended-pie-9-0-t3846001]Xiaomi Redmi Note 4 (mido)[/URL]
+6) [URL=https://forum.xda-developers.com/redmi-4a/development/stable-msm-xtended-pie-firstblood-t3843313]Xiaomi Redmi 4a (rolex)[/URL]
+7) [URL=https://forum.xda-developers.com/xiaomi-redmi-3s/development/stable-msm-xtended-xp-1-release-v2-t3845979]Xiaomi Redmi 3S (land)[/URL]
+8) [URL=https://forum.xda-developers.com/redmi-note-5/development/official-msm-xtended-9-0-pie-t3859327]Xiaomi Redmi Note 5 & 5 Plus (vince)[/URL]
+9) [URL=https://forum.xda-developers.com/mi-a1/development/stable-msm-xtended-xp-1-release-v1-t3854187]Xiaomi MiA1 (tissot)[/URL]
+10) [URL=https://forum.xda-developers.com/xiaomi-redmi-4x/development/rom-msm-xtended-pie-t3852960]Xiaomi Redmi 4x (santoni)[/URL]
+[/LEFT][/QUOTE]
+[/CENTER]
+
+[CENTER][url=https://postimg.cc/zVcBzxDx][img]https://i.postimg.cc/zVcBzxDx/Sources.png[/img][/url]
+[QUOTE][LEFT]
+[B]ROM Source Oreo[/B] - [B][URL="https://github.com/Project-Xtended"]Project-Xtended Oreo Sources[/URL][/B]
+
+[B]ROM Source Pie[/B] - [B][URL="https://github.com/Xtended-Pie"]Project-Xtended Pie Sources[/URL][/B]
+
+[B]Kernel Source[/B] - [B][URL="XXXX-LINK"]Kernel Sources[/URL][/B]
+[/LEFT][/QUOTE]
+
+[url=https://postimg.cc/D4fZZDbM][img]https://i.postimg.cc/D4fZZDbM/Credits.png[/img][/url]
+[QUOTE][LEFT]
+We would like to give thanks to everyone in the Android community, big or small.
+
+That said, we would like to Thank all These Teams for their contribution to the OpenSource Community.
+[HIDE]
+* [B][URL=https://github.com/LineageOS]LineageOS/Cyanogenmod[/B][/URL]
+* [B][URL=https://github.com/GZOSP]GZOSP[/B][/URL]
+* [B][URL=https://github.com/Colt-Enigma]ColtOS Team[/URL] & Specially @RakeshBatra[/B]
+* [B][URL=https://github.com/OmniRom]OmniROM[/B][/URL]
+* [B][URL=https://github.com/Nitrogen-Project]Nitrogen OS[/B][/URL]
+* [B][URL=https://github.com/AICP]AICP[/B][/URL]
+* [B][URL=https://github.com/CrDroidAndroid]crDroid[/B][/URL]
+* [B][URL=https://github.com/DirtyUnicorns]DirtyUnicorns[/B][/URL]
+* [B][URL=https://github.com/ScrewdAOSP]Screwd AOSP[/B][/URL]
+* [B][URL=https://github.com/CypherOS]CypherOS[/B][/URL]
+* [B][URL=https://github.com/LiquidRemix]Liquid Remix[/B][/URL]
+* [B][URL=https://github.com/BenzoROM]Benzo ROM[/B][/URL]
+* [B][URL=https://github.com/BootLeggersRom]BootLeggers ROM[/B][/URL]
+* [B][URL=https://github.com/AospExtended]AOSP Extended ROM[/B][/URL]
+* [B][URL=https://github.com/ResurrectionRemix]Resurrection Remix ROM[/B][/URL]
+* [B][URL=https://github.com/AIMROM]AIM ROM[/B][/URL]
+* [B][URL=https://github.com/ToxycOS]Toxyc OS[/B][/URL]
+* [B][URL=https://github.com/AexMod]AEX Mod[/B][/URL]
+* [B][URL=https://github.com/Syberia-Project]Syberia-Project[/B][/URL]
+* [B][URL=https://github.com/FireHound]FireHound[/B][/URL]
+[/HIDE]
+**[B]If we have left someone or some team, we apologize and please PM us. We would be very happy to include your name as well.[/B]**
+
+[B]Special Thanks to These Testers[/B]
+[MENTION=8257644]rishi2603[/MENTION] (Tester & Motivator)
+[MENTION=7857357]DrUnknownEMC[/MENTION] (Tester & Motivator)
+[MENTION=8251855]gFknQ[/MENTION] (Tester & Motivator)
+[MENTION=5036129]Sunil Harali[/MENTION] (Tester & Motivator)
+[MENTION=5328429]sushobith[/MENTION] (Tester & Motivator)
 [MENTION=5286475]Dhairya[/MENTION] (Tester & Motivator)
 [MENTION=5992364]Babloo289[/MENTION] (Tester & Motivator)
 [MENTION=6927767]ps_minky16[/MENTION] (Tester & Motivator)
 Chris Kendall (Tester)
-Everyone Else from the Testing Team & Userbase using & sharing feedback for improvements
+Everyone Else from the Testing Team & Users using & sharing feedback for improvements
 
-[U][B][SIZE="4"]Special Thanks & Credits[/U][/B][/SIZE]
+[B]Special Thanks & Credits[/B]
+
 [MENTION=5985430]Rakesh.Batra[/MENTION] - Our Teacher. Learned a lot from you Dada
-@ZenixXx & @SKULSHADY - You guys been a great help
-@NoSpamDan - Thanks for the emergency helps & inputs
+[MENTION=4608158]ZenixXx[/MENTION]
+[MENTION=7578917]SKULSHADY[/MENTION]
+[MENTION=4435460]NoSpamDan[/MENTION]
+[MENTION=3795148]neobuddy89 [/MENTION]
+[MENTION=1211160]HolyAngel[/MENTION]
+[MENTION=6062450]ElDainosor[/MENTION]
+[/LEFT][/QUOTE]
+[/CENTER]
 
-
-[I][U][B][SIZE="5"]Donations[/U]:-[/B][/SIZE][/I]
-[SIZE="4"][B][URL="https://forum.xda-developers.com/donatetome.php?u=8829870"]Donate To Us[/SIZE][/B][/URL]
-
-[I][SIZE="4"][B]If you love our work, please donate to us. It will motivate us and help us in keeping the project alive.[/SIZE][/B][/I]
-
-[HIDE][STRIKE]
-[U][B][SIZE="5"]Official Supported Devices:-[/U][/B][/SIZE]
-[B][SIZE="4"]
-
-1) OnePlus 5T (dumpling)
-2) OnePlus 5 (cheeseburger)
-3) OnePlus 3/T (unified 3/T)
-4) Lenovo Zuk Z2 (zuk2)
-5) Xiaomi Redmi Note 4 (mido)
-6) Xiaomi Redmi 4a (rolex)
-7) Xiaomi Redmi 3S (land)
-8) Moto G5s Plus (sander)
-9) Moto G5 Plus (potter)
-10) Le Max 2 (max2)
-11) Xiaomi Mi Max 2 (oxygen)
-12) Xiaomi Redmi Note 5 & 5 Plus (vince)
-13) Xiaomi Redmi Note 3 (kenzo)
-14) Lenovo P2 (kuntao)
-15) Xiaomi Redmi Note 5 Pro (whyred)
-16) Asus Zenfone Laser 2 (Z00L)
-[/B][/SIZE]
-[/HIDE][/STRIKE]
-
-[U][B][SIZE="5"]XTENDED NOTE:-[/U][/B][/SIZE]
-
-[SIZE="4"]
-1) Please do not use TiB. If you want use then try Swift Backup.
+[CENTER][url=https://postimg.cc/rzgsb8BX][img]https://i.postimg.cc/rzgsb8BX/Notes.png[/img][/url]
+[QUOTE][LEFT]
+1) Please do not use TiB. If you want use then try Swift Backup or Migrate. These are better options for now.
 2) Please Use Paid Themes preferably, so that Substratum Dev can keep on their good work.
 3) [B]If you want to try a new theme, try "Valerie" by bro [MENTION=3294577]@DeadmanxXD[/MENTION]. It's been my favorite ever since I tried it.[/B]
-4) If you earn well, then don't hesitate to donate a few $$. Its token of appreciation and will keep motivated.
-[/SIZE]
+4) If you earn well, then don't hesitate to donate a few $$ to the devs you like. Its token of appreciation and will keep the devs motivated.
+[/LEFT][/QUOTE]
+[/CENTER]
+[/CENTER]

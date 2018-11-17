@@ -26,7 +26,7 @@ Change device with your device code name. Ex.- oneplus3, dumpling, etc.
 
 XDA Thread Title:
 
-     [STABLE] MSM Xtended XP-1 Release v# [Pie|Android 9.0] [Month Date, 2018]
+     [STABLE] MSM Xtended XP# Release v# [Pie|Android 9.0] [Month Date, 2018]
 
 
 
