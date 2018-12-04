@@ -83,7 +83,8 @@
   <project path="packages/services/BuiltInPrintService" name="packages_services_BuiltInPrintService" remote="gzosp" />
   <project path="packages/apps/Dialer" name="packages_apps_Dialer" remote="xtended" />
   <project path="packages/services/OmniJaws" name="packages_services_OmniJaws" remote="xtended" />
-  <project path="packages/apps/OmniStyle" name="packages_apps_OmniStyle" remote="xtended" />  
+  <project path="packages/apps/OmniStyle" name="packages_apps_OmniStyle" remote="xtended" />
+  <project path="packages/apps/OmniDisplayManager" name="packages_apps_OmniDisplayManager" remote="xtended" />  
   <project path="packages/apps/Launcher3" name="packages_apps_Launcher3" remote="xtended" />
   <project path="packages/apps/PackageInstaller" name="packages_apps_PackageInstaller" remote="xtended" />
   <project path="packages/apps/Gallery2" name="packages_apps_Gallery2" remote="xtended" />
