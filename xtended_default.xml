@@ -97,6 +97,9 @@
   <project path="packages/apps/SmartNav" name="packages_apps_SmartNav" remote="xtended" />
   <project path="packages/apps/SmartNavSettings" name="packages_apps_SmartNavSettings" remote="xtended" />
   <project path="packages/providers/AmbientPlayHistoryProvider" name="packages_providers_AmbientPlayHistoryProvider" remote="xtended" />
+  <project path="packages/apps/MusicFX" name="packages_apps_MusicFX" remote="xtended" />
+  <project path="packages/apps/Eleven" name="packages_apps_Eleven" remote="xtended" />
+  <project path="frameworks/opt/jamesdsp" name="frameworks_opt_jamesdsp" remote="xtended" />
 
   <!-- ToolChain -->
   <project path="vendor/qcom/dragontc-7.0" name="SuperDroidBond/Dragontc-7.0" remote="github" revision="xp" />
