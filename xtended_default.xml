@@ -104,6 +104,6 @@
   <project path="packages/apps/DeskClock" name="packages_apps_DeskClock" remote="xtended" />
 
   <!-- ToolChain -->
-  <project path="vendor/qcom/dragontc-7.0" name="SuperDroidBond/Dragontc-7.0" remote="github" revision="xp" />
+  <project path="prebuilts/clang/host/linux-x86" name="prebuilts_clang_host_linux-x86" clone-depth="1" remote="xtended" />
 
 </manifest>
