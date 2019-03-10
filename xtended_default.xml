@@ -94,7 +94,7 @@
   <project path="system/core" name="system_core" groups="pdk" remote="xtended" />
   <project path="system/vold" name="system_vold" groups="pdk" remote="xtended" />
   <project path="vendor/xtended" name="vendor_xtended" remote="xtended" />
-  <project path="vendor/xtended/DevicesOTA" name="vendor_xtended_DevicesOTA" remote="xtended" />
+  <project path="packages/apps/DevicesOTA" name="vendor_xtended_DevicesOTA" remote="xtended" />
   <project path="packages/apps/SmartNav" name="packages_apps_SmartNav" remote="xtended" />
   <project path="packages/apps/SmartNavSettings" name="packages_apps_SmartNavSettings" remote="xtended" />
   <project path="packages/providers/AmbientPlayHistoryProvider" name="packages_providers_AmbientPlayHistoryProvider" remote="xtended" />
