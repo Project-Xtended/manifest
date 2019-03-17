@@ -102,6 +102,7 @@
   <project path="frameworks/opt/jamesdsp" name="frameworks_opt_jamesdsp" remote="xtended" />
   <project path="packages/apps/Recorder" name="packages_apps_Recorder" remote="xtended" />
   <project path="packages/apps/DeskClock" name="packages_apps_DeskClock" remote="xtended" />
+  <project path="packages/apps/ThermalController" name="packages_apps_ThermalController" remote="xtended" />
 
   <!-- ToolChain -->
   <project path="prebuilts/clang/host/linux-x86" name="prebuilts_clang_host_linux-x86" clone-depth="1" remote="xtended" />
