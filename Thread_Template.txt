@@ -1,5 +1,4 @@
-[CENTER]
-[CENTER][IMG="Xtended"]https://s26.postimg.cc/k3s3xuljd/xtended_new.png[/IMG][/CENTER]
+[CENTER][CENTER][IMG="Xtended"]https://s26.postimg.cc/k3s3xuljd/xtended_new.png[/IMG][/CENTER]
 
 [CENTER][CODE]
 * Disclaimer 
@@ -11,7 +10,7 @@
 * BOOM! goes the dynamite
 [/CODE][/CENTER]
 
-[CENTER][url=https://postimg.cc/MXzXdcrm][img]https://i.postimg.cc/MXzXdcrm/Intro.png[/img][/url]
+[CENTER][url=https://postimg.cc/PP4wTCSM][img]https://i.postimg.cc/PP4wTCSM/INTRO.png[/img][/url]
 [QUOTE]
 ***This is no more "Cardinal Xtended". We have moved from Cardinal and starting from zero as "[B]MSM Xtended or MSM-X[/B]".
 We have tried our best to blend it with all available options, features and stability of different ROMs in to one for better user experience.
@@ -19,208 +18,246 @@ The Base is AOSP & GZOSP and thus Special Thanks to @martinusbe & Team GZR for t
 [/QUOTE]
 [/CENTER]
 
-[CENTER][url=https://postimg.cc/N5MFv3ty][img]https://i.postimg.cc/N5MFv3ty/Features.png[/img][/url]
+[CENTER][url=https://postimg.cc/PC58xdcn][img]https://i.postimg.cc/PC58xdcn/FEATURES.png[/img][/url]
 [QUOTE][LEFT]
 [HIDE]
-[COLOR="#1976D2"][U]OnePlus Devices[/U][/COLOR]
+[COLOR="#1976D2"][U]OnePlus Devices[/U][/COLOR][list]
 
-* Awesome Slider
-* sRGB Toggle
-* HBM Tile & Toggle
-* Wide Color Gamut Toggle
+[*]Awesome Slider
+[*]Oneplus Gesture
+[*]Vibrator Strength
+[*]Display Calibration (Kcal)
+[*]Panel Modes
+[*]High Brightness Mode[/list]
 
-[B][COLOR="#1976D2"][U]Dialer[/U][/COLOR][/B]
+[COLOR="#1976D2"][U]Dialer[/U][/COLOR][list]
 
-* Post Call Snackbar toggle
-* Full Screen Caller Photo
-* Call Recorder
-* On Call DND Option
+[*]Post Call Snackbar toggle
+[*]Full Screen Caller Photo
+[*]Call Recorder
+[*]On Call DND Option [/list]
 
-[B][COLOR="#1976D2"][U]Display[/U][/COLOR][/B]
+[COLOR="#1976D2"][U]Display[/U][/COLOR] [list]
 
-* Night light brightness mode options
-* Expanded Desktop
-* Screen Stabilization
-* 5 Step Display size
-* Double Tap To Wake
-* Ambient & Always-On Settings
-* Ambient Play Options
+[*]Night light brightness mode options
+[*]Expanded Desktop
+[*]Screen Stabilization
+[*]5 Step Display size
+[*]Double Tap To Wake
+[*]Ambient Display
+    * Always On,
+    * Pick up
+    * Hand wave
+    * Pocket
+    * New Notification,
+    * Ambient Music Ticker,
+    * Show when Charging,
+    * Ambient auto brightness [/list]
 
-[B][COLOR="#1976D2"][U]Settings[/U][/COLOR][/B]
+[B][COLOR="#1976D2"][U]Settings[/U][/COLOR][/B][list]
 
-* Reset battery stats
-* Screenshot sound toggle
-* Volume Steps
-* Increasing Ring Tone
-* Sim 1 & 2 Ringtone
-* Quick Unlock
-* Pass Swipe to Unlock
+[*]Redesigned Battery Meter View
+[*]Reset battery stats
+[*]Screenshot sound toggle
+[*]Volume Steps
+[*]Increasing Ring Tone
+[*]Sim 1 & 2 Ringtone
+[*]Quick Unlock
+[*]Pass Swipe to Unlock[/list]
 
 [COLOR="#1976D2"][B][U]===> Xtended Options (Xtensions of Xtended) Includes <===[/U][/B][/COLOR]
 
-[B][COLOR="#1976D2"][U]Animations[/U][/COLOR][/B]
+[B][COLOR="#1976D2"][U]Animations[/U][/COLOR][/B][list]
 
-* Scrolling Cache
-* System Wide Animations (15 Options + Random)
-* Toast Animation
-* Listview & Interpolator Animations
-* QS Tile Animations
+[*]System Wide Animations (15 Options + Random)
+[*]Animation Duration
+[*]Disable Transition animations
+[*]Scrolling Cache
+[*]Screen Off animation
+[*]Power menu animation
+[*]QS tile animation
+[*]Toast Animation
+[*]Listview & Interpolator Animations[/list]
 
-[B][COLOR="#1976D2"][U]Buttons [/U][/COLOR][/B]
+[B][COLOR="#1976D2"][U]Buttons [/U][/COLOR][/B][list]
 
-* Volume Key Customization (Call Answer, Cursor Control, Reorient & Music Control)
-* Disable Keys
-* Swap Back n Recent Keys
-* Backlight + Customizations
-* Single Press + Long Press + Double Tap Customizations
-* Accidental Touch
+[*]Volume Key Customization (Call Answer, Cursor Control, Reorient & Music Control)
+[*]Volume panel on left
+[*]Disable Keys
+[*]Swap Back n Recent Keys
+[*]Backlight + Customizations
+[*]Single Press + Long Press + Double Tap Customizations
+[*]Accidental Touch [/list]
 
-[B][COLOR="#1976D2"][U]Decoration Menu[/U][/COLOR][/B]
+[B][COLOR="#1976D2"][U]Decoration Menu[/U][/COLOR][/B][list]
 
-* System Themes (Omni Style)
-* Battery Bar (Animation, Gradient, etc.)
-* Carrier Label (Font Style, Size & Color Options)
-* Status Bar Clock Customization
-* Status Bar Battery Customization
-* QS Header Styles
-* QS Tiel Icon Styles
-* Status Bar Logo Options
-* Status Bar Weather
+[*]System Themes (Compose + 11 Prebuilt themes)
+[*]Dashboard icons
+[*]QS tile style
+[*]QS Header style
+[*]QS Header
+[*]Battery Bar (Animation, Gradient, etc.)
+[*]Battery style
+[*]Clock Settings
+[*]Carrier Label (Font Style, Size & Color Options)
+[*]Status Bar logo
+[*]App icon shape [/list]
 
-[B][COLOR="#1976D2"][U]Gestures[/U][/COLOR][/B]
+[B][COLOR="#1976D2"][U]Gestures[/U][/COLOR][/B][list]
 
-* Status Bar Double Tap Sleep
-* Lockscreen Double Tap Sleep
-* AOSP Gestures
-* Carbon Gestures
-* Edge Gestures
-* Gesture Anywhere
-* OP Nav Gestures
-* 3 Finger Screenshot
-* Power Button for Torch & TimeOut
+[*]AOSP Gesture
+[*]Gesture Anywhere
+[*]Carbon Gesture
+[*]Edge gesture
+[*]Pie
+[*]OP Navigation gesture
+[*]Swipe to screenshot
+[*]Status Bar Double Tap Sleep
+[*]Lockscreen Double Tap Sleep
+[*]Screen off Power Button Torch & TimeOut [/list]
 
-[B][COLOR="#1976D2"][U]Lock screen[/U][/COLOR][/B]
+[B][COLOR="#1976D2"][U]Lock screen[/U][/COLOR][/B][list]
 
-* FP Vibration
-* Lockscreen battery info
-* Lockscreen Weather Temp & City Font & Color
-* Lockscreen Weather Condition Image
-* Lockscreen Clock Font, Size & Color
-* Lockscreen Date Font, Size & Color
-* Lockscreen Owner Info Font, Size & Color
-* Lockscreen Shortcuts
-* Face Auto Unlock Toggle
-* Lockscreen Max Notifications
-* Lockscreen Visualiser
-* Lockscreen Media Art
-* Lockscreen FP Unlock on Boot
-* Lockscreen Hide Statusbar
-* Lockscreen Hide Indications
+[*]Lockscreen shortcuts (Left & Right)
+[*]Hide Bottom shortcuts
+[*]Lockscreen Weather Temp & City Font & Color
+[*]Lockscreen Weather Condition Image
+[*]Lockscreen UI
+    * Clock Style (11 Styles)
+    * Clock Font options
+    * Date font options
+    * Ownerinfo font options
+    * Clock, Date and ownerinfo font size
+    * Lockscreen colors
+    * Clock widget
+    * Hide Status bar, Bottom status text & Lock screen icon.
+[*]Lockscreen notification count
+[*]Lockscreen charging info
+[*]Face Auto Unlock Toggle
+[*]Fingerprint unlock Toggle
+[*]Fingerprint authentication vibration
+[*]Media cover art
+[*]Enable Lockscreen visualizer
+[*]Ambient visualizer
+[*]Use custom color
+[*]Battery bar color [/list]
 
-[B][COLOR="#1976D2"][U]Navigation bar[/U][/COLOR][/B]
+[B][COLOR="#1976D2"][U]SmartNav Bar[/U][/COLOR][/B][list]
 
-* Navbar on/off
-* Navbar Customization (Layout, extra button)
-* Navbar Pixel Animation Options
-* Navbar burn-in Protection
-* Navbar Pulse Options
+[*]Navbar on/off
+[*]Navbar Customization (Layout, extra button)
+[*]Navbar Pixel Animation Options
+[*]Navbar burn-in Protection
+[*]Navbar Pulse Options [/list]
 
-[B][COLOR="#1976D2"][U]Notifications[/U][/COLOR][/B]
+[B][COLOR="#1976D2"][U]Notifications[/U][/COLOR][/B][list]
 
-* Heads Up
-* Dialer Only HeadsUp
-* Battery & Charging Light Customization
-* Notification Light Customization
-* Toast app icon toggle
-* Toast app icon color
-* Toast app text color
-* Vibrate on connect, answer & hangup toggle
-* Flashlight on Incoming Call
+[*]Heads Up
+[*]Dialer Only HeadsUp
+[*]Notification Light Customization
+[*]Battery & Charging Light Customization
+[*]Noisy notification
+[*]Force expanded Notification
+[*]Disable immersive mode Message
+[*]Vibrate on connect, answer & hangup toggle
+[*]Flashlight on Incoming Call
+[*]Toast app icon toggle
+[*]Toast app icon color
+[*]Toast app text color[/list]
 
-[B][COLOR="#1976D2"][U]Powermenu[/U][/COLOR][/B]
+[B][COLOR="#1976D2"][U]Powermenu[/U][/COLOR][/B][list]
 
-* Advance Reboot
-* Power Menu on Secured Lockscreen
-* Several Toggles, can't write so many
-* On-The-Go Toggle (worth mentioning)
+[*]Power/reboot menu opacity
+[*]Power/reboot dialog dim background amount
+[*]Disable power menu on lockscreen
+[*]On-The-Go Toggle (worth mentioning)
+[*]Advance Reboot
+[*]Several Toggles, can't write so many [/list] 
 
-[B][COLOR="#1976D2"][U]Recents apps[/U][/COLOR][/B]
+[B][COLOR="#1976D2"][U]Quick Settings[/U][/COLOR][/B][list]
 
-* Recent Types (Pie/Oreo)
-* Clear all FAB
-* Clear all FAB location
-* Show memory bar
-* Immersive Recents
-* Immersive Recents Date & Time
-* Recents Styles (Animations, Icon, Colors, etc)
-* Hide Apps from Recents
+[*]QS Panel opacity
+[*]QS Tiles Config (Rows & Columns, Portrait & Landscape)
+[*]Tile Title
+[*]Small tiles Config
+[*]Brightness Slider toggle
+[*]Bightness icon toggle
+[*]Brightness buttons toggle
+[*]Brightness slider on bottom toggle
+[*]Information header
+[*]Disable quick settings when locked
+[*]Quick Pulldown
+[*]Smart pulldown
+[*]Bluetooth Battery on statusbar
+[*]Vibrate on touch
+[*]Running services icon
+[*]QS footer warning [/list]
 
-[B][COLOR="#1976D2"][U]Status bar[/U][/COLOR][/B]
+[B][COLOR="#1976D2"][U]Recents Menu[/U][/COLOR][/B][list]
 
-* Network Traffic (Activity Indicators, Type,Units,Interval,Auto Hide, etc)
-* Brightness Control
-* Status Bar Items (Toggles Options)
-* Old Mobile Type Toggle
-* Ticker & Ticker Animations
-* 4G Icon
-* VoLTE Icon
-* Roaming Indicator Icon
+[*]Recent style (Pie/Oreo/Grid/Android Go)
+[*]Clear all FAB
+[*]Clear all FAB location
+[*]Show memory bar
+[*]Recents Styles (Animations, Icon, Colors, etc)
+[*]Immersive Recents
+[*]Immersive Recents Date & Time
+[*]Hide Apps from Recents [/list]
 
-[B][COLOR="#1976D2"][U]Quick Settings[/U][/COLOR][/B]
+[B][COLOR="#1976D2"][U]Status bar[/U][/COLOR][/B][list]
 
-* QS tiles view customization (Number of small QS tiles, rows and columns)
-* Brightness Slider Position
-* Brightness Icon Option
-* Vibrate on Touch Toggle
-* QS Tile Titles Toggle
-* QS Info Header Toggle
-* QS on LockScreen Toggle
-* QS Quick & Smart Pull Down
-* Bluetooth Batter Toggle
-* Vibrate on Touch
-* QS Footer Warnings
-* Running Services Icon Toggle
+[*]Statusbar items
+[*]Network Traffic
+[*]Use old mobile type style
+[*]Ticker
+[*]Ticker animation
+[*]Ticker duration
+[*]Brightness control
+[*]4G icon
+[*]VoLTE icon
+[*]Roaming indicator
+[*]Show data disabled icon
+[*]Show notification icon
+[*]Kill app button
+[*]Breathing Notifications (SMS, Call & Voicemail)[/list]                                                                                   
 
-[B][COLOR="#1976D2"][U]QS Tiles[/U][/COLOR][/B]
+[B][COLOR="#1976D2"][U]System[/U][/COLOR][/B][list]
 
-* Sync QS tile
-* NFC QS tile
-* Screenrecord QS Tile
-* CPU Info QS Tile
-* On-The-Go Tile
-* HeadsUp Tile
-* Gaming Tile
-* AOD & Ambient Tile
-* Weather & Music Tile
-* Expanded Desktop Tile
-* HBM Tile (OnePlus Devices Only)
-* Add/Remove tiles with one touch                                                                                                             
+[*]Smart pixel
+[*]Wakelock blocker
+[*]Alarm Blocker
+[*]Privacy guard
+[*]Suspended Actions
+[*]Time in state
+[*]Doze settings
+[*]Sensor block per-package
+[*]Pocket detection
+[*]ADB notification
+[*]Disable FC Notification [/list]
 
-[B][COLOR="#1976D2"][U]System[/U][/COLOR][/B]
+[B][COLOR="#1976D2"][U]Xtra Option[/U][/COLOR][/B][list]
 
-* Privacy Guard with AppOps
-* Suspended Actions
-* Sensor Block Per Package Toggle
-* Smart Pixels
-* Wake lock & Alarm Blocker
-* Pocket Mode
-* ADB Notifications
+[*]System App Remover
+[*]Keyboard and IME
+[*]App Circle Bar
+[*]Screenshot type
+[*]Allow Signature spoofing
+[*]MediaScanner behavior on boot
+[*]Launch music app on headset connection
+[*]Wake up on charge
+[*]Vibrate on plug/unplug
+[*]Dashboard conditions
+[*]Dashboard suggestions
+[*]Dashboard summaries
+[*]Use columns layout
+[*]Rounded corner config
+[*]Enable scaling [/list]
 
-[B][COLOR="#1976D2"][U]Xtra Option[/U][/COLOR][/B]
-
-* System App Remover
-* Keyboard & IME Features
-* Screenshot Type
-* Wake on Plug
-* Vibrate on Plug
-* Dashboard Conditions, Suggestions & Summary
-* Media Scanner on Boot
-* Signature Spoofing (Micro G only)
 [/HIDE]
 [/LEFT][/QUOTE]
 [/CENTER]
 
-[CENTER][url=https://postimg.cc/BXVVmKN8][img]https://i.postimg.cc/BXVVmKN8/Team.png[/img][/url]
+[CENTER][url=https://postimg.cc/DJLSD0WL][img]https://i.postimg.cc/DJLSD0WL/TEAM.png[/img][/url]
 [QUOTE][LEFT]
 [MENTION=5678679]mukesh22584[/MENTION] (Project Owner Saviour/Developer)
 [MENTION=8829870]SuperDroidBond[/MENTION] : The Ego Man
@@ -232,7 +269,7 @@ The Base is AOSP & GZOSP and thus Special Thanks to @martinusbe & Team GZR for t
 [/LEFT][/QUOTE]
 [/CENTER]
 
-[CENTER][url=https://postimg.cc/xXNdcLcn][img]https://i.postimg.cc/xXNdcLcn/Donation.png[/img][/url]
+[CENTER][url=https://postimg.cc/YhkW56z9][img]https://i.postimg.cc/YhkW56z9/DONATE.png[/img][/url]
 [QUOTE][LEFT]
 * [URL=https://www.paypal.me/mukesh22584][B]mukesh22584[/URL][/B]
 * [URL=https://www.paypal.me/mady51][B]mady51[/URL][/B]
@@ -242,7 +279,7 @@ The Base is AOSP & GZOSP and thus Special Thanks to @martinusbe & Team GZR for t
 [/LEFT][/QUOTE]
 [/CENTER]
 
-[CENTER][url=https://postimg.cc/PPx7b4bs][img]https://i.postimg.cc/PPx7b4bs/Support-Links.png[/img][/url]
+[CENTER][url=https://postimg.cc/WDQDXg4s][img]https://i.postimg.cc/WDQDXg4s/SUPPORT.png[/img][/url]
 [QUOTE][LEFT]
 [B]Telegram Group[/B] - [B][URL="https://t.me/XtendedOfficial"]MSM-X Telegram Public Group[/URL][/B]
 
@@ -250,7 +287,7 @@ The Base is AOSP & GZOSP and thus Special Thanks to @martinusbe & Team GZR for t
 [/LEFT][/QUOTE]
 [/CENTER]
 
-[CENTER][url=https://postimg.cc/vDng4LnX][img]https://i.postimg.cc/vDng4LnX/Download.png[/img][/url]
+[CENTER][url=https://postimg.cc/DWWJrBnC][img]https://i.postimg.cc/DWWJrBnC/DOWNLOAD.png[/img][/url]
 [QUOTE][LEFT]
 
 [B]ROM: [URL="https://sourceforge.net/projects/xtended/files"]MSM-Xtended ROM[/URL][/B]
@@ -261,7 +298,7 @@ The Base is AOSP & GZOSP and thus Special Thanks to @martinusbe & Team GZR for t
 [/LEFT][/QUOTE]
 [/CENTER]
 
-[CENTER][url=https://postimg.cc/zLVtKXTC][img]https://i.postimg.cc/zLVtKXTC/Flashing.png[/img][/url]
+[CENTER][url=https://postimg.cc/Wt0ZYWrC][img]https://i.postimg.cc/Wt0ZYWrC/FLASHING.png[/img][/url]
 [QUOTE][LEFT]
 [B]Clean Flash[/B]
 1) Backup Everything (Most Important)
@@ -290,7 +327,7 @@ The Base is AOSP & GZOSP and thus Special Thanks to @martinusbe & Team GZR for t
 [/LEFT][/QUOTE]
 [/CENTER]
 
-[CENTER][url=https://postimg.cc/DWVwsmXs][img]https://i.postimg.cc/DWVwsmXs/Devices.png[/img][/url]
+[CENTER][url=https://postimg.cc/4HR9NVCW][img]https://i.postimg.cc/4HR9NVCW/DEVICES.png[/img][/url]
 [QUOTE][LEFT]
 1) [URL=https://forum.xda-developers.com/oneplus-5t/development/msm-xtended-oreoandroid-8-1-t3754938]OnePlus 5T (dumpling)[/URL]
 2) [URL=https://forum.xda-developers.com/oneplus-5/development/stable-msm-xtended-t3761012]OnePlus 5 (cheeseburger)[/URL]
@@ -304,16 +341,16 @@ The Base is AOSP & GZOSP and thus Special Thanks to @martinusbe & Team GZR for t
 [/LEFT][/QUOTE]
 [/CENTER]
 
-[CENTER][url=https://postimg.cc/zVcBzxDx][img]https://i.postimg.cc/zVcBzxDx/Sources.png[/img][/url]
+[CENTER][url=https://postimg.cc/5XKQQZdY][img]https://i.postimg.cc/5XKQQZdY/SOURCES.png[/img][/url]
 [QUOTE][LEFT]
 [B]ROM Source Oreo[/B] - [B][URL="https://github.com/Project-Xtended"]Project-Xtended Oreo Sources[/URL][/B]
 
 [B]ROM Source Pie[/B] - [B][URL="https://github.com/Xtended-Pie"]Project-Xtended Pie Sources[/URL][/B]
 
-[B]Kernel Source[/B] - [B][URL="XXXX-LINK"]Kernel Sources[/URL][/B]
+[B]Kernel Source[/B] - [B][URL="xyz"]Kernel Sources[/URL][/B]
 [/LEFT][/QUOTE]
 
-[url=https://postimg.cc/D4fZZDbM][img]https://i.postimg.cc/D4fZZDbM/Credits.png[/img][/url]
+[url=https://postimg.cc/K37gKjxx][img]https://i.postimg.cc/K37gKjxx/CREDIT.png[/img][/url]
 [QUOTE][LEFT]
 We would like to give thanks to everyone in the Android community, big or small.
 
@@ -345,8 +382,6 @@ That said, we would like to Thank all These Teams for their contribution to the 
 [B]Special Thanks to These Testers[/B]
 [MENTION=8257644]rishi2603[/MENTION] (Tester & Motivator)
 [MENTION=7857357]DrUnknownEMC[/MENTION] (Tester & Motivator)
-[MENTION=8251855]gFknQ[/MENTION] (Tester & Motivator)
-[MENTION=5036129]Sunil Harali[/MENTION] (Tester & Motivator)
 [MENTION=5328429]sushobith[/MENTION] (Tester & Motivator)
 [MENTION=5286475]Dhairya[/MENTION] (Tester & Motivator)
 [MENTION=5992364]Babloo289[/MENTION] (Tester & Motivator)
@@ -366,12 +401,11 @@ Everyone Else from the Testing Team & Users using & sharing feedback for improve
 [/LEFT][/QUOTE]
 [/CENTER]
 
-[CENTER][url=https://postimg.cc/rzgsb8BX][img]https://i.postimg.cc/rzgsb8BX/Notes.png[/img][/url]
+[CENTER][url=https://postimg.cc/sGzMRzS8][img]https://i.postimg.cc/sGzMRzS8/X-NOTES.png[/img][/url]
 [QUOTE][LEFT]
 1) Please do not use TiB. If you want use then try Swift Backup or Migrate. These are better options for now.
 2) Please Use Paid Themes preferably, so that Substratum Dev can keep on their good work.
 3) [B]If you want to try a new theme, try "Valerie" by bro [MENTION=3294577]@DeadmanxXD[/MENTION]. It's been my favorite ever since I tried it.[/B]
 4) If you earn well, then don't hesitate to donate a few $$ to the devs you like. Its token of appreciation and will keep the devs motivated.
 [/LEFT][/QUOTE]
-[/CENTER]
-[/CENTER]
+[/CENTER][/CENTER]
