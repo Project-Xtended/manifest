@@ -4,6 +4,9 @@
   <remote  name="github"
            fetch="https://github.com" />
 
+  <remote  name="los"
+           fetch="https://github.com/LineageOS" />
+
   <remote  name="xtended"
            fetch="https://github.com/Xtended-Pie"
            revision="xp" />
@@ -34,13 +37,6 @@
     <linkfile src="bootstrap.bash" dest="bootstrap.bash" />
   </project>
 
-  <project path="hardware/qcom/audio" name="hardware_qcom_audio" groups="qcom,qcom_audio,pdk-qcom" remote="gzosp" />
-  <project path="hardware/qcom/bootctrl" name="hardware_qcom_bootctrl" groups="pdk-qcom" remote="gzosp" />
-  <project path="hardware/qcom/camera" name="hardware_qcom_camera" groups="qcom_camera,pdk-qcom" remote="gzosp" />
-  <project path="hardware/qcom/display" name="hardware_qcom_display" groups="pdk-qcom,qcom,qcom_display" remote="gzosp" />
-  <project path="hardware/qcom/gps" name="hardware_qcom_gps" remote="gzosp" />
-  <project path="hardware/qcom/media" name="hardware_qcom_media" groups="qcom,pdk-qcom" remote="gzosp" />
-
   <project path="bootable/recovery" name="bootable_recovery" groups="pdk" remote="gzosp" />
   <project path="bionic" name="bionic" remote="xtended" />
   <project path="development" name="development" remote="xtended" />
@@ -64,9 +60,7 @@
   <project path="frameworks/opt/net/wifi" name="frameworks_opt_net_wifi" groups="pdk" remote="xtended" />
   <project path="frameworks/opt/telephony" name="frameworks_opt_telephony" groups="pdk" remote="xtended" />
   <project path="hardware/interfaces" name="hardware_interfaces" groups="pdk" remote="xtended" />
-  <project path="hardware/xtended/interfaces" name="hardware_xtended_interfaces" remote="xtended" >
-      <copyfile dest="hardware/xtended/Android.bp" src="Android.bp"/>
-  </project>
+  <project path="hardware/xtended/interfaces" name="hardware_xtended_interfaces" remote="xtended" />
   <project path="hardware/libhardware" name="hardware_libhardware" groups="pdk" remote="xtended" />
   <project path="hardware/libhardware_legacy" name="hardware_libhardware_legacy" groups="pdk" remote="gzosp" />
   <project path="packages/apps/DocumentsUI" name="packages_apps_DocumentsUI" groups="pdk-cw-fs,pdk-fs" remote="xtended" />
