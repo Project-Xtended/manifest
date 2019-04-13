@@ -45,6 +45,8 @@
   <project path="bionic" name="bionic" remote="xtended" />
   <project path="development" name="development" remote="xtended" />
   <project path="device/qcom/sepolicy" name="device_qcom_sepolicy" remote="xtended" />
+  <project path="device/qcom/sepolicy-legacy" name="device_qcom_sepolicy-legacy" remote="xtended" />
+  <project path="device/xtended/sepolicy" name="device_xtended_sepolicy" remote="xtended" />
   <project path="external/perfetto" name="external_perfetto" groups="pdk" remote="gzosp" />
   <project path="external/selinux" name="external_selinux" groups="pdk" remote="gzosp" />
   <project path="external/sqlite" name="external_sqlite" groups="pdk" remote="xtended" />
