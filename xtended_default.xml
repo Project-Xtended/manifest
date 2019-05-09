@@ -51,6 +51,7 @@
   <project path="system/update_engine" name="system_update_engine" groups="pdk" remote="xtended" />
   <project path="external/tinycompress" name="external_tinycompress" groups="pdk" remote="gzosp" />
   <project path="external/skia" name="external_skia" groups="pdk,qcom_msm8x26" remote="xtended" />
+  <project path="external/libjpeg-turbo" name="external_libjpeg-turbo" groups="pdk" remote="xtended" />
   <project path="prebuilts/build-tools" name="prebuilts_build-tools" clone-depth="1" remote="xtended" />
   <project path="frameworks/aoscp" name="frameworks_aoscp" groups="pdk" remote="xtended" />
   <project path="frameworks/av" name="frameworks_av" groups="pdk" remote="xtended" />
