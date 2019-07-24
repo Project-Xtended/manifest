@@ -8,7 +8,7 @@ We Thank all those Devs & Team from whom we have kanged committs.
 
 To initialize your local repository, use this command:
 
-    repo init -u https://github.com/Xtended-Pie/manifest.git -b xp
+    repo init -u https://github.com/Project-Xtended/manifest.git -b xp
 
 To sync the repository, use this command:
 
