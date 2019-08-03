@@ -262,6 +262,7 @@ The Base is AOSP & GZOSP and thus Special Thanks to @martinusbe & Team GZR for t
 [MENTION=5678679]mukesh22584[/MENTION] (Project Owner Saviour/Developer)
 [MENTION=8829870]SuperDroidBond[/MENTION] : The Ego Man
 [MENTION=7072514]mady51[/MENTION](Project Owner / Kernel Developer & Maintainer)
+[MENTION=7916453]anishpratheepan[/MENTION] (Website maintainer, Developer)
 [MENTION=7030109]mcdachpappe[/MENTION] (Developer & Codes Fixer)
 [MENTION=7077053]svandasek[/MENTION](Graphics Designer / Devloper & Feature Integrator)
 [MENTION=4479268]Jay_B[/MENTION] (Maintainer & Boot Maker)
@@ -283,7 +284,7 @@ The Base is AOSP & GZOSP and thus Special Thanks to @martinusbe & Team GZR for t
 [QUOTE][LEFT]
 [B]Telegram Group[/B] - [B][URL="https://t.me/XtendedOfficial"]MSM-X Telegram Public Group[/URL][/B]
 
-[B]G+ Community[/B] - [B][URL="https://plus.google.com/u/1/communities/104070483402051093195"]MSM-X G+ Group[/URL][/B]
+[B]Website[/B] - [B][URL="https://msmxtended.me/"]MSM-X Website[/URL][/B]
 [/LEFT][/QUOTE]
 [/CENTER]
 
@@ -328,26 +329,31 @@ The Base is AOSP & GZOSP and thus Special Thanks to @martinusbe & Team GZR for t
 [/CENTER]
 
 [CENTER][url=https://postimg.cc/4HR9NVCW][img]https://i.postimg.cc/4HR9NVCW/DEVICES.png[/img][/url]
-[QUOTE][LEFT]
-1) [URL=https://forum.xda-developers.com/oneplus-5t/development/msm-xtended-oreoandroid-8-1-t3754938]OnePlus 5T (dumpling)[/URL]
-2) [URL=https://forum.xda-developers.com/oneplus-5/development/stable-msm-xtended-t3761012]OnePlus 5 (cheeseburger)[/URL]
-3) [URL=https://forum.xda-developers.com/oneplus-3/oneplus-3--3t-cross-device-development/cardinal-aosp-5-0-android-8-0-pre-t3693585]OnePlus 3/T (unified 3/T)[/URL]
-5) [URL=https://forum.xda-developers.com/redmi-note-4/xiaomi-redmi-note-4-snapdragon-roms-kernels-recoveries--other-development/official-msm-xtended-pie-9-0-t3846001]Xiaomi Redmi Note 4 (mido)[/URL]
-6) [URL=https://forum.xda-developers.com/redmi-4a/development/stable-msm-xtended-pie-firstblood-t3843313]Xiaomi Redmi 4a (rolex)[/URL]
-7) [URL=https://forum.xda-developers.com/xiaomi-redmi-3s/development/stable-msm-xtended-xp-1-release-v2-t3845979]Xiaomi Redmi 3S (land)[/URL]
-8) [URL=https://forum.xda-developers.com/redmi-note-5/development/official-msm-xtended-9-0-pie-t3859327]Xiaomi Redmi Note 5 & 5 Plus (vince)[/URL]
-9) [URL=https://forum.xda-developers.com/mi-a1/development/stable-msm-xtended-xp-1-release-v1-t3854187]Xiaomi MiA1 (tissot)[/URL]
-10) [URL=https://forum.xda-developers.com/xiaomi-redmi-4x/development/rom-msm-xtended-pie-t3852960]Xiaomi Redmi 4x (santoni)[/URL]
+[QUOTE][LEFT][list]
+[*][URL="https://forum.xda-developers.com/oneplus-one/development/stable-msm-xtended-xp7-release-v14-t3929224"]Oneplus One | Bacon[/URL]
+[*][URL="https://forum.xda-developers.com/oneplus-2/development/stable-msm-xtended-xp6-release-v13-t3925584"]Oneplus 2 | Oneplus 2[/URL]
+[*][URL="https://forum.xda-developers.com/oneplus-3/oneplus-3--3t-cross-device-development/cardinal-aosp-5-0-android-8-0-pre-t3693585"]Oneplus 3/3t | Rain[/URL]
+[*][URL="https://forum.xda-developers.com/oneplus-5/development/stable-msm-xtended-t3761012"]Oneplus 5 | Cheeseburger[/URL]
+[*][URL="https://forum.xda-developers.com/oneplus-5t/development/msm-xtended-oreoandroid-8-1-t3754938"]Oneplus 5t | Dumpling[/URL]
+[*][URL="https://forum.xda-developers.com/redmi-4a/development/stable-msm-xtended-pie-firstblood-t3843313"]Redmi 4A | Rolex[/URL]
+[*][URL="https://forum.xda-developers.com/redmi-note-4/xiaomi-redmi-note-4-snapdragon-roms-kernels-recoveries--other-development/official-msm-xtended-pie-9-0-t3846001"]Redmi Note4 | Mido[/URL]
+[*][URL="https://forum.xda-developers.com/xiaomi-redmi-5a/development/rom-project-xtended-redmi5a-t3947852"]Redmi 5A | Riva[/URL]
+[*][URL="https://forum.xda-developers.com/redmi-note-4/xiaomi-redmi-note-4-snapdragon-roms-kernels-recoveries--other-development/official-msm-xtended-pie-9-0-t3846001"]Redmi Note 5 Pro | Whyred[/URL]
+[*][URL="https://forum.xda-developers.com/poco-f1/development/official-msm-xtended-xp3-release-v7-t3870860"]Pocophone F1 | Beryllium[/URL]
+[*][URL="https://forum.xda-developers.com/moto-g5s-plus/development/rom-msm-xtended-pie-9-0-t3868296"]Moto G5s plus | Sanders[/URL]
+[*][URL="https://forum.xda-developers.com/g5-plus/development/rom-msm-xtended-t3851041"]Moto G5 Plus | Potter[/URL]
+[*][URL="https://forum.xda-developers.com/asus-zenfone-max-pro-m1/development/stable-msm-xtended-xp-1-release-v2-t3847306"]Asus Zenfone Max Pro M1 | X00T[/URL]
+[*][URL="https://forum.xda-developers.com/max-pro-m2/development/stable-msm-xtended-xp8-release-v16-july-t3950089"]Asus Zenphone Max Pro M2 | X01BD[/URL]
+[*][URL="https://forum.xda-developers.com/lenovo-zuk-z2/development/stable-msm-xtended-xp4-release-v8-5-t3882775"]Lenovo Z2 Plus | Z2_Plus[/URL]
+[*][URL="https://forum.xda-developers.com/essential-phone/development/msm-xtendedpie-9-0-t3926239"]Essential Phone | Mata[/URL]
 [/LEFT][/QUOTE]
-[/CENTER]
+[/CENTER][/list]
 
 [CENTER][url=https://postimg.cc/5XKQQZdY][img]https://i.postimg.cc/5XKQQZdY/SOURCES.png[/img][/url]
 [QUOTE][LEFT]
-[B]ROM Source Oreo[/B] - [B][URL="https://github.com/Project-Xtended"]Project-Xtended Oreo Sources[/URL][/B]
+[B]ROM Source [/B] - [B][URL="https://github.com/Project-Xtended"]Project-Xtended Sources[/URL][/B]
 
-[B]ROM Source Pie[/B] - [B][URL="https://github.com/Xtended-Pie"]Project-Xtended Pie Sources[/URL][/B]
-
-[B]Kernel Source[/B] - [B][URL="xyz"]Kernel Sources[/URL][/B]
+[B]Device & Kernel Source[/B] - [B][URL="https://github.com/Xtended-Devices"]HERE[/URL][/B]
 [/LEFT][/QUOTE]
 
 [url=https://postimg.cc/K37gKjxx][img]https://i.postimg.cc/K37gKjxx/CREDIT.png[/img][/url]
@@ -379,25 +385,14 @@ That said, we would like to Thank all These Teams for their contribution to the 
 [/HIDE]
 **[B]If we have left someone or some team, we apologize and please PM us. We would be very happy to include your name as well.[/B]**
 
-[B]Special Thanks to These Testers[/B]
-[MENTION=8257644]rishi2603[/MENTION] (Tester & Motivator)
-[MENTION=7857357]DrUnknownEMC[/MENTION] (Tester & Motivator)
-[MENTION=5328429]sushobith[/MENTION] (Tester & Motivator)
-[MENTION=5286475]Dhairya[/MENTION] (Tester & Motivator)
-[MENTION=5992364]Babloo289[/MENTION] (Tester & Motivator)
-[MENTION=6927767]ps_minky16[/MENTION] (Tester & Motivator)
-Chris Kendall (Tester)
+[B]Special Thanks to These Testers & Motivator[/B]
+[MENTION=8257644]rishi2603[/MENTION] [MENTION=7857357]DrUnknownEMC[/MENTION] [MENTION=5328429]sushobith[/MENTION] [MENTION=5286475]Dhairya[/MENTION] [MENTION=5992364]Babloo289[/MENTION] [MENTION=6927767]ps_minky16[/MENTION]
 Everyone Else from the Testing Team & Users using & sharing feedback for improvements
 
 [B]Special Thanks & Credits[/B]
 
 [MENTION=5985430]Rakesh.Batra[/MENTION] - Our Teacher. Learned a lot from you Dada
-[MENTION=4608158]ZenixXx[/MENTION]
-[MENTION=7578917]SKULSHADY[/MENTION]
-[MENTION=4435460]NoSpamDan[/MENTION]
-[MENTION=3795148]neobuddy89 [/MENTION]
-[MENTION=1211160]HolyAngel[/MENTION]
-[MENTION=6062450]ElDainosor[/MENTION]
+[MENTION=4608158]ZenixXx[/MENTION]  [MENTION=7578917]SKULSHADY[/MENTION]  [MENTION=4435460]NoSpamDan[/MENTION] [MENTION=3795148]neobuddy89 [/MENTION] [MENTION=1211160]HolyAngel[/MENTION] [MENTION=6062450]ElDainosor[/MENTION]
 [/LEFT][/QUOTE]
 [/CENTER]
 
