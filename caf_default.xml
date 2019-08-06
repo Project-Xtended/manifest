@@ -66,7 +66,7 @@
 
   <!-- Vendors -->
   <project path="vendor/codeaurora/telephony" name="android_vendor_codeaurora_telephony" remote="los" revision="lineage-16.0" />
-  <project path="vendor/qcom/opensource/audio" name="android_vendor_qcom_opensource_audio" remote="los" revision="lineage-16.0" />
+  <project path="vendor/qcom/opensource/audio" name="vendor_qcom_opensource_audio" remote="xtended" />
   <project path="vendor/qcom/opensource/cryptfs_hw" name="vendor_qcom_opensource_cryptfs_hw" remote="xtended" />
   <project path="vendor/qcom/opensource/dataservices" name="android_vendor_qcom_opensource_dataservices" remote="los" revision="lineage-16.0" />
   <project path="vendor/qcom/opensource/interfaces" name="android_vendor_qcom_opensource_interfaces" remote="los" revision="lineage-16.0" >
