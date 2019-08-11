@@ -11,6 +11,10 @@
            fetch="https://github.com/Project-Xtended"
            revision="xp" />
   
+  <remote  name="Xtended-Devices"
+           fetch="https://github.com/Xtended-Devices"
+           revision="xp" />
+  
   <remote  name="gzosp"
            fetch="https://github.com/GZOSP" />
 
