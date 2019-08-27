@@ -54,7 +54,7 @@
   <project path="hardware/qcom/keymaster" name="android_hardware_qcom_keymaster" groups="qcom,qcom_keymaster,pdk" remote="los" revision="lineage-16.0" />
 
   <!-- Power -->
-  <project path="hardware/qcom/power" name="hardware_qcom_power" groups="qcom,pdk" remote="gzosp" revision="9.0" />
+  <project path="hardware/qcom/power" name="hardware_qcom_power" groups="qcom,pdk" remote="xtended" revision="xp" />
 
   <!-- Ril -->
   <project path="hardware/ril" name="SuperDroidBond/aosp_hardware_ril" groups="pdk" remote="github" revision="xp" />
