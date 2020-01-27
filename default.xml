@@ -2,11 +2,28 @@
 <manifest>
 
   <remote  name="aosp"
-           fetch=".."
+           fetch="https://android.googlesource.com/"
            review="https://android-review.googlesource.com/" />
+
+  <remote  name="github"
+           fetch="https://github.com" />
+
+  <remote  name="xtended"
+           fetch="https://github.com/Project-Xtended"
+           revision="xq" />
+
+  <remote  name="Xtended-Devices"
+           fetch="https://github.com/Xtended-Devices"
+           revision="xq" />
+
+  <remote  name="lineage"
+           fetch="https://github.com/LineageOS"
+           revision="refs/heads/lineage-17.1" />
+
   <default revision="refs/tags/android-10.0.0_r27"
            remote="aosp"
-           sync-j="4" />
+           sync-j="10"
+           sync-c="true" />
 
   <project path="build/make" name="platform/build" groups="pdk" >
     <copyfile src="core/root.mk" dest="Makefile" />
@@ -782,5 +799,12 @@
   <project path="tools/trebuchet" name="platform/tools/trebuchet" groups="tools,cts,pdk,pdk-cw-fs,pdk-fs" />
 
   <repo-hooks in-project="platform/tools/repohooks" enabled-list="pre-upload" />
+  
+  <!-- Remove unused AOSP repos -->
+  <include name="remove.xml" />
+
+  <!-- Xtended additions -->
+  <include name="lineage.xml" />
+  <include name="xtended.xml" />
 
 </manifest>
