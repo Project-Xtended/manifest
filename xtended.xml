@@ -1,10 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
+  <remote  name="github"
+           fetch="https://github.com" />
+
+  <remote  name="xtended"
+           fetch="https://github.com/Project-Xtended" 
+           revision="refs/heads/xq" />
+           
+  <remote  name="Xtended-Devices"
+           fetch="https://github.com/Xtended-Devices"
+           revision="refs/heads/xq" />
+
+
     <!-- General Repos -->
     <project path="art" name="art" remote="xtended" />
     <project path="bionic" name="bionic" remote="xtended" />
     <project path="bootable/recovery" name="bootable_recovery" remote="xtended" />
+    <project path="development" name="development" remote="xtended" />
     <project path="libcore" name="libcore"  remote="xtended" />
     <project path="manifest" name="manifest" remote="xtended" />
     <project path="platform_testing" name="platform_testing" remote="xtended" />
@@ -94,6 +107,5 @@
 
     <!-- Vendor Repo -->
     <project path="vendor/xtended" name="vendor_xtended" remote="xtended" />
-    <project path="vendor/qcom/opensource/libfmjni" name="vendor_qcom_opensource_libfmjni" remote="xtended"/>
 
 </manifest>
