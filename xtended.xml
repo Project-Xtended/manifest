@@ -104,7 +104,10 @@
     <project path="system/sepolicy" name="system_sepolicy" remote="xtended" />
     <project path="system/update_engine" name="system_update_engine" remote="xtended" /> 
     <project path="system/vold" name="system_vold" remote="xtended" />
-
+  
+    <!-- Tools -->
+    <project path="tools/apifinder" name="tools_apifinder" remote="xtended" />
+    
     <!-- Vendor Repo -->
     <project path="vendor/xtended" name="vendor_xtended" remote="xtended" />
 
