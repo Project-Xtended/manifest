@@ -10,6 +10,7 @@
   <remove-project name="platform/test/mts" />
   <remove-project name="platform/test/vti/alert" />
   <remove-project name="platform/tools/ndkports" />
+  <remove-project name="platform/development" />
 
   <!-- Build -->
   <remove-project name="platform/build" />
