@@ -90,8 +90,8 @@
 
     <!--Prebuilts -->
     <project path="prebuilts/tools-xtended" name="prebuilts_tools-xtended" remote="xtended" clone-depth="1" />
-    <project path="prebuilts/clang/host/linux-x86/clang-6194136" name="prebuilts_clang_host_linux-x86_clang-6194136" remote="xtended" clone-depth="1" />
     <project path="prebuilts/clang/host/linux-x86/clang-6207600" name="prebuilts_clang_host_linux-x86_clang-6207600" remote="xtended" clone-depth="1" />
+    <project path="prebuilts/clang/host/linux-x86/clang-6284175" name="prebuilts_clang_host_linux-x86_clang-6284175" remote="xtended" clone-depth="1" />
     <project path="prebuilts/r8" name="prebuilts_r8" remote="xtended" clone-depth="1" />
 
     <!-- System Repos -->
