@@ -78,8 +78,12 @@
   <!-- External -->
   <remove-project name="platform/external/ARMComputeLibrary" />
   <remove-project name="platform/external/e2fsprogs" />
+  <remove-project name="platform/external/gptfdisk" />
+  <remove-project name="platform/external/libcxx" />
+  <remove-project name="platform/external/libhevc" />
   <remove-project name="platform/external/mksh" />
   <remove-project name="platform/external/openssh" />
+  <remove-project name="platform/external/ppp" />
   <remove-project name="platform/external/python/asn1crypto" />
   <remove-project name="platform/external/python/cffi" />
   <remove-project name="platform/external/python/cryptography" />
@@ -87,8 +91,9 @@
   <remove-project name="platform/external/python/pyopenssl" />
   <remove-project name="platform/external/rapidjson" />
   <remove-project name="platform/external/selinux" />
-  <remove-project name="platform/external/sqlite" />
+  <remove-project name="platform/external/tinyalsa" />
   <remove-project name="platform/external/tinycompress" />
+  <remove-project name="platform/external/toybox" />
 
   <!-- Frameworks -->
   <remove-project name="platform/frameworks/av" />
