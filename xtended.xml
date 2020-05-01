@@ -52,6 +52,7 @@
     <project path="frameworks/av" name="frameworks_av" remote="xtended" />
     <project path="frameworks/base" name="frameworks_base" remote="xtended" />
     <project path="frameworks/native" name="frameworks_native" remote="xtended" />
+    <project path="frameworks/opt/net/ims" name="frameworks_opt_net_ims" remote="xtended" />
     <project path="frameworks/opt/net/wifi" name="frameworks_opt_net_wifi" remote="xtended" />
     <project path="frameworks/opt/telephony" name="frameworks_opt_telephony" remote="xtended" />
 
@@ -75,6 +76,7 @@
     <project path="packages/services/OmniJaws" name="packages_services_OmniJaws" remote="xtended" />
     <project path="packages/apps/OmniStyle" name="packages_apps_OmniStyle" remote="xtended" />
     <project path="packages/apps/PackageInstaller" name="packages_apps_PackageInstaller" remote="xtended" />
+    <project path="packages/apps/PhoneCommon" name="packages_apps_PhoneCommon" remote="xtended" />        
     <project path="packages/apps/Settings" name="packages_apps_Settings"  remote="xtended" />
     <project path="packages/apps/Snap" name="packages_apps_Snap"  remote="xtended" />
     <project path="packages/apps/ThemePicker" name="packages_apps_ThemePicker" remote="xtended" />
@@ -108,5 +110,6 @@
     
     <!-- Vendor Repo -->
     <project path="vendor/xtended" name="vendor_xtended" remote="xtended" />
+    <project path="vendor/xtras" name="vendor_xtras" remote="xtended" />
 
 </manifest>
