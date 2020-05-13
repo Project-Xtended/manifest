@@ -200,5 +200,8 @@
   <remove-project name="platform/system/sepolicy" />
   <remove-project name="platform/system/update_engine" />
   <remove-project name="platform/system/vold" />
+  <!-- Unused IME -->
+  <remove-project name="platform/packages/apps/Car/LatinIME" />
+  <remove-project name="platform/packages/inputmethods/LatinIME" />
 
 </manifest>
