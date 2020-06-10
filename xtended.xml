@@ -48,6 +48,7 @@
     <project path="external/airbnb-lottie" name="external_airbnb-lottie" remote="xtended" />
     <project path="external/tinycompress" name="external_tinycompress" remote="xtended" />
     <project path="external/asus/stitchimage" name="external_asus_stitchimage" remote="xtended" />
+    <project path="external/skia" name="external_skia" remote="xtended" />
 
     <!-- Framework Repos -->
     <project path="frameworks/av" name="frameworks_av" remote="xtended" />
