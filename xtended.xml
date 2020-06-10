@@ -71,7 +71,7 @@
     <project path="packages/apps/DeskClock" name="packages_apps_DeskClock" remote="xtended" />
     <project path="packages/apps/DocumentsUI" name="packages_apps_DocumentsUI" remote="xtended" />
     <project path="packages/apps/Dialer" name="packages_apps_Dialer" remote="xtended" />
-    <project path="packages/apps/Jelly" name="packages_apps_Jelly" remote="xtended" />
+    <project path="packages/apps/Launcher3" name="packages_apps_Launcher3" remote="xtended" />
     <project path="packages/apps/Messaging" name="packages_apps_Messaging" remote="xtended" />
     <project path="packages/apps/Nfc" name="packages_apps_Nfc" remote="xtended" />
     <project path="packages/services/OmniJaws" name="packages_services_OmniJaws" remote="xtended" />
