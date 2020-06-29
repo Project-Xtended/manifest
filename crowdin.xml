@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+ <remote name="xtended" fetch="ssh://git@github.com/Project-Xtended" revision="xq" />
+ <default remote="xtended" sync-c="true" sync-j="8" sync-f="true" />
+ <project path="crowdin" name="crowdin" revision="xq" />
+ <project path="frameworks/base" name="frameworks_base" revision="xq" />
+ <project path="packages/apps/Dialer" name="packages_apps_Dialer" revision="xq" />
+ <project path="packages/apps/Settings" name="packages_apps_Settings" revision="xq" />
+ <project path="packages/apps/Xtensions" name="packages_apps_Xtensions" revision="xq" />
+ <project path="vendor/xtras" name="vendor_xtras" revision="xq" />
+</manifest>

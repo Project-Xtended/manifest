@@ -17,6 +17,7 @@
     <project path="art" name="art" remote="xtended" />
     <project path="bionic" name="bionic" remote="xtended" />
     <project path="bootable/recovery" name="bootable_recovery" remote="xtended" />
+    <project path="crowdin" name="crowdin" remote="xtended" />
     <project path="development" name="development" remote="xtended" />
     <project path="libcore" name="libcore"  remote="xtended" />
     <project path="manifest" name="manifest" remote="xtended" />
