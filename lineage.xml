@@ -116,6 +116,7 @@
   <project path="hardware/ril" name="android_hardware_ril" remote="lineage" />
 
   <!-- Packages -->
+  <project path="packages/apps/Snap" name="android_packages_apps_Snap" remote="lineage" />
   <project path="packages/resources/devicesettings" name="android_packages_resources_devicesettings" remote="lineage" />
 
   <!-- Prebuilts -->
