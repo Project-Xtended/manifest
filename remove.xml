@@ -95,6 +95,9 @@
   <remove-project name="platform/external/tinycompress" />
   <remove-project name="platform/external/toybox" />
   <remove-project name="platform/external/skia" />
+  <remove-project name="platform/external/arm-optimized-routines" />
+  <remove-project name="platform/external/jemalloc_new" />
+  <remove-project name="platform/external/zlib" />
 
   <!-- Frameworks -->
   <remove-project name="platform/frameworks/av" />
