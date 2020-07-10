@@ -99,6 +99,9 @@
     <project path="packages/services/Telecomm" name="packages_services_Telecomm" remote="xtended" />
 
     <!--Prebuilts -->
+    <project path="prebuilts/abi-dumps/ndk" name="prebuilts_abi-dumps/ndk" remote="xtended" clone-depth="1" />    
+    <project path="prebuilts/abi-dumps/vndk" name="prebuilts_abi-dumps/vndk" remote="xtended" clone-depth="1" />    
+    <project path="prebuilts/build-tools" name="prebuilts_build-tools" remote="xtended" clone-depth="1" />    
     <project path="prebuilts/tools-xtended" name="prebuilts_tools-xtended" remote="xtended" clone-depth="1" />    
     <project path="prebuilts/clang/host/linux-x86/clang-6443078" name="prebuilts_clang_host_linux-x86_clang-6443078" remote="xtended" clone-depth="1" />
     <project path="prebuilts/clang/host/linux-x86/clang-6573524" name="prebuilts_clang_host_linux-x86_clang-6573524" remote="xtended" clone-depth="1" />
