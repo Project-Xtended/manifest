@@ -28,18 +28,18 @@ Apply for official maintainership [**HERE**](https://forms.gle/D9WPbBcbeVFiBMJb7
 --------------------------------------------------------------------------------------------------------
 ## Submitting Patches: ##
 
-You can contribute to Project-Xtended just by registering at "https://review.msmxtended.me"
+You can contribute to Project-Xtended just by registering at "https://review.msmxtended.org"
 
 In order to submit patches, you will need an account setup with our Gerrit server and add changeid hooks.
 To add changeid hook, use the following commands:
 
     cd <project>
-    scp -p -P 29418 <username>@review.msmxtended.me:hooks/commit-msg .git/hooks/
+    scp -p -P 29418 <username>@review.msmxtended.org:hooks/commit-msg .git/hooks/
 
 You can also install the hook globally in all local Project-Xtended projects:
 
     cd <rom source>
-    repo forall -c 'gitdir=$(git rev-parse --git-dir); scp -p -P 29418 <username>@review.msmxtended.me:hooks/commit-msg ${gitdir}/hooks/'
+    repo forall -c 'gitdir=$(git rev-parse --git-dir); scp -p -P 29418 <username>@review.msmxtended.org:hooks/commit-msg ${gitdir}/hooks/'
 
 After that, you will have to create your ssh keys that are required for submitting patches to Gerrit:
 
@@ -69,7 +69,7 @@ Type out a commit message that makes sense for the proposed change
 Ctrl X, then Y to save and Enter
 
 ```bash
-git push ssh://USERNAME@review.msmxtended.me:29418/Project-Xtended/PROJECT HEAD:refs/for/BRANCH
+git push ssh://USERNAME@review.msmxtended.org:29418/Project-Xtended/PROJECT HEAD:refs/for/BRANCH
 ```
 BRANCH - i.e xq
 
@@ -80,7 +80,7 @@ USERNAME - i.e SuperDroidBond
 A full command would look like this:
 
 ```bash
-git push ssh://SuperDroidBond@review.msmxtended.me:29418/Project-Xtended/packages_apps_Xtensions HEAD:refs/for/xq
+git push ssh://SuperDroidBond@review.msmxtended.org:29418/Project-Xtended/packages_apps_Xtensions HEAD:refs/for/xq
 ```
 
 If you are going to make extra additions, just repeat steps (don't start a new patch), but instead of git commit -m
