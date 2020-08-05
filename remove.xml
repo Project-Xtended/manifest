@@ -99,6 +99,8 @@
   <remove-project name="platform/external/jemalloc_new" />
   <remove-project name="platform/external/sqlite" />
   <remove-project name="platform/external/zlib" />
+  <remove-project name="platform/external/libpng" />
+  <remove-project name="platform/external/libjpeg-turbo" />
 
   <!-- Frameworks -->
   <remove-project name="platform/frameworks/av" />
