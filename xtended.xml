@@ -91,6 +91,7 @@
     <project path="packages/services/OmniJaws" name="packages_services_OmniJaws" remote="xtended" />
     <project path="packages/apps/OmniStyle" name="packages_apps_OmniStyle" remote="xtended" />
     <project path="packages/apps/PackageInstaller" name="packages_apps_PackageInstaller" remote="xtended" />
+    <project path="packages/apps/Plugins" name="packages_apps_Plugins" remote="xtended" />
     <project path="packages/apps/PhoneCommon" name="packages_apps_PhoneCommon" remote="xtended" />        
     <project path="packages/apps/Settings" name="packages_apps_Settings"  remote="xtended" />
     <project path="packages/apps/Snap" name="packages_apps_Snap"  remote="xtended" />
