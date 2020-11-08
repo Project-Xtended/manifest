@@ -74,8 +74,8 @@
     <project path="hardware/libhardware" name="hardware_libhardware" remote="xtended"  />
     <project path="hardware/libhardware_legacy" name="hardware_libhardware_legacy" remote="xtended" />
     <project path="hardware/xtended/interfaces" name="hardware_xtended_interfaces" remote="xtended" />
-    <project path="hardware/qcom-caf/msm8998/display" name="hardware_qcom-caf_display" remote="xtended" revision="msm8998" />
-    <project path="hardware/qcom-caf/sm8150/display" name="hardware_qcom-caf_display" remote="xtended" revision="sm8150" />
+    <project path="hardware/qcom-caf/msm8998/display" name="hardware_qcom-caf_display" remote="xtended" revision="xq-msm8998" />
+    <project path="hardware/qcom-caf/sm8150/display" name="hardware_qcom-caf_display" remote="xtended" revision="xq-sm8150" />
 
     <!-- Packages Repos -->
     <project path="packages/apps/Bluetooth" name="packages_apps_Bluetooth" remote="xtended" />
