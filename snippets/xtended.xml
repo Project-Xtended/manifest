@@ -29,6 +29,8 @@
   <project path="external/selinux" name="android_external_selinux" remote="xtended" />
   <project path="external/sqlite" name="android_external_sqlite" remote="xtended" />
   <project path="external/zlib" name="android_external_zlib" remote="xtended" />
+  <project path="external/libvpx" name="android_external_libvpx" remote="xtended" />
+  <project path="external/libyuv" name="android_external_libyuv" remote="xtended" />
 
   <!-- Framework repos -->
   <project path="frameworks/av" name="android_frameworks_av" remote="xtended" />
@@ -87,6 +89,7 @@
 
   <!-- System repos -->
   <project path="system/core" name="android_system_core" remote="xtended" />
+  <project path="system/iorap" name="android_system_iorap" remote="xtended" />
   <project path="system/netd" name="android_system_netd" remote="xtended" />
   <project path="system/vold" name="android_system_vold" remote="xtended" />
 
