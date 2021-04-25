@@ -205,6 +205,7 @@
     <remove-project name="platform/system/iorap" />
     <remove-project name="platform/system/incremental_delivery" />
     <remove-project name="platform/system/libufdt" />
+    <remove-project name="platform/system/media" />
     <remove-project name="platform/system/netd" />
     <remove-project name="platform/system/sepolicy" />
     <remove-project name="platform/system/tools/mkbootimg" />
