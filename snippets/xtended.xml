@@ -62,6 +62,7 @@
   <project path="manifest" name="android_manifest" remote="xtended" />
   <project path="vendor/support" name="android_vendor_support" remote="xtended" />
   <project path="vendor/xtended" name="android_vendor_xtended" remote="xtended" />
+  <project path="vendor/xtras" name="android_vendor_xtras" remote="xtended" />
 
   <!-- Hardware repos -->
   <project path="hardware/xtended/interfaces" name="android_hardware_xtended_interfaces" remote="xtended" />
