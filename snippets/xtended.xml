@@ -7,6 +7,10 @@
   <remote  name="gitlab"
            fetch="https://gitlab.com" />
 
+  <remote  name="pixel-gitlab"
+           fetch="https://gitlab.pixelexperience.org/android"
+           revision="eleven" />
+
   <remote  name="xtended"
            fetch="https://github.com/Xtended-Temp"
            revision="refs/heads/xr" />
@@ -26,6 +30,7 @@
   <project path="external/airbnb-lottie" name="android_external_airbnb-lottie" remote="xtended" />
   <project path="external/arm-optimized-routines" name="android_external_arm-optimized-routines" remote="xtended" />
   <project path="external/cpu_features" name="android_external_cpu_features" remote="xtended" />
+  <project path="external/faceunlock" name="external_faceunlock" remote="pixel-gitlab" />
   <project path="external/libjpeg-turbo" name="android_external_libjpeg-turbo" remote="xtended" />
   <project path="external/libpng" name="android_external_libpng" remote="xtended" />
   <project path="external/selinux" name="android_external_selinux" remote="xtended" />
@@ -74,6 +79,7 @@
   <project path="packages/apps/Bluetooth" name="android_packages_apps_Bluetooth" remote="xtended" />
   <project path="packages/apps/Dialer" name="android_packages_apps_Dialer" remote="xtended" />
   <project path="packages/apps/EmergencyInfo" name="android_packages_apps_EmergencyInfo" remote="xtended" />
+  <project path="packages/apps/FaceUnlockService" name="PixelExperience/packages_apps_FaceUnlockService" remote="github" revision="eleven" />
   <project path="packages/apps/Launcher3" name="android_packages_apps_Launcher3" remote="xtended" />
   <project path="packages/apps/Lawnchair" name="android_packages_apps_Lawnchair" remote="xtended" />
   <project path="packages/apps/Messaging" name="android_packages_apps_Messaging" remote="xtended" />
