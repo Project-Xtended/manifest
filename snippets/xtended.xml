@@ -15,7 +15,7 @@
            fetch="https://github.com/Xtended-Temp"
            revision="refs/heads/xr" />
 
-  <remote  name="xtended-devices"
+  <remote  name="Xtended-Devices"
            fetch="https://github.com/Xtended-Devices"
            revision="refs/heads/xr" />
 
