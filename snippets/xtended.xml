@@ -12,46 +12,46 @@
            revision="eleven" />
 
   <remote  name="xtended"
-           fetch="https://github.com/Xtended-Temp"
+           fetch="https://github.com/Project-Xtended"
            revision="refs/heads/xr" />
 
-  <remote  name="xtended-devices"
+  <remote  name="Xtended-Devices"
            fetch="https://github.com/Xtended-Devices"
            revision="refs/heads/xr" />
 
   <!-- Device repos -->
-  <project path="device/xtended/sepolicy" name="android_device_xtended_sepolicy" remote="xtended" />
-  <project path="device/qcom/sepolicy-legacy" name="android_device_qcom_sepolicy-legacy" remote="xtended" />
-  <project path="device/qcom/sepolicy-legacy-um" name="android_device_qcom_sepolicy-legacy-um" remote="xtended" />
-  <project path="device/qcom/sepolicy_vndr" name="android_device_qcom_sepolicy_vndr" remote="xtended" />
+  <project path="device/xtended/sepolicy" name="device_xtended_sepolicy" remote="xtended" />
+  <project path="device/qcom/sepolicy-legacy" name="device_qcom_sepolicy-legacy" remote="xtended" />
+  <project path="device/qcom/sepolicy-legacy-um" name="device_qcom_sepolicy-legacy-um" remote="xtended" />
+  <project path="device/qcom/sepolicy_vndr" name="device_qcom_sepolicy_vndr" remote="xtended" />
 
   <!-- External repos -->
-  <project path="external/asus/stitchimage" name="android_external_asus_stitchimage" remote="xtended" />
-  <project path="external/airbnb-lottie" name="android_external_airbnb-lottie" remote="xtended" />
-  <project path="external/arm-optimized-routines" name="android_external_arm-optimized-routines" remote="xtended" />
-  <project path="external/cpu_features" name="android_external_cpu_features" remote="xtended" />
+  <project path="external/asus/stitchimage" name="external_asus_stitchimage" remote="xtended" />
+  <project path="external/airbnb-lottie" name="external_airbnb-lottie" remote="xtended" />
+  <project path="external/arm-optimized-routines" name="external_arm-optimized-routines" remote="xtended" />
+  <project path="external/cpu_features" name="external_cpu_features" remote="xtended" />
   <project path="external/faceunlock" name="external_faceunlock" remote="pixel-gitlab" />
-  <project path="external/libjpeg-turbo" name="android_external_libjpeg-turbo" remote="xtended" />
-  <project path="external/libpng" name="android_external_libpng" remote="xtended" />
-  <project path="external/selinux" name="android_external_selinux" remote="xtended" />
-  <project path="external/sqlite" name="android_external_sqlite" remote="xtended" />
-  <project path="external/zlib" name="android_external_zlib" remote="xtended" />
-  <project path="external/libvpx" name="android_external_libvpx" remote="xtended" />
-  <project path="external/libyuv" name="android_external_libyuv" remote="xtended" />
+  <project path="external/libjpeg-turbo" name="external_libjpeg-turbo" remote="xtended" />
+  <project path="external/libpng" name="external_libpng" remote="xtended" />
+  <project path="external/selinux" name="external_selinux" remote="xtended" />
+  <project path="external/sqlite" name="external_sqlite" remote="xtended" />
+  <project path="external/zlib" name="external_zlib" remote="xtended" />
+  <project path="external/libvpx" name="external_libvpx" remote="xtended" />
+  <project path="external/libyuv" name="external_libyuv" remote="xtended" />
 
   <!-- Framework repos -->
-  <project path="frameworks/av" name="android_frameworks_av" remote="xtended" />
-  <project path="frameworks/base" name="android_frameworks_base" remote="xtended" />
-  <project path="frameworks/native" name="android_frameworks_native" remote="xtended" />
-  <project path="frameworks/opt/net/ims" name="android_frameworks_opt_net_ims" remote="xtended" />
-  <project path="frameworks/opt/net/wifi" name="android_frameworks_opt_net_wifi" remote="xtended" />
-  <project path="frameworks/opt/telephony" name="android_frameworks_opt_telephony" remote="xtended" />
+  <project path="frameworks/av" name="frameworks_av" remote="xtended" />
+  <project path="frameworks/base" name="frameworks_base" remote="xtended" />
+  <project path="frameworks/native" name="frameworks_native" remote="xtended" />
+  <project path="frameworks/opt/net/ims" name="frameworks_opt_net_ims" remote="xtended" />
+  <project path="frameworks/opt/net/wifi" name="frameworks_opt_net_wifi" remote="xtended" />
+  <project path="frameworks/opt/telephony" name="frameworks_opt_telephony" remote="xtended" />
 
   <!-- General repos -->
-  <project path="art" name="android_art" remote="xtended" />
-  <project path="bionic" name="android_bionic" remote="xtended" />
-  <project path="bootable/recovery" name="android_bootable_recovery" remote="xtended" />
-  <project path="build/make" name="android_build" remote="xtended" >
+  <project path="art" name="art" remote="xtended" />
+  <project path="bionic" name="bionic" remote="xtended" />
+  <project path="bootable/recovery" name="bootable_recovery" remote="xtended" />
+  <project path="build/make" name="build" remote="xtended" >
     <copyfile src="core/root.mk" dest="Makefile" />
     <linkfile src="CleanSpec.mk" dest="build/CleanSpec.mk" />
     <linkfile src="buildspec.mk.default" dest="build/buildspec.mk.default" />
@@ -60,54 +60,54 @@
     <linkfile src="target" dest="build/target" />
     <linkfile src="tools" dest="build/tools" />
   </project>
-  <project path="build/blueprint" name="android_build_blueprint" remote="xtended" />
-  <project path="build/soong" name="android_build_soong" remote="xtended" >
+  <project path="build/blueprint" name="build_blueprint" remote="xtended" />
+  <project path="build/soong" name="build_soong" remote="xtended" >
     <linkfile src="root.bp" dest="Android.bp" />
     <linkfile src="bootstrap.bash" dest="bootstrap.bash" />
   </project>
-  <project path="manifest" name="android_manifest" remote="xtended" />
-  <project path="vendor/support" name="android_vendor_support" remote="xtended" />
-  <project path="vendor/xtended" name="android_vendor_xtended" remote="xtended" />
-  <project path="vendor/xtras" name="android_vendor_xtras" remote="xtended" />
+  <project path="manifest" name="manifest" remote="xtended" />
+  <project path="vendor/support" name="vendor_support" remote="xtended" />
+  <project path="vendor/xtended" name="vendor_xtended" remote="xtended" />
+  <project path="vendor/xtras" name="vendor_xtras" remote="xtended" />
 
   <!-- Hardware repos -->
-  <project path="hardware/xtended/interfaces" name="android_hardware_xtended_interfaces" remote="xtended" />
-  <project path="hardware/interfaces" name="android_hardware_interfaces" remote="xtended" />
-  <project path="hardware/libhardware" name="android_hardware_libhardware" remote="xtended" />
+  <project path="hardware/xtended/interfaces" name="hardware_xtended_interfaces" remote="xtended" />
+  <project path="hardware/interfaces" name="hardware_interfaces" remote="xtended" />
+  <project path="hardware/libhardware" name="hardware_libhardware" remote="xtended" />
 
   <!-- Packages repos -->
-  <project path="packages/apps/Bluetooth" name="android_packages_apps_Bluetooth" remote="xtended" />
-  <project path="packages/apps/Dialer" name="android_packages_apps_Dialer" remote="xtended" />
-  <project path="packages/apps/EmergencyInfo" name="android_packages_apps_EmergencyInfo" remote="xtended" />
+  <project path="packages/apps/Bluetooth" name="packages_apps_Bluetooth" remote="xtended" />
+  <project path="packages/apps/Dialer" name="packages_apps_Dialer" remote="xtended" />
+  <project path="packages/apps/EmergencyInfo" name="packages_apps_EmergencyInfo" remote="xtended" />
   <project path="packages/apps/FaceUnlockService" name="PixelExperience/packages_apps_FaceUnlockService" remote="github" revision="eleven" />
-  <project path="packages/apps/Launcher3" name="android_packages_apps_Launcher3" remote="xtended" />
-  <project path="packages/apps/Lawnchair" name="android_packages_apps_Lawnchair" remote="xtended" />
-  <project path="packages/apps/Messaging" name="android_packages_apps_Messaging" remote="xtended" />
-  <project path="packages/apps/OmniStyle" name="android_packages_apps_OmniStyle" remote="xtended" />
-  <project path="packages/apps/Settings" name="android_packages_apps_Settings" remote="xtended" />
-  <project path="packages/apps/SettingsIntelligence" name="android_packages_apps_SettingsIntelligence" remote="xtended" />
+  <project path="packages/apps/Launcher3" name="packages_apps_Launcher3" remote="xtended" />
+  <project path="packages/apps/Lawnchair" name="packages_apps_Lawnchair" remote="xtended" />
+  <project path="packages/apps/Messaging" name="packages_apps_Messaging" remote="xtended" />
+  <project path="packages/apps/OmniStyle" name="packages_apps_OmniStyle" remote="xtended" />
+  <project path="packages/apps/Settings" name="packages_apps_Settings" remote="xtended" />
+  <project path="packages/apps/SettingsIntelligence" name="packages_apps_SettingsIntelligence" remote="xtended" />
   <project path="packages/apps/SimpleDeviceConfig" name="ProtonAOSP/android_packages_apps_SimpleDeviceConfig" remote="github" revision="rvc" />
-  <project path="packages/apps/Snap" name="android_packages_apps_Snap" remote="xtended" />
-  <project path="packages/apps/ThemePicker" name="android_packages_apps_ThemePicker" remote="xtended" />
-  <project path="packages/apps/Updater" name="android_packages_apps_Updater" remote="xtended" />
-  <project path="packages/apps/WallpaperPicker2" name="android_packages_apps_WallpaperPicker2" remote="xtended" />
-  <project path="packages/apps/Xtensions" name="android_packages_apps_Xtensions" remote="xtended" />
+  <project path="packages/apps/Snap" name="packages_apps_Snap" remote="xtended" />
+  <project path="packages/apps/ThemePicker" name="packages_apps_ThemePicker" remote="xtended" />
+  <project path="packages/apps/Updater" name="packages_apps_Updater" remote="xtended" />
+  <project path="packages/apps/WallpaperPicker2" name="packages_apps_WallpaperPicker2" remote="xtended" />
+  <project path="packages/apps/Xtensions" name="packages_apps_Xtensions" remote="xtended" />
 
   <!-- Prebuilt repos -->
   <project path="prebuilts/clang/host/linux-x86/clang-proton" name="kdrag0n/proton-clang" remote="github" revision="master" />
-  <project path="prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8" name="android_prebuilts_gcc_linux-x86_host_x86_64-linux-glibc2.17-4.8" remote="xtended" clone-depth="1" />
+  <project path="prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8" name="prebuilts_gcc_linux-x86_host_x86_64-linux-glibc2.17-4.8" remote="xtended" clone-depth="1" />
 
   <!-- Providers repos -->
-  <project path="packages/providers/DownloadProvider" name="android_packages_providers_DownloadProvider" remote="xtended" />
+  <project path="packages/providers/DownloadProvider" name="packages_providers_DownloadProvider" remote="xtended" />
 
   <!-- Services repos -->
-  <project path="packages/services/Telecomm" name="android_packages_services_Telecomm" remote="xtended" />
-  <project path="packages/services/Telephony" name="android_packages_services_Telephony" remote="xtended" />
+  <project path="packages/services/Telecomm" name="packages_services_Telecomm" remote="xtended" />
+  <project path="packages/services/Telephony" name="packages_services_Telephony" remote="xtended" />
 
   <!-- System repos -->
-  <project path="system/core" name="android_system_core" remote="xtended" />
-  <project path="system/iorap" name="android_system_iorap" remote="xtended" />
-  <project path="system/netd" name="android_system_netd" remote="xtended" />
-  <project path="system/vold" name="android_system_vold" remote="xtended" />
+  <project path="system/core" name="system_core" remote="xtended" />
+  <project path="system/iorap" name="system_iorap" remote="xtended" />
+  <project path="system/netd" name="system_netd" remote="xtended" />
+  <project path="system/vold" name="system_vold" remote="xtended" />
 
 </manifest>
