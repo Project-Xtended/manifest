@@ -77,6 +77,7 @@
 
   <!-- Packages repos -->
   <project path="packages/apps/Bluetooth" name="android_packages_apps_Bluetooth" remote="xtended" />
+  <project path="packages/apps/DeskClock" name="android_packages_apps_DeskClock" remote="xtended" />
   <project path="packages/apps/Dialer" name="android_packages_apps_Dialer" remote="xtended" />
   <project path="packages/apps/EmergencyInfo" name="android_packages_apps_EmergencyInfo" remote="xtended" />
   <project path="packages/apps/FaceUnlockService" name="PixelExperience/packages_apps_FaceUnlockService" remote="github" revision="eleven" />
