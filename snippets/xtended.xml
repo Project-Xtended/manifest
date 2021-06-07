@@ -111,5 +111,5 @@
   <project path="system/iorap" name="android_system_iorap" remote="xtended" />
   <project path="system/netd" name="android_system_netd" remote="xtended" />
   <project path="system/vold" name="android_system_vold" remote="xtended" />
-
+  <project path="system/sepolicy" name="android_system_sepolicy" remote="xtended" />
 </manifest>
