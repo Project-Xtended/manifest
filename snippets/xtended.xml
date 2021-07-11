@@ -109,6 +109,7 @@
   <project path="packages/services/Telephony" name="packages_services_Telephony" remote="xtended" />
 
   <!-- System repos -->
+  <project path="system/bt" name="system_bt" remote="xtended" />
   <project path="system/core" name="system_core" remote="xtended" />
   <project path="system/iorap" name="system_iorap" remote="xtended" />
   <project path="system/netd" name="system_netd" remote="xtended" />
