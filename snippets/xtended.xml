@@ -7,9 +7,9 @@
   <remote  name="gitlab"
            fetch="https://gitlab.com" />
 
-  <remote  name="pixel-gitlab"
-           fetch="https://gitlab.pixelexperience.org/android"
-           revision="eleven" />
+  <remote  name="xtended-gitlab"
+           fetch="https://gitlab.com/project-xtended"
+           revision="refs/heads/xr" />
 
   <remote  name="xtended"
            fetch="https://github.com/Xtended-Temp"
@@ -30,7 +30,7 @@
   <project path="external/airbnb-lottie" name="android_external_airbnb-lottie" remote="xtended" />
   <project path="external/arm-optimized-routines" name="android_external_arm-optimized-routines" remote="xtended" />
   <project path="external/cpu_features" name="android_external_cpu_features" remote="xtended" />
-  <project path="external/faceunlock" name="external_faceunlock" remote="pixel-gitlab" />
+  <project path="external/faceunlock" name="android_external_faceunlock" remote="xtended-gitlab" />
   <project path="external/libjpeg-turbo" name="android_external_libjpeg-turbo" remote="xtended" />
   <project path="external/libpng" name="android_external_libpng" remote="xtended" />
   <project path="external/selinux" name="android_external_selinux" remote="xtended" />
