@@ -87,6 +87,7 @@
   <project path="packages/apps/Lawnchair" name="packages_apps_Lawnchair" remote="xtended" />
   <project path="packages/apps/Messaging" name="packages_apps_Messaging" remote="xtended" />
   <project path="packages/apps/OmniStyle" name="packages_apps_OmniStyle" remote="xtended" />
+  <project path="packages/apps/PermissionController" name="android_packages_apps_PackageInstaller" remote="xtended" />
   <project path="packages/apps/Plugins" name="packages_apps_Plugins" remote="xtended" />
   <project path="packages/apps/Settings" name="packages_apps_Settings" remote="xtended" />
   <project path="packages/apps/SettingsIntelligence" name="packages_apps_SettingsIntelligence" remote="xtended" />
