@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote  name="github"
+           fetch="https://github.com" />
+
+  <remote  name="gitlab"
+           fetch="https://gitlab.com" />
+
+  <remote  name="xtended-gitlab"
+           fetch="https://gitlab.com/project-xtended" />
+
+  <remote  name="xtended"
+           fetch="https://github.com/Xtended-XS"
+           revision="refs/heads/xs" />
+
+  <remote  name="Xtended-Devices"
+           fetch="https://github.com/Xtended-Devices" />
+
+</manifest>
