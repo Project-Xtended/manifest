@@ -39,6 +39,7 @@
   <project path="external/mksh" name="external_mksh" remote="xtended" />
   <project path="external/selinux" name="external_selinux" remote="xtended" />
   <project path="external/tinycompress" name="external_tinycompress" remote="xtended" />
+  <project path="external/airbnb-lottie" name="external_airbnb-lottie" remote="xtended" />
 
   <!-- frameworks -->
   <project path="frameworks/av" name="frameworks_av" remote="xtended" />
