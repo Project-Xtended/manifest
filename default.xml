@@ -1094,6 +1094,7 @@
   <repo-hooks in-project="platform/tools/repohooks" enabled-list="pre-upload" />
 
 <!-- Remove unused AOSP repos add all Xtended and LineageOS repos -->
+  <include name="lineage.xml" />
   <include name="remove.xml" />
   <include name="xtended.xml" />
   
