@@ -17,4 +17,74 @@
   <remote  name="Xtended-Devices"
            fetch="https://github.com/Xtended-Devices" />
 
+  <project path="art" name="art" remote="xtended" />
+  <project path="bionic" name="bionic" remote="xtended" />
+  <project path="bootable/recovery" name="bootable_recovery" remote="xtended" />
+  <project path="build/make" name="build" remote="xtended" >
+    <copyfile src="core/root.mk" dest="Makefile" />
+    <linkfile src="CleanSpec.mk" dest="build/CleanSpec.mk" />
+    <linkfile src="buildspec.mk.default" dest="build/buildspec.mk.default" />
+    <linkfile src="core" dest="build/core" />
+    <linkfile src="envsetup.sh" dest="build/envsetup.sh" />
+    <linkfile src="target" dest="build/target" />
+    <linkfile src="tools" dest="build/tools" />
+  </project>
+  <project path="build/blueprint" name="build_blueprint" remote="xtended" />
+  <project path="build/soong" name="build_soong" remote="xtended" >
+    <linkfile src="root.bp" dest="Android.bp" />
+    <linkfile src="bootstrap.bash" dest="bootstrap.bash" />
+  </project>
+
+  <!-- external -->
+  <project path="external/mksh" name="external_mksh" remote="xtended" />
+  <project path="external/selinux" name="external_selinux" remote="xtended" />
+  <project path="external/tinycompress" name="external_tinycompress" remote="xtended" />
+
+  <!-- frameworks -->
+  <project path="frameworks/av" name="frameworks_av" remote="xtended" />
+  <project path="frameworks/base" name="frameworks_base" remote="xtended" />
+  <project path="frameworks/native" name="frameworks_native" remote="xtended" />
+  <project path="frameworks/opt/telephony" name="frameworks_opt_telephony" remote="xtended" />
+  
+  <!-- hardware -->
+  <project path="hardware/libhardware" name="hardware_libhardware" remote="xtended" />
+  <project path="hardware/libhardware_legacy" name="hardware_libhardware_legacy" remote="xtended" />
+  <project path="hardware/interfaces" name="hardware_interfaces" remote="xtended" />
+  <project path="hardware/qcom-caf/wlan" name="hardware_qcom_wlan" remote="xtended" revision="xs-caf"/>
+  <project path="hardware/ril" name="hardware_ril" remote="xtended" />
+
+  <!-- packages -->
+  <project path="packages/apps/Camera2" name="packages_apps_Camera2" remote="xtended" />
+  <project path="packages/apps/Contacts" name="packages_apps_Contacts" remote="xtended" />
+  <project path="packages/apps/DeskClock" name="packages_apps_DeskClock" remote="xtended" />
+  <project path="packages/apps/Dialer" name="packages_apps_Dialer" remote="xtended" />
+  <project path="packages/apps/Launcher3" name="packages_apps_Launcher3" remote="xtended" />
+  <project path="packages/apps/Messaging" name="packages_apps_Messaging" remote="xtended" />
+  <project path="packages/apps/Settings" name="packages_apps_Settings" remote="xtended" />
+  <project path="packages/apps/SettingsIntelligence" name="packages_apps_SettingsIntelligence" remote="xtended" />
+  <project path="packages/apps/ThemePicker" name="packages_apps_ThemePicker" remote="xtended" />
+  <project path="packages/apps/WallpaperPicker2" name="packages_apps_WallpaperPicker2" remote="xtended" />
+  <project path="packages/apps/SimpleDeviceConfig" name="packages_apps_SimpleDeviceConfig" remote="xtended" />
+  <project path="packages/providers/ContactsProvider" name="packages_providers_ContactsProvider" remote="xtended" />
+  <project path="packages/providers/DownloadProvider" name="packages_providers_DownloadProvider" remote="xtended" />
+  <project path="packages/providers/MediaProvider" name="packages_providers_MediaProvider" remote="xtended" />
+  <project path="packages/providers/TelephonyProvider" name="packages_providers_TelephonyProvider" remote="xtended" />
+  <project path="packages/services/Telecomm" name="packages_services_Telecomm" remote="xtended" />
+  <project path="packages/services/Telephony" name="packages_services_Telephony" remote="xtended" />
+
+  <!-- prebuilts -->
+  <project path="prebuilts/abi-dumps/vndk" name="prebuilts_abi-dumps_vndk" remote="xtended" />
+
+  <!-- system -->
+  <project path="system/core" name="system_core" remote="xtended" />
+  <project path="system/libhwbinder" name="system_libhwbinder" remote="xtended" />
+  <project path="system/libziparchive" name="system_libziparchive" remote="xtended" />
+  <project path="system/media" name="system_media" remote="xtended" />
+  <project path="system/sepolicy" name="system_sepolicy" remote="xtended" />
+
+  <!-- vendor -->  
+  <project path="vendor/xtended" name="vendor_xtended" remote="xtended" />
+  <project path="vendor/xtras" name="vendor_xtras" remote="xtended" />
+  <project path="vendor/codeaurora/telephony" name="vendor_codeaurora_telephony" remote="xtended" />
+
 </manifest>
