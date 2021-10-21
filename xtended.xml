@@ -75,6 +75,11 @@
 
   <!-- prebuilts -->
   <project path="prebuilts/abi-dumps/vndk" name="prebuilts_abi-dumps_vndk" remote="xtended" />
+  
+  <!-- Device sepolicy -->
+  <project path="device/xtended/sepolicy" name="device_xtended_sepolicy" remote="xtended" />
+  <project path="device/qcom/sepolicy_vndr" name="device_qcom_sepolicy_vndr" remote="xtended" />
+  <project path="device/qcom/sepolicy" name="device_qcom_sepolicy" remote="xtended" />
 
   <!-- system -->
   <project path="system/core" name="system_core" remote="xtended" />
