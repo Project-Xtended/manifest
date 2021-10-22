@@ -53,6 +53,7 @@
   <project path="hardware/interfaces" name="hardware_interfaces" remote="xtended" />
   <project path="hardware/qcom-caf/wlan" name="hardware_qcom_wlan" remote="xtended" revision="xs-caf"/>
   <project path="hardware/ril" name="hardware_ril" remote="xtended" />
+  <project path="hardware/xtended/interfaces" name="hardware_xtended_interfaces" remote="xtended" />
 
   <!-- packages -->
   <project path="packages/apps/Camera2" name="packages_apps_Camera2" remote="xtended" />
