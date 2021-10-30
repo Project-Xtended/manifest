@@ -40,6 +40,7 @@
   <project path="external/selinux" name="external_selinux" remote="xtended" />
   <project path="external/tinycompress" name="external_tinycompress" remote="xtended" />
   <project path="external/airbnb-lottie" name="external_airbnb-lottie" remote="xtended" />
+  <project path="external/json-c" name="external_json-c" remote="xtended" />
 
   <!-- frameworks -->
   <project path="frameworks/av" name="frameworks_av" remote="xtended" />
@@ -62,6 +63,7 @@
   <project path="packages/apps/Dialer" name="packages_apps_Dialer" remote="xtended" />
   <project path="packages/apps/Launcher3" name="packages_apps_Launcher3" remote="xtended" />
   <project path="packages/apps/Messaging" name="packages_apps_Messaging" remote="xtended" />
+  <project path="packages/apps/Nfc" name="packages_apps_Nfc" remote="xtended" />
   <project path="packages/apps/Settings" name="packages_apps_Settings" remote="xtended" />
   <project path="packages/apps/SettingsIntelligence" name="packages_apps_SettingsIntelligence" remote="xtended" />
   <project path="packages/apps/ThemePicker" name="packages_apps_ThemePicker" remote="xtended" />
