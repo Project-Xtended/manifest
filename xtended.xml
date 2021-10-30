@@ -16,6 +16,9 @@
 
   <remote  name="Xtended-Devices"
            fetch="https://github.com/Xtended-Devices" />
+           
+  <remote name="proton" 
+          fetch="https://github.com/ProtonAOSP/" revision="sc" />
 
   <project path="art" name="art" remote="xtended" />
   <project path="bionic" name="bionic" remote="xtended" />
@@ -78,6 +81,11 @@
 
   <!-- prebuilts -->
   <project path="prebuilts/abi-dumps/vndk" name="prebuilts_abi-dumps_vndk" remote="xtended" />
+  
+  <!-- Proton-AOSP -->
+  <project path="external/colorkt" name="android_external_colorkt" remote="proton" />
+  <project path="external/themelib" name="android_external_themelib" remote="proton" />
+  <project path="external/zlib-ng" name="android_external_zlib-ng" remote="proton" />
   
   <!-- Device sepolicy -->
   <project path="device/xtended/sepolicy" name="device_xtended_sepolicy" remote="xtended" />
