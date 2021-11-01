@@ -61,6 +61,7 @@
   <project path="hardware/xtended/interfaces" name="hardware_xtended_interfaces" remote="xtended" />
 
   <!-- packages -->
+  <project path="packages/apps/Bluetooth" name="packages_apps_Bluetooth" remote="xtended" />
   <project path="packages/apps/Camera2" name="packages_apps_Camera2" remote="xtended" />
   <project path="packages/apps/Contacts" name="packages_apps_Contacts" remote="xtended" />
   <project path="packages/apps/DeskClock" name="packages_apps_DeskClock" remote="xtended" />
@@ -100,6 +101,7 @@
   <project path="system/media" name="system_media" remote="xtended" />
   <project path="system/security" name="system_security" remote="xtended" />
   <project path="system/sepolicy" name="system_sepolicy" remote="xtended" />
+  <project path="system/vold" name="system_vold" remote="xtended" />
 
   <!-- vendor -->  
   <project path="vendor/xtended" name="vendor_xtended" remote="xtended" />
