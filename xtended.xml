@@ -74,6 +74,7 @@
   <project path="packages/apps/ThemePicker" name="packages_apps_ThemePicker" remote="xtended" />
   <project path="packages/apps/WallpaperPicker2" name="packages_apps_WallpaperPicker2" remote="xtended" />
   <project path="packages/apps/SimpleDeviceConfig" name="packages_apps_SimpleDeviceConfig" remote="xtended" />
+  <project path="packages/apps/Xtensions" name="packages_apps_Xtensions" remote="xtended" />
   <project path="packages/providers/ContactsProvider" name="packages_providers_ContactsProvider" remote="xtended" />
   <project path="packages/providers/DownloadProvider" name="packages_providers_DownloadProvider" remote="xtended" />
   <project path="packages/providers/MediaProvider" name="packages_providers_MediaProvider" remote="xtended" />
@@ -104,6 +105,7 @@
   <project path="system/vold" name="system_vold" remote="xtended" />
 
   <!-- vendor -->  
+  <project path="vendor/support" name="vendor_support" remote="xtended" />
   <project path="vendor/xtended" name="vendor_xtended" remote="xtended" />
   <project path="vendor/xtras" name="vendor_xtras" remote="xtended" />
   <project path="vendor/codeaurora/telephony" name="vendor_codeaurora_telephony" remote="xtended" />
