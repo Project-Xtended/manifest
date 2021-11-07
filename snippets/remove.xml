@@ -82,6 +82,7 @@
     <remove-project name="platform/external/mksh" />
     <remove-project name="platform/external/openssh" />
     <remove-project name="platform/external/perfetto" />
+    <remove-project name="platform/external/robolectric-shadows" />
     <remove-project name="platform/external/selinux" />
     <remove-project name="platform/external/sqlite" />
     <remove-project name="platform/external/tinyalsa" />
@@ -155,6 +156,7 @@
     <remove-project name="platform/packages/apps/Gallery2" />
     <remove-project name="platform/packages/apps/Launcher3" />
     <remove-project name="platform/packages/apps/LegacyCamera" />
+    <remove-project name="platform/packages/apps/ManagedProvisioning" />
     <remove-project name="platform/packages/apps/Messaging" />
     <remove-project name="platform/packages/apps/Music" />
     <remove-project name="platform/packages/apps/Nfc" />
