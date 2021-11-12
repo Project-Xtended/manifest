@@ -6,6 +6,7 @@
   <remove-project name="platform/build" />
   <remove-project name="platform/build/blueprint" />
   <remove-project name="platform/build/soong" />
+  <remove-project name="platform/libcore" />
 
   <!-- device -->
   <remove-project name="device/amlogic/yukawa" />
@@ -88,6 +89,9 @@
   <remove-project name="platform/hardware/interfaces" />
   <remove-project name="platform/hardware/qcom/camera" />
   <remove-project name="platform/hardware/ril" />
+
+  <!-- modules -->
+  <remove-project name="platform/packages/modules/Connectivity" />
 
   <!-- packages -->
   <remove-project name="platform/packages/apps/Bluetooth" />

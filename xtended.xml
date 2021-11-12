@@ -37,6 +37,7 @@
     <linkfile src="root.bp" dest="Android.bp" />
     <linkfile src="bootstrap.bash" dest="bootstrap.bash" />
   </project>
+  <project path="libcore" name="libcore" remote="xtended"/>
 
   <!-- external -->
   <project path="external/airbnb-lottie" name="external_airbnb-lottie" remote="xtended" />
@@ -138,6 +139,9 @@
   <project path="hardware/libhardware" name="hardware_libhardware" remote="xtended" />
   <project path="hardware/libhardware_legacy" name="hardware_libhardware_legacy" remote="xtended" />
   <project path="hardware/xtended/interfaces" name="hardware_xtended_interfaces" remote="xtended" />
+  
+  <!-- modules -->
+  <project path="packages/modules/Connectivity" name="packages_modules_Connectivity" remote="xtended" />
 
   <!-- packages -->
   <project path="packages/apps/Bluetooth" name="packages_apps_Bluetooth" remote="xtended" />
