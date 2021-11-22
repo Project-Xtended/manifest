@@ -92,6 +92,7 @@
 
   <!-- modules -->
   <remove-project name="platform/packages/modules/Connectivity" />
+  <remove-project name="platform/packages/modules/Permission" />
 
   <!-- packages -->
   <remove-project name="platform/packages/apps/Bluetooth" />
