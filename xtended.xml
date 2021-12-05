@@ -40,6 +40,7 @@
   <project path="libcore" name="libcore" remote="xtended"/>
 
   <!-- external -->
+  <project path="external/exfatprogs" name="external_exfatprogs" remote="xtended" />
   <project path="external/lottie" name="external_lottie" remote="xtended" />
   <project path="external/json-c" name="external_json-c" remote="xtended" />
   <project path="external/mksh" name="external_mksh" remote="xtended" />
