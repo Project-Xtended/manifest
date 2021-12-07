@@ -74,6 +74,7 @@
   <remove-project name="platform/external/mksh" />
   <remove-project name="platform/external/lottie" />
   <remove-project name="platform/external/selinux" />
+  <remove-project name="platform/external/sqlite" />
   <remove-project name="platform/external/tinycompress" />
   <remove-project name="platform/external/zlib" />
 
@@ -83,6 +84,7 @@
   <remove-project name="platform/frameworks/libs/systemui" />
   <remove-project name="platform/frameworks/native" />
   <remove-project name="platform/frameworks/opt/telephony" />
+  <remove-project name="platform/frameworks/opt/net/wifi" />
 
   <!-- hardware -->
   <remove-project name="platform/hardware/libhardware" />
