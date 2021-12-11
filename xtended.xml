@@ -11,15 +11,12 @@
            fetch="https://gitlab.com/project-xtended" />
 
   <remote  name="xtended"
-           fetch="https://github.com/Xtended-XS"
+           fetch="https://github.com/Project-Xtended"
            revision="refs/heads/xs" />
 
   <remote  name="Xtended-Devices"
            fetch="https://github.com/Xtended-Devices" />
            
-  <remote name="proton" 
-          fetch="https://github.com/ProtonAOSP/" revision="sc" />
-
   <project path="art" name="art" remote="xtended" />
   <project path="bionic" name="bionic" remote="xtended" />
   <project path="bootable/recovery" name="bootable_recovery" remote="xtended" />
