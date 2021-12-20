@@ -141,6 +141,7 @@
   <project path="hardware/interfaces" name="hardware_interfaces" remote="xtended" />
   <project path="hardware/libhardware" name="hardware_libhardware" remote="xtended" />
   <project path="hardware/libhardware_legacy" name="hardware_libhardware_legacy" remote="xtended" />
+  <project path="hardware/nxp/nfc" name="hardware_nxp_nfc" remote="xtended" />
   <project path="hardware/xtended/interfaces" name="hardware_xtended_interfaces" remote="xtended" />
   
   <!-- modules -->
