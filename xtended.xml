@@ -193,7 +193,6 @@
 
   <!-- vendor -->  
   <project path="vendor/codeaurora/telephony" name="vendor_codeaurora_telephony" remote="xtended" />
-  <project path="vendor/gapps" name="vendor_gapps" remote="xtended-gitlab" revision="xs" />
   <project path="vendor/qcom/opensource/audio" name="vendor_qcom_opensource_audio" remote="xtended" />
   <project path="vendor/qcom/opensource/commonsys-intf/bluetooth" name="vendor_qcom_opensource_commonsys-intf_bluetooth" remote="xtended" />
   <project path="vendor/qcom/opensource/commonsys-intf/display" name="vendor_qcom_opensource_commonsys-intf_display" remote="xtended" />
@@ -216,4 +215,8 @@
   <project path="vendor/xtended" name="vendor_xtended" remote="xtended" />
   <project path="vendor/xtras" name="vendor_xtras" remote="xtended" />
 
+  <!-- Gitlab repo -->
+  <project path="external/Faceunlock" name="external_Faceunlock" remote="xtended-gitlab" revision="xs" />
+  <project path="packages/apps/FaceUnlockService" name="packages_apps_FaceUnlockService" remote="xtended-gitlab" revision="xs" />
+  <project path="vendor/gapps" name="vendor_gapps" remote="xtended-gitlab" revision="xs" />
 </manifest>
