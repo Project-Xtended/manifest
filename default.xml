@@ -1173,4 +1173,9 @@
   <project path="tools/treble" name="platform/tools/treble" groups="tools,pdk" />
   <project path="tools/trebuchet" name="platform/tools/trebuchet" groups="tools,cts,pdk,pdk-cw-fs,pdk-fs" />
   <!-- END open-source projects -->
+  
+  <!-- Remove unused AOSP repos, add all Xtended and LineageOS repos -->
+  <include name="remove.xml" />
+  <include name="xtended.xml" />
+  <include name="lineage.xml" />
 </manifest>
