@@ -108,6 +108,19 @@
   <project path="hardware/qcom-caf/sm8150/media" name="hardware_qcom_media" groups="qcom,msmnile" remote="xtended" revision="xt-caf-sm8150" />
   <project path="hardware/qcom-caf/sm8250/media" name="hardware_qcom_media" groups="qcom,kona" remote="xtended" revision="xt-caf-sm8250" />
   <project path="hardware/qcom-caf/sm8350/media" name="hardware_qcom_media" groups="qcom" revision="xt-caf-sm8350" remote="xtended" />
+  
+  <!-- Nxp-Nfc -->
+  <project path="vendor/nxp/nfc" name="vendor_nxp_nfc" remote="xtended" />
+  <project path="vendor/nxp/secure_element" name="vendor_nxp_secure_element" remote="xtended"/>
+  <project path="vendor/nxp/secure_element_extns" name="vendor_nxp_secure_element_extns" remote="xtended"/>
+  <project path="vendor/nxp/opensource/interfaces/nfc" name="vendor_nxp_opensource_interfaces_nfc" remote="xtended"/>  
+  <project path="vendor/nxp/opensource/commonsys/external/libnfc-nci" name="vendor_nxp_opensource_commonsys_external_libnfc-nci" remote="xtended"/>  
+  <project path="vendor/nxp/opensource/commonsys/frameworks" name="vendor_nxp_opensource_commonsys_frameworks" remote="xtended"/>  
+  <project path="vendor/nxp/opensource/commonsys/packages/apps/Nfc" name="vendor_nxp_opensource_commonsys_packages_apps_Nfc" remote="xtended"/>   
+  <project path="vendor/nxp/opensource/pn5xx/halimpl" name="vendor_nxp_opensource_halimpl" remote="xtended" revision="xt-pn5xx" />
+  <project path="vendor/nxp/opensource/pn5xx/hidlimpl" name="vendor_nxp_opensource_hidlimpl" remote="xtended" revision="xt-pn5xx" />
+  <project path="vendor/nxp/opensource/sn100x/halimpl" name="vendor_nxp_opensource_halimpl" remote="xtended" revision="xt-sn100x" />
+  <project path="vendor/nxp/opensource/sn100x/hidlimpl" name="vendor_nxp_opensource_hidlimpl" remote="xtended" revision="xt-sn100x" />
     
   <!-- Packages -->
   <project path="packages/apps/Aperture" name="packages_apps_Aperture" remote="xtended" />
