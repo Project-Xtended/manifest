@@ -134,6 +134,7 @@
   <project path="packages/apps/Nfc" name="packages_apps_Nfc" remote="xtended" />
   <project path="packages/apps/RepainterServicePriv" name="kdrag0n/android_packages_apps_RepainterServicePriv" remote="github" revision="main" />
   <project path="packages/apps/Settings" name="packages_apps_Settings" groups="pdk-fs" remote="xtended" />
+  <project path="packages/apps/SettingsIntelligence" name="packages_apps_SettingsIntelligence" groups="pdk-fs" remote="xtended" />
   <project path="packages/apps/ThemePicker" name="packages_apps_ThemePicker" remote="xtended" />
   <project path="packages/modules/Connectivity" name="packages_modules_Connectivity" remote="xtended" />
   <project path="packages/modules/NetworkStack" name="packages_modules_NetworkStack" remote="xtended" />
