@@ -143,6 +143,7 @@
   <project path="packages/modules/Permission" name="packages_modules_Permission" remote="xtended" />
   <project path="packages/modules/Wifi" name="packages_modules_Wifi" remote="xtended" />
   <project path="packages/services/Telephony" name="packages_services_Telephony" remote="xtended" />
+  <project path="packages/services/Telecomm" name="packages_services_Telecomm" remote="xtended" />
 
   <!-- providers -->
   <project path="packages/providers/ContactsProvider" name="packages_providers_ContactsProvider" remote="xtended" />

@@ -98,6 +98,7 @@
   <remove-project name="platform/packages/modules/NetworkStack" />
   <remove-project name="platform/packages/modules/Permission" />
   <remove-project name="platform/packages/modules/Wifi" />
+  <remove-project name="platform/packages/services/Telecomm" />
   <remove-project name="platform/packages/services/Telephony" />
   
   <!-- providers -->
