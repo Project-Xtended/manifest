@@ -41,6 +41,7 @@
   </project>
   
   <!-- External -->
+  <project path="external/faceunlock" name="external_faceunlock" remote="x-gitlab" />
   <project path="external/tinycompress" name="external_tinycompress" remote="xtended" />
   <project path="external/roboto-fonts" name="external_roboto-fonts" remote="xtended" />
   <project path="external/sqlite" name="external_sqlite" remote="xtended" />
@@ -129,6 +130,7 @@
   <project path="packages/apps/Contacts" name="packages_apps_Contacts" groups="pdk-fs" remote="xtended" />
   <project path="packages/apps/Dialer" name="packages_apps_Dialer" groups="pdk-fs" remote="xtended" />
   <project path="packages/apps/DocumentsUI" name="packages_apps_DocumentsUI" groups="pdk-cw-fs,pdk-fs" remote="xtended" />
+  <project path="packages/apps/FaceUnlockService" name="packages_apps_FaceUnlockService" remote="x-gitlab" />
   <project path="packages/apps/Gallery2" name="packages_apps_Gallery2" groups="pdk-fs" remote="xtended" />
   <project path="packages/apps/GameSpace" name="packages_apps_GameSpace" remote="xtended" />
   <project path="packages/apps/Launcher3" name="packages_apps_Launcher3" groups="pdk-fs" remote="xtended" />
