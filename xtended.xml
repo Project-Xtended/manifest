@@ -143,6 +143,7 @@
   <project path="packages/apps/SettingsIntelligence" name="packages_apps_SettingsIntelligence" groups="pdk-fs" remote="xtended" />
   <project path="packages/apps/ThemePicker" name="packages_apps_ThemePicker" remote="xtended" />
   <project path="packages/apps/WallpaperPicker2" name="packages_apps_WallpaperPicker2" remote="xtended" />
+  <project path="packages/modules/Bluetooth" name="packages_modules_Bluetooth" remote="xtended" />
   <project path="packages/modules/Connectivity" name="packages_modules_Connectivity" remote="xtended" />
   <project path="packages/modules/NetworkStack" name="packages_modules_NetworkStack" remote="xtended" />
   <project path="packages/modules/Permission" name="packages_modules_Permission" remote="xtended" />
@@ -163,6 +164,7 @@
     
   <!-- System -->
   <project path="system/core" name="system_core" remote="xtended" />
+  <project path="system/media" name="system_media" remote="xtended" />
   <project path="system/security" name="system_security" remote="xtended" />
   <project path="system/vold" name="system_vold" remote="xtended" />
   
