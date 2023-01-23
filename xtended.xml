@@ -136,6 +136,7 @@
   <project path="packages/apps/Launcher3" name="packages_apps_Launcher3" groups="pdk-fs" remote="xtended" />
   <project path="packages/apps/Messaging" name="packages_apps_Messaging" groups="pdk-fs" remote="xtended" />
   <project path="packages/apps/Nfc" name="packages_apps_Nfc" remote="xtended" />
+  <project path="packages/apps/ParallelSpace" name="packages_apps_ParallelSpace" remote="xtended" />
   <project path="packages/apps/RepainterServicePriv" name="kdrag0n/android_packages_apps_RepainterServicePriv" remote="github" revision="main" />
   <project path="packages/apps/Settings" name="packages_apps_Settings" groups="pdk-fs" remote="xtended" />
   <project path="packages/apps/SettingsIntelligence" name="packages_apps_SettingsIntelligence" groups="pdk-fs" remote="xtended" />
