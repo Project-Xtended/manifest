@@ -40,6 +40,10 @@
     <linkfile src="bootstrap.bash" dest="bootstrap.bash" />
   </project>
   
+  <!-- Prebuilts -->
+  <project path="prebuilts/clang/host/linux-x86/clang-trb" name="varunhardgamer/trb_clang" clone-depth="1" revision="17" remote="gitlab" />
+  <project path="prebuilts/clang/host/linux-x86/clang-playground" name="PixelOS-Devices/playgroundtc" clone-depth="1" revision="17" remote="gitlab" />
+
   <!-- External -->
   <project path="external/colorkt" name="external_colorkt" remote="xtended" />
   <project path="external/faceunlock" name="external_faceunlock" remote="x-gitlab" />
