@@ -19,14 +19,14 @@
            fetch="https://github.com/Xtended-Devices" />
            
   <!-- Xtended Repos -->
-  <project path="art" name="art" groups="pdk" remote="xtended" />
-  <project path="bionic" name="bionic" groups="pdk" remote="xtended" />
+  <project path="art" name="art" groups="pdk" remote="xtended" revision="r35" />
+  <project path="bionic" name="bionic" groups="pdk" remote="xtended" revision="r35" />
 
   <!-- Bootable -->
-  <project path="bootable/recovery" name="bootable_recovery" groups="pdk" remote="xtended" />
+  <project path="bootable/recovery" name="bootable_recovery" groups="pdk" remote="xtended" revision="r35" />
 
   <!-- Build -->
-  <project path="build/make" name="build" groups="pdk" remote="xtended" >
+  <project path="build/make" name="build" groups="pdk" remote="xtended" revision="r35" >
     <copyfile src="core/root.mk" dest="Makefile" />
     <linkfile src="CleanSpec.mk" dest="build/CleanSpec.mk" />
     <linkfile src="buildspec.mk.default" dest="build/buildspec.mk.default" />
@@ -35,7 +35,7 @@
     <linkfile src="target" dest="build/target" />
     <linkfile src="tools" dest="build/tools" />
   </project>
-  <project path="build/soong" name="build_soong" groups="pdk,tradefed" remote="xtended" >
+  <project path="build/soong" name="build_soong" groups="pdk,tradefed" remote="xtended" revision="r35" >
     <linkfile src="root.bp" dest="Android.bp" />
     <linkfile src="bootstrap.bash" dest="bootstrap.bash" />
   </project>
@@ -49,12 +49,12 @@
   <project path="external/zlib" name="external_zlib-ng" remote="xtended" />
   
   <!-- Frameworks -->
-  <project path="frameworks/av" name="frameworks_av" groups="pdk" remote="xtended" />
+  <project path="frameworks/av" name="frameworks_av" groups="pdk" remote="xtended" revision="r35" />
   <project path="frameworks/base" name="frameworks_base" groups="pdk-cw-fs,pdk-fs" remote="xtended" />
-  <project path="frameworks/libs/systemui" name="frameworks_libs_systemui" groups="pdk-cw-fs,pdk-fs" remote="xtended" />
-  <project path="frameworks/native" name="frameworks_native" groups="pdk" remote="xtended" />
-  <project path="frameworks/opt/net/wifi" name="frameworks_opt_net_wifi" remote="xtended" />
-  <project path="frameworks/opt/telephony" name="frameworks_opt_telephony" remote="xtended" />
+  <project path="frameworks/libs/systemui" name="frameworks_libs_systemui" groups="pdk-cw-fs,pdk-fs" remote="xtended" revision="r35" />
+  <project path="frameworks/native" name="frameworks_native" groups="pdk" remote="xtended" revision="r35" />
+  <project path="frameworks/opt/net/wifi" name="frameworks_opt_net_wifi" remote="xtended" revision="r35" />
+  <project path="frameworks/opt/telephony" name="frameworks_opt_telephony" remote="xtended" revision="r35" />
 
   <!-- Hardware -->
   <project path="hardware/qcom-caf/common" name="hardware_qcom-caf_common" remote="xtended" >
@@ -81,8 +81,8 @@
     <linkfile src="os_pickup.bp" dest="vendor/nxp/opensource/sn100x/Android.bp" />
     <linkfile src="os_pickup.mk" dest="vendor/nxp/opensource/sn100x/Android.mk" />
   </project>
-  <project path="hardware/interfaces" name="hardware_interfaces" remote="xtended" />
-  <project path="hardware/libhardware" name="hardware_libhardware" remote="xtended" />
+  <project path="hardware/interfaces" name="hardware_interfaces" remote="xtended" revision="r35" />
+  <project path="hardware/libhardware" name="hardware_libhardware" remote="xtended" revision="r35" />
   <project path="hardware/qcom-caf/bootctrl" name="hardware_qcom_bootctrl" remote="xtended" revision="xt-caf" />
   <project path="hardware/qcom-caf/bt" name="hardware_qcom_bt" groups="qcom,legacy-qcom" remote="xtended" revision="xt-caf" />
   <project path="hardware/xtended/interfaces" name="hardware_xtended_interfaces" groups="pdk" remote="xtended" />
@@ -126,35 +126,35 @@
     
   <!-- Packages -->
   <project path="packages/apps/Aperture" name="packages_apps_Aperture" remote="xtended" />
-  <project path="packages/apps/Contacts" name="packages_apps_Contacts" groups="pdk-fs" remote="xtended" />
+  <project path="packages/apps/Contacts" name="packages_apps_Contacts" groups="pdk-fs" remote="xtended" revision="r35" />
   <project path="packages/apps/DeskClock" name="packages_apps_DeskClock" groups="pdk-fs" remote="xtended" />
-  <project path="packages/apps/Dialer" name="packages_apps_Dialer" groups="pdk-fs" remote="xtended" />
-  <project path="packages/apps/DocumentsUI" name="packages_apps_DocumentsUI" groups="pdk-cw-fs,pdk-fs" remote="xtended" />
+  <project path="packages/apps/Dialer" name="packages_apps_Dialer" groups="pdk-fs" remote="xtended" revision="r35" />
+  <project path="packages/apps/DocumentsUI" name="packages_apps_DocumentsUI" groups="pdk-cw-fs,pdk-fs" remote="xtended" revision="r35" />
   <project path="packages/apps/ExactCalculator" name="packages_apps_ExactCalculator" remote="xtended" />
   <project path="packages/apps/FaceUnlockService" name="packages_apps_FaceUnlockService" remote="x-gitlab" />
   <project path="packages/apps/Gallery2" name="packages_apps_Gallery2" groups="pdk-fs" remote="xtended" />
-  <project path="packages/apps/GameSpace" name="packages_apps_GameSpace" remote="xtended" />
-  <project path="packages/apps/Launcher3" name="packages_apps_Launcher3" groups="pdk-fs" remote="xtended" />
-  <project path="packages/apps/Messaging" name="packages_apps_Messaging" groups="pdk-fs" remote="xtended" />
-  <project path="packages/apps/Nfc" name="packages_apps_Nfc" remote="xtended" />
+  <project path="packages/apps/GameSpace" name="packages_apps_GameSpace" remote="xtended" revision="wip" />
+  <project path="packages/apps/Launcher3" name="packages_apps_Launcher3" groups="pdk-fs" remote="xtended" revision="r35" />
+  <project path="packages/apps/Messaging" name="packages_apps_Messaging" groups="pdk-fs" remote="xtended" revision="wip" />
+  <project path="packages/apps/Nfc" name="packages_apps_Nfc" remote="xtended" revision="r35" />
   <project path="packages/apps/ParallelSpace" name="packages_apps_ParallelSpace" remote="xtended" />
   <project path="packages/apps/RepainterServicePriv" name="kdrag0n/android_packages_apps_RepainterServicePriv" remote="github" revision="main" />
   <project path="packages/apps/Settings" name="packages_apps_Settings" groups="pdk-fs" remote="xtended" />
-  <project path="packages/apps/SettingsIntelligence" name="packages_apps_SettingsIntelligence" groups="pdk-fs" remote="xtended" />
-  <project path="packages/apps/ThemePicker" name="packages_apps_ThemePicker" remote="xtended" />
-  <project path="packages/apps/WallpaperPicker2" name="packages_apps_WallpaperPicker2" remote="xtended" />
+  <project path="packages/apps/SettingsIntelligence" name="packages_apps_SettingsIntelligence" groups="pdk-fs" remote="xtended" revision="r35" />
+  <project path="packages/apps/ThemePicker" name="packages_apps_ThemePicker" remote="xtended" revision="r35" />
+  <project path="packages/apps/WallpaperPicker2" name="packages_apps_WallpaperPicker2" remote="xtended" revision="r35" />
   <project path="packages/apps/Xtensions" name="packages_apps_Xtensions" remote="xtended" />
-  <project path="packages/modules/Bluetooth" name="packages_modules_Bluetooth" remote="xtended" />
-  <project path="packages/modules/Connectivity" name="packages_modules_Connectivity" remote="xtended" />
+  <project path="packages/modules/Bluetooth" name="packages_modules_Bluetooth" remote="xtended" revision="r35" />
+  <project path="packages/modules/Connectivity" name="packages_modules_Connectivity" remote="xtended" revision="r35" />
   <project path="packages/modules/NetworkStack" name="packages_modules_NetworkStack" remote="xtended" />
-  <project path="packages/modules/Permission" name="packages_modules_Permission" remote="xtended" />
-  <project path="packages/modules/Wifi" name="packages_modules_Wifi" remote="xtended" />
+  <project path="packages/modules/Permission" name="packages_modules_Permission" remote="xtended" revision="r35" />
+  <project path="packages/modules/Wifi" name="packages_modules_Wifi" remote="xtended" revision="r35" />
   <project path="packages/services/OmniJaws" name="packages_services_OmniJaws" remote="xtended" />
-  <project path="packages/services/Telephony" name="packages_services_Telephony" remote="xtended" />
-  <project path="packages/services/Telecomm" name="packages_services_Telecomm" remote="xtended" />
+  <project path="packages/services/Telephony" name="packages_services_Telephony" remote="xtended" revision="r35" />
+  <project path="packages/services/Telecomm" name="packages_services_Telecomm" remote="xtended" revision="r35" />
 
   <!-- providers -->
-  <project path="packages/providers/ContactsProvider" name="packages_providers_ContactsProvider" remote="xtended" />
+  <project path="packages/providers/ContactsProvider" name="packages_providers_ContactsProvider" remote="xtended" revision="r35" />
  
   <!-- Sepolicy -->
   <project path="device/qcom/sepolicy_vndr-legacy-um" name="device_qcom_sepolicy_vndr-legacy-um" remote="xtended" />
@@ -162,13 +162,13 @@
   <project path="device/qcom/sepolicy-legacy-um" name="device_qcom_sepolicy-legacy-um" remote="xtended" />
   <project path="device/qcom/sepolicy" name="device_qcom_sepolicy" remote="xtended" />
   <project path="device/xtended/sepolicy" name="device_xtended_sepolicy" remote="xtended" />
-  <project path="system/sepolicy" name="system_sepolicy" remote="xtended" />
+  <project path="system/sepolicy" name="system_sepolicy" remote="xtended" revision="r35" />
     
   <!-- System -->
-  <project path="system/core" name="system_core" remote="xtended" />
-  <project path="system/media" name="system_media" remote="xtended" />
+  <project path="system/core" name="system_core" remote="xtended" revision="r35" />
+  <project path="system/media" name="system_media" remote="xtended" revision="r35" />
   <project path="system/security" name="system_security" remote="xtended" />
-  <project path="system/vold" name="system_vold" remote="xtended" />
+  <project path="system/vold" name="system_vold" remote="xtended" revision="r35" />
   
   <!-- Tools -->
   <project path="tools/platform-compat" name="tools_platform-compat" remote="xtended" />
@@ -177,7 +177,7 @@
   <project path="vendor/codeaurora/telephony" name="vendor_codeaurora_telephony" remote="xtended" />
   <project path="vendor/gapps" name="gapps/vendor_gapps" remote="x-gitlab" />
   <project path="vendor/support" name="vendor_support" remote="xtended" />
-  <project path="vendor/xtended" name="vendor_xtended" remote="xtended" />
-  <project path="vendor/xtras" name="vendor_xtras" remote="xtended" />
+  <project path="vendor/xtended" name="vendor_xtended" remote="xtended" revision="wip" />
+  <project path="vendor/xtras" name="vendor_xtras" remote="xtended" revision="wip" />
 
 </manifest>
