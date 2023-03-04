@@ -148,6 +148,7 @@
   <project path="packages/modules/NetworkStack" name="packages_modules_NetworkStack" remote="xtended" />
   <project path="packages/modules/Permission" name="packages_modules_Permission" remote="xtended" />
   <project path="packages/modules/Wifi" name="packages_modules_Wifi" remote="xtended" />
+  <project path="packages/services/OmniJaws" name="packages_services_OmniJaws" remote="xtended" />
   <project path="packages/services/Telephony" name="packages_services_Telephony" remote="xtended" />
   <project path="packages/services/Telecomm" name="packages_services_Telecomm" remote="xtended" />
 
