@@ -164,6 +164,7 @@
     
   <!-- System -->
   <project path="system/core" name="system_core" remote="xtended" />
+  <project path="system/libhidl" name="system_libhidl" remote="xtended" />  
   <project path="system/media" name="system_media" remote="xtended" />
   <project path="system/security" name="system_security" remote="xtended" />
   <project path="system/vold" name="system_vold" remote="xtended" />
