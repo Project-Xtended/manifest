@@ -144,6 +144,7 @@
   <project path="packages/apps/WallpaperPicker2" name="packages_apps_WallpaperPicker2" remote="xtended" />
   <project path="packages/apps/Xtensions" name="packages_apps_Xtensions" remote="xtended" />
   <project path="packages/apps/KProfiles" name="CannedShroud/android_packages_apps_KProfiles" remote="github" revision="main" />
+  <project path="packages/apps/ViPER4AndroidFX" name="TogoFire/packages_apps_ViPER4AndroidFX" remote="github" revision="v4a" />
   <project path="packages/modules/Bluetooth" name="packages_modules_Bluetooth" remote="xtended" />
   <project path="packages/modules/Connectivity" name="packages_modules_Connectivity" remote="xtended" />
   <project path="packages/modules/NetworkStack" name="packages_modules_NetworkStack" remote="xtended" />
